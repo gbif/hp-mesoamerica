@@ -25,7 +25,7 @@ var siteConfig = {
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
-    rootPredicate: { type: 'equals', key: 'taxonKey', value: 5 }, 
+    rootPredicate: { type: 'in', key: 'country', values: ['CR','MX','GT','PA','SV','HN','NI'] }, 
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   }
