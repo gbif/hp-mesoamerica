@@ -3,8 +3,8 @@ lang-ref: home
 layout: home
 title: redbiome - EN
 description: Data Science Network for the Conservation of Mesoamerican Biodiversity
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
+background:  "{{ site.data.images.tabasco.src }}"
+imageLicense: "{{ site.data.images.tabasco.caption }}"
 height: 90vh
 cta:
   - text: Institutions
@@ -16,8 +16,6 @@ cta:
     href: /about
 composition:
   - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
   - type: split
     data: examples.herbariumImageExample
   - type: features
