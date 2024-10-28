@@ -1,3 +1,8 @@
+# The translations on this page is machine generated and need a review
+# reviewed languages: es (add others as they are reviewed)
 en:
   label: English
-  icon:  # optional
+  archive_permalink: /post/
+es:
+  label: Español
+  archive_permalink: /es/post/

@@ -10,7 +10,7 @@ cta:
   - text: Institutions
     href: /institution/search
     isPrimary: true
-  - text: Specimens
+  - text: Occurrence records
     href: /occurrence/search
   - text: About
     href: /about

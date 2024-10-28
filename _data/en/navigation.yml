@@ -1,0 +1,20 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: About
+  href: /en/about
+- text: News
+  href: /en/news
+- text: Colaboration
+  href: /en/colaboration
+- text: Courses
+  href: /en/courses
+- text: Credits
+  href: /en/credits
+- text: Data
+  menu: 
+  - text: Occurrences
+    href: /en/occurrence/search
+  - text: Institutions
+    href: /en/institution/search
+  - text: Collections
+    href: /en/collection/search
