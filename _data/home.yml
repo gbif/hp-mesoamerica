@@ -1,0 +1,66 @@
+stats:
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=CR&country=MX&country=GT&country=PA&country=SV&country=HN&country=NI&notissues=COUNTRY_COORDINATE_MISMATCH">45</span>
+      description: Registros biológicos
+      background: assets/images/placeholders/specimen.png
+      href: /occurrence/search 
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT">45</span>
+      description: Conjuntos de datos
+      background: assets/images/placeholders/collections.png
+      href: /dataset/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution/search?country=CR&country=NI&country=PA&country=MX&country=HN&country=GT&country=SV&displayOnNHCPortal=true">45</span>
+      description: Instituciones
+      background: assets/images/placeholders/blocks2.png
+      href: /institution/search
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI">45</span>
+      description: Publicaciones
+      background: assets/images/placeholders/institutions_small.jpg
+      href: /literature/search
+info: 
+  reverse: false
+  title: "Información"
+  description: |      # required
+   El objetivo de la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región. 
+   Este proyecto permitirá fortalecer alianzas entre instituciones de la región mesoamericana, conocer algunas de las necesidades de los participantes asociadas al uso sostenible y la conservación de la biodiversidad, implementar un portal de datos abiertos que integre datos e información sobre biodiversidad y fortalecer capacidades en temas de ciencia de datos para apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad dando prioridad a los grupos más vulnerables de la población mesoamericana.
+  # img required
+  background: assets/images/banners/Melastomaceae.jpg
+  imageLicense: |
+    *Melastomaceae*. Photo by Tania Urquiza
+  cta:
+  - text: Participar de las actividades
+    href: https://forms.gle/gq98uQN32xz9uBx87
+    isPrimary: true
+  - text: Acerca de
+    href: /about
+    isPrimary: false
+proyectos: 
+  title: "Proyectos"
+  description: |
+    Directorio de los proyectos de los cursos impartidos 
+  features:
+    - title: Introducción a Python para Ciencia de Datos
+      description: |      # required
+        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+      # img required
+      background: assets/images/banners/leaf.jpg
+      href: /about
+
+    - title: Aprendizaje Automático Aplicado a Datos de Biodiversidad
+      href: /about
+      description: |      # required
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: assets/images/banners/leaf.jpg
+      href: /about
+      categories: [cat, dog]
+    - title: Programa de Ciencia de Datos
+      href: /about
+      description: |      # required
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: assets/images/banners/leaf.jpg
+      href: /about
+    - title: Lenguaje de Programación R
+      href: /about
+      description: |      # required
+        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+      background: assets/images/banners/leaf.jpg
+      href: /about

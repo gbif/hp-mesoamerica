@@ -1,19 +1,11 @@
 ---
 lang-ref: home
 layout: home
-title: redbiome - EN
+title: redbioma
 description: Data Science Network for the Conservation of Mesoamerican Biodiversity
 background:  "{{ site.data.images.tabasco.src }}"
 imageLicense: "{{ site.data.images.tabasco.caption }}"
-height: 90vh
-cta:
-  - text: Institutions
-    href: /institution/search
-    isPrimary: true
-  - text: Occurrence records
-    href: /occurrence/search
-  - text: About
-    href: /about
+height: 70vh
 composition:
   - type: heroImage # the block type
   - type: split
