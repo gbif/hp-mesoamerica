@@ -38,29 +38,24 @@ proyectos:
   description: |
     Directorio de los proyectos de los cursos impartidos 
   features:
-    - title: Introducción a Python para Ciencia de Datos
+    - preTitle: Proyectos
+      title: Introducción a Python para Ciencia de Datos
       description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
+        El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python.
       # img required
       background: assets/images/banners/leaf.jpg
       href: /about
-
-    - title: Aprendizaje Automático Aplicado a Datos de Biodiversidad
+    - preTitle: Proyectos      
+      title: Aprendizaje Automático Aplicado a Datos de Biodiversidad
       href: /about
       description: |      # required
-        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        El presente curso se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de Aprendizaje Automático (utilizando el lenguaje Python).
       background: assets/images/banners/leaf.jpg
       href: /about
-      categories: [cat, dog]
-    - title: Programa de Ciencia de Datos
+    - preTitle: Proyectos
+      title: Lenguaje de Programación R
       href: /about
       description: |      # required
-        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
-      background: assets/images/banners/leaf.jpg
-      href: /about
-    - title: Lenguaje de Programación R
-      href: /about
-      description: |      # required
-        Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
+        El curso está enfocado en introducir algunas de las herramientas básicas para hacer ciencia de datos usando el lenguaje R. 
       background: assets/images/banners/leaf.jpg
       href: /about
