@@ -3,25 +3,26 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Colaboradores 
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: International Development Research Centre (IDRC-CDRI)
+      href: https://idrc-crdi.ca/es
+    - text: Consejo Superior Universitario Centroamericano (CSUCA)
+      href: https://sicevaes.csuca.org/
+    - text: Comisión para el Desarrollo Científico y Tecnológico de Centroamérica y Panamá (CTCAP)
+      href: https://www.sica.int/ctcap/inicio
+    - text: Sistema de la Integración Centroamericana (SICA)
+      href: https://www.sica.int/
 
-  - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+  - name: Contacto
+    links: 
+    - text: maria.mora@itcr.ac.cr
+      href: maria.mora@itcr.ac.cr
+  - name: 
+    description: |
+      <img src="/assets/images/banners/cintillo1.png" width="auto" height="200"><br/><br/>
+      <img src="/assets/images/banners/cintillo2.png" width="auto" height="200"><br/><br/>
   
-  - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
-    connectIcons: true
-
   # EXAMPLE
   #- name: Group name
   #  description: |

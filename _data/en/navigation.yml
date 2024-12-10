@@ -18,3 +18,7 @@
     href: /en/institution/search
   - text: Collections
     href: /en/collection/search
+  - text: Datasets 
+    href: /en/dataset/search
+  - text: Releases
+    href: /en/literature/search

@@ -12,9 +12,13 @@
   href: /credits
 - text: Datos
   menu: 
-  - text: Occurrences
+  - text: Registros biológicos
     href: /occurrence/search
-  - text: Institutions
+  - text: Instituciones
     href: /institution/search
-  - text: Collections
+  - text: Colecciones
     href: /collection/search
+  - text: Conjuntos de datos 
+    href: /dataset/search
+  - text: Publicaciones
+    href: /literature/search
