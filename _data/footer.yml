@@ -20,8 +20,8 @@ columns:
       href: maria.mora@itcr.ac.cr
   - name: 
     description: |
-      <img src="assets/images/banners/cintillo1.png" width="auto" height="200"><br/><br/>
-      <img src="assets/images/banners/cintillo2.png" width="auto" height="200"><br/><br/>
+      <img src="/assets/images/banners/cintillo1.png" width="auto" height="200"><br/><br/>
+      <img src="/assets/images/banners/cintillo2.png" width="auto" height="200"><br/><br/>
   
   # EXAMPLE
   #- name: Group name
