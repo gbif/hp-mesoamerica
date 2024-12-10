@@ -19,4 +19,6 @@
   - text: Colecciones
     href: /collection/search
   - text: Conjuntos de datos 
-    href: dataset/search
+    href: /dataset/search
+  - text: Publicaciones
+    href: /literature/search
