@@ -25,7 +25,7 @@ info:
   # img required
   background: assets/images/banners/Melastomaceae.jpg
   imageLicense: |
-    *Melastomaceae*. Photo by Tania Urquiza
+    *Melastomaceae*. Photo: Tania Urquiza
   cta:
   - text: Be part of the activities
     href: https://forms.gle/gq98uQN32xz9uBx87
