@@ -1,116 +1,102 @@
 ---
-title: Acerca de - EN
+layout: heroImage
+title: About redbioma
+description: Data Science Network for the Conservation of Mesoamerican Biodiversity
+background:  "{{ site.data.images.ara_macao.src }}"
+imageLicense: "{{ site.data.images.ara_macao.caption_en }}"
+height: 55vh
 lang-ref: about
 toc: true
-background: /assets/images/banners/Mariposa_recortada.PNG
-imageLicense: |
-  TODO: you should write a license or caption here
-layout: post
+cta: 
+- text: Participate in activities
+  href: https://forms.gle/gq98uQN32xz9uBx87
+  isPrimary: true 
 ---
 
-## Sobre la red
+# About us
 
 <div style="text-align: justify">
-El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
+The network's goal is to propose solutions to conservation problems through data science, with a strong focus on capacity building and empowering women in the region.
 <br><br>
-Este proyecto permitirá fortalecer alianzas entre instituciones de la región mesoamericana, conocer algunas de las necesidades de las personas participantes asociadas al uso sostenible y la conservación de la biodiversidad, implementar un portal de datos abiertos que integre datos e información sobre biodiversidad y fortalecer capacidades en temas de ciencia de datos para apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad dando prioridad a los grupos más vulnerables de la población mesoamericana.
+This project will strengthen partnerships among institutions in the Mesoamerican region, identify some of the participants' needs related to the sustainable use and conservation of biodiversity, implement an open data portal that integrates data and information on biodiversity, and enhance capacities in data science to support the development of science, education, and biodiversity conservation, prioritizing the most vulnerable groups in the Mesoamerican population.
 </div>
 
-### Objetivos
-
+## General
 <div style="text-align: justify">
-<b>General</b>
-<br>
-Establecer una red mesoamericana de observadores e investigadores en biodiversidad para proponer soluciones a problemas
-de la conservación mediante ciencias de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento
-de mujeres de la región.
-
+To establish a Mesoamerican network of biodiversity observers and researchers to propose solutions to conservation problems through data science, with a strong focus on capacity building and empowering women in the region.
 </div>
 
 <br>
 
-![objetivos](/assets/images/thumbnails/objetivos_especificos.jpg)
+![objectives](/assets/images/thumbnails/objetivos_especificos.jpg)
 
+## Specific
 
-<br>
 <div style="text-align: justify">
-<b>Objetivos Específicos</b>
-<br>
-
 <ul>
-<li>Establecer una red mesoamericana de observadores e investigadores de la biodiversidad para fortalecer alianzas entre instituciones de la región y apoyar así el desarrollo de la ciencia, la educación y la conservación de la biodiversidad.</li>
-<li>Evaluar y priorizar las necesidades de los participantes asociadas al uso sostenible y la conservación de la biodiversidad en la región centroamericana.</li>
-<li>Implementar con software libre un portal mesoamericano de biodiversidad que integre datos de múltiples fuentes, para apoyar la investigación y la conservación.</li>
-<li>Fortalecer en mujeres de la región centroamericana capacidades de investigación por medio de talleres de análisis de datos de biodiversidad, cursos de nivelación en lenguajes de programación y del Programa de Ciencias de Datos para actualización profesional que ofrece la Escuela de Computación del ITCR.</li>
-<li>Fortalecer capacidades en agrupaciones comunitarias en mesoamérica en el uso de tecnología informática para la estandarización, integración, publicación y análisis de datos de biodiversidad.</li>
+    <li>Establish a Mesoamerican network of biodiversity observers and researchers to strengthen partnerships among institutions in the region and support the development of science, education, and biodiversity conservation.</li>
+    <li>Evaluate and prioritize participants' needs related to the sustainable use and conservation of biodiversity in the Central American region.</li>
+    <li>Implement a Mesoamerican biodiversity portal using open-source software that integrates data from multiple sources to support research and conservation.</li>
+    <li>Enhance research capabilities among women in the Central American region through biodiversity data analysis workshops, programming language leveling courses, and the Data Science Program for professional development offered by the ITCR School of Computing.</li>
+    <li>Strengthen capacities in community groups across Mesoamerica in using IT for the standardization, integration, publication, and analysis of biodiversity data.</li>
 </ul>
 
 </div>
 
-<br>
 
----
-
-### Públicos meta de la red
+# Target Audience
 
 <div style="text-align: justify">
-Personas que realicen investigación en la región mesoamericana en ingeniería forestal, biología, biodiversidad, estadística, ciencia de datos, tecnologías de la información, ingeniería y matemáticas, entre otras áreas relacionadas.
+Individuals conducting research in the Mesoamerican region in areas such as forestry engineering, biology, biodiversity, statistics, data science, information technologies, engineering, and mathematics, among other related fields.
 </div>
 
 <br>
 
----
+# Collaborators
 
-## ¿Quiénes somos?  
+## National Commission for the Knowledge and Use of Biodiversity (CONABIO)
 
 <div style="text-align: justify">
-    <b>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</b>
-    <br>
-    La <a href= "https://www.gob.mx/conabio">CONABIO</a> tiene la misión de promover, coordinar, apoyar y realizar actividades dirigidas al conocimiento de la diversidad biológica, así como a su conservación y uso sustentable para beneficio de la sociedad. Fue concebida como una organización de investigación aplicada, promotora de investigación básica, que compila y genera información sobre biodiversidad, desarrolla capacidades humanas en el área de informática de la biodiversidad y es fuente pública de información y conocimiento accesible para toda la sociedad.
+    <a href="https://www.gob.mx/conabio">CONABIO</a>'s mission is to promote, coordinate, support, and carry out activities aimed at understanding biological diversity, as well as its conservation and sustainable use for the benefit of society. It was conceived as an applied research organization that promotes basic research, compiles and generates information on biodiversity, develops human capacities in biodiversity informatics, and serves as a public source of accessible information and knowledge for society at large.
 </div>
 
 <br>
 
+## National Commission for Biodiversity Management (CONAGEBIO)
 <div style="text-align: justify">
-    <b>Comisión Nacional para la Gestión de la Biodiversidad <a href="https://www.conagebio.go.cr/">(CONAGEBIO)</a></b>
-    <br>
-    CONAGEBIO es un órgano de desconcentración máxima del Ministerio de Ambiente y Energía (MINAE) de Costa Rica, creado por la Ley de Biodiversidad Nº 7788. Debido a que Costa Rica, es considerada uno de los países con mayor riqueza biológica del mundo, se le dio la Misión a CONAGEBIO de articular la gestión integral de la biodiversidad para contribuir a su conservación y uso sostenible, promoviendo la participación de la sociedad y la distribución justa y equitativa de los beneficios derivados. Durante la construcción de la “Segunda Estrategia Nacional de Biodiversidad 2016-2025”, se identificó la necesidad de contar con un mecanismo integral que permita al Estado disponer de información certera sobre la biodiversidad, para que pueda ser integrada en la política y planificación nacional de desarrollo.
+    <a href="https://www.conagebio.go.cr/">CONAGEBIO</a> is a maximum deconcentration body of Costa Rica's Ministry of Environment and Energy (MINAE), created under Biodiversity Law No. 7788. Costa Rica, being one of the world's most biologically rich countries, tasked CONAGEBIO with articulating the comprehensive management of biodiversity to contribute to its conservation and sustainable use, promoting societal participation and the fair and equitable distribution of derived benefits. During the construction of the “Second National Biodiversity Strategy 2016-2025,” the need was identified for an integral mechanism enabling the state to access reliable biodiversity information, integrating it into national policy and development planning.
     <br><br>
-    Por tanto, la CONAGEBIO inició en el año 2017 el diseño de la Plataforma Informática para la Gestión del Conocimiento y la Información Nacional sobre la Biodiversidad de Costa Rica (PGCIB), la cual pasó a llamarse <a href="http://biodiversidad.go.cr/">BIODATACR.</a> La principal función de BIODATACR es proveer acceso libre y gratuito a datos e información sobre la biodiversidad de Costa Rica, por medio de tecnología informática que permita integrar y visualizar esta información para apoyar el desarrollo de la ciencia, la educación y la conservación de la biodiversidad. Asimismo, el gobierno de Costa Rica tomó la decisión de crear la Comisión Interinstitucional para la Gestión del Conocimiento y la Información sobre Biodiversidad (CIGECIB), la cual es el ente encargado de recomendar las estrategias y acciones necesarias para el desarrollo y consolidación de BIODATACR, así como de gestionar el apoyo técnico y financiero. Esta comisión actúa en forma ad honorem, bajo la coordinación de la CONAGEBIO. Actualmente, se encuentra conformada por un representante de cada una de las siguientes instituciones: CONAGEBIO, CENIGA, SINAC, MNCR, MICITT Y CONARE. Estas medidas se implementaron mediante el Decreto Ejecutivo 40725-MINAE, el cual creó la CIGECIB y declaró de interés público BIODATACR, para que así cuenten con permanencia en el tiempo y fundamentación legal.
+    Therefore, in 2017, CONAGEBIO began designing the Information Platform for Knowledge and Information Management on Costa Rica’s Biodiversity (PGCIB), later renamed <a href="http://biodiversidad.go.cr/">BIODATACR.</a> BIODATACR's primary function is to provide free and open access to data and information about Costa Rica’s biodiversity through IT that integrates and visualizes this information to support the development of science, education, and biodiversity conservation. Moreover, the government of Costa Rica decided to establish the Inter-Institutional Commission for Knowledge and Information Management on Biodiversity (CIGECIB), responsible for recommending strategies and actions necessary for BIODATACR's development and consolidation and managing technical and financial support. This commission operates ad honorem, coordinated by CONAGEBIO. Currently, it includes representatives from CONAGEBIO, CENIGA, SINAC, MNCR, MICITT, and CONARE. These measures were implemented under Executive Decree 40725-MINAE, which established CIGECIB and declared BIODATACR a matter of public interest to ensure its permanence and legal foundation over time.
 </div>
 
 <br>
 
+## National Council of Protected Areas (CONAP) 
 <div style="text-align: justify">
-    <b>Consejo Nacional de Áreas Protegidas <a href="https://conap.gob.gt/">(CONAP)</a>, Por medio del Nodo GBIF Guatemala, Sistema Nacional de Información sobre Diversidad Biológica “SNIBgt”</b>
-    <br>
-    La MISIÓN DEL CONAP es propiciar e impulsar la conservación, de Áreas Protegidas y la Diversidad Biológica, planificando, coordinando e implementando las políticas y modelos de conservación necesarios, trabajando conjuntamente con otros actores, contribuyendo al crecimiento desarrollo sostenible del País.
+    Through the GBIF Guatemala Node, the National Biodiversity Information System "SNIBgt," the mission of the <a href="https://conap.gob.gt/">CONAP</a> is to promote and support the conservation of protected areas and biological diversity by planning, coordinating, and implementing the necessary conservation policies and models, working jointly with other actors, and contributing to sustainable national development.
 </div>
 
 <br>
 
+## School of Computer Engineering, Costa Rica Institute of Technology (ITCR)
 <div style="text-align: justify">
-    <b>Escuela de Ingeniería en Computación, Instituto Tecnológico de Costa Rica (ITCR)</b>
-    <br>
-    El Tecnológico de Costa Rica <a href= "https://www.tec.ac.cr/">(TEC)</a> es una institución costarricense autónoma de educación superior universitaria, dedicada a la docencia, la investigación y la extensión de la tecnología y las ciencias conexas para el desarrollo del país.  La institución fue creada con la misión de contribuir al desarrollo integral del país, mediante formación del recurso humano, la investigación y la extensión; manteniendo el liderazgo científico, tecnológico y técnico, la excelencia académica y el estricto apego a las normas éticas, humanísticas y ambientales, desde una perspectiva universitaria estatal de calidad y competitividad a nivel nacional e internacional.
+    The Costa Rica Institute of Technology <a href="https://www.tec.ac.cr/">(TEC)</a> is an autonomous Costa Rican institution of higher education dedicated to teaching, research, and technology extension and related sciences for the country's development. The institution was created to contribute to the country's integral development by training human resources, conducting research, and offering outreach programs; maintaining scientific, technological, and technical leadership; upholding academic excellence and strict adherence to ethical, humanistic, and environmental norms, from a perspective of state university quality and competitiveness both nationally and internationally.
     <br><br>
-    La Escuela de Ingeniería en Computación del ITCR  tiene como misión contribuir a la sociedad costarricense en la generación de conocimiento científico-tecnológico en computación a través de la docencia, investigación, extensión y vinculación externa, basados en principios de excelencia académica, pertinencia social, regionalización, equidad y formación integral.
+    The ITCR School of Computer Engineering’s mission is to contribute to Costa Rican society by generating scientific and technological knowledge in computing through teaching, research, outreach, and external engagement, based on principles of academic excellence, social relevance, regionalization, equity, and comprehensive education.
 </div>
 
 <br>
 
+## Entomological Museum of León, Nicaragua
 <div style="text-align: justify">
-    <b>Museo Entomológico de León, Nicaragua</b>
-    <br>
-    El <a href="http://bio-nica.info/topic/index.html">Museo Entomológico de León</a> posee la mayor colección entomológica del país. Su director funge como Editor de la Revista Nicaragüense de Entomología (fundada en 1987) y de la revista Nicaragüense de Biodiversidad (fundada en 2015), ambas con el objetivo de divulgar los trabajos realizados en Nicaragua y países vecinos.calidad y competitividad a nivel nacional e internacional.
-    </div>
+    The <a href="http://bio-nica.info/topic/index.html">Entomological Museum of León</a> holds the largest entomological collection in Nicaragua. Its director serves as Editor of the Nicaraguan Entomology Journal (founded in 1987) and the Nicaraguan Biodiversity Journal (founded in 2015), both aimed at disseminating works conducted in Nicaragua and neighboring countries.
+</div>
 
 <br>
 
+## Manuel Vargas
 <div style="text-align: justify">
-    <b>Manuel Vargas. Investigador en Informática de la Biodiversidad</b>
-    <br>
-    <a href="https://github.com/mfvargas">Manuel Vargas</a> actualmente es profesor en la Escuela de Geografía de la UCR y también ha impartido clases en el Programa de Posgrado en Sistemas de Información Geográfica y Teledetección de la UCR y la UNA, la Maestría en Gestión del Recurso Hídrico de la UCR y el Programa de Posgrado en Computación e Informática de la UCR. El señor Vargas es informático especializado en procesamiento de información geoespacial. Sus áreas de trabajo incluyen también informática de la biodiversidad, clasificación del uso y cobertura de la tierra, y visualización y análisis de datos en general.  Como parte de su experiencia laboral, ha trabajado en el Instituto Nacional de Biodiversidad (INBio) y ha participado como consultor en diversos proyectos en la Conagebio, el PNUD, el IMN y el Catie, entre otras instituciones.
+    <a href="https://github.com/mfvargas">Manuel Vargas</a>, a researcher in biodiversity informatics, is currently a professor at the UCR School of Geography and has also taught in the Graduate Program in Geographic Information Systems and Remote Sensing at UCR and UNA, the Master's in Water Resource Management at UCR, and the UCR Graduate Program in Computing and Informatics. Mr. Vargas specializes in geospatial information processing. His work areas also include biodiversity informatics, land use and cover classification, and data visualization and analysis. In his professional experience, he has worked at the National Biodiversity Institute (INBio) and participated as a consultant on various projects with Conagebio, UNDP, IMN, and Catie, among other institutions.
 </div>
 
 <br>
