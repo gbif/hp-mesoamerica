@@ -44,7 +44,7 @@ proyectos:
         El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python.
       # img required
       background: assets/images/banners/leaf.jpg
-      href: /about
+      href: /proyectos/python_ciencia_datos
     - preTitle: Proyectos      
       title: Aprendizaje Automático Aplicado a Datos de Biodiversidad
       href: /about
