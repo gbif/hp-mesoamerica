@@ -12,7 +12,14 @@
 
 tabasco:
   src: /assets/images/banners/ArbolTabasco.jpg
-  caption: |
-    Tabebuia rosea. Photo: Tania Urquiza-Haas.
+  caption_en: |
+    *Tabebuia rosea.* Photo: Tania Urquiza-Haas.
+  caption_es: |
+    *Tabebuia rosea.* Foto: Tania Urquiza-Haas.
 
-
+ara_macao:
+  src: assets/images/banners/AraMacao.jpg
+  caption_en: |
+    *Ara Macao.* Photo: Tania Urquiza-Haas.
+  caption_es: |
+    *Ara Macao.* Foto: Tania Urquiza-Haas.
