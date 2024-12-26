@@ -1,6 +1,6 @@
 ---
-lang-ref: home
 layout: home
+lang-ref: home
 title: redbioma
 description: Red de Ciencia de datos para la Conservación de la Biodiversidad Mesoamericana 
 background:  "{{ site.data.images.tabasco.src }}"
