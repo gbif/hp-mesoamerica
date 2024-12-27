@@ -4,7 +4,7 @@ title: ¿Cómo participar?
 permalink: /collaboration
 lang-ref: collaboration
 background:  "{{ site.data.images.araMacao.src }}"
-imageLicense: "{{ site.data.images.araMacao.caption }}"
+imageLicense: "{{ site.data.images.araMacao.caption.es }}"
 ---
 
 <div style="text-align: justify">

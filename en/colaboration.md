@@ -4,7 +4,7 @@ title: How to join?
 permalink: /en/collaboration
 lang-ref: collaboration
 background:  "{{ site.data.images.araMacao.src }}"
-imageLicense: "{{ site.data.images.araMacao.caption }}"
+imageLicense: "{{ site.data.images.araMacao.caption.en }}"
 ---
 
 <div style="text-align: justify">
