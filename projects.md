@@ -2,15 +2,12 @@
 layout: heroImage
 title: Proyectos de Python para Ciencia de Datos 
 description: El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.
-background:  assets/images/banners/AlouattaPalliata.jpg
-imageLicense: |
- *Alouatta Palliata*. Photo by Tania Urquiza
-height: 41vh
+background:  "{{ site.data.images.tabasco.src }}"
+imageLicense: "{{ site.data.images.tabasco.caption_es }}"
+height: 55vh
+lang-ref: about
 permalink: /proyectos/python_ciencia_datos
-composition:
-  - type: heroImage # the block type
-    type: stats
-  - type: pageMarkdown
+
 ---
 <style>
   /* Estilo para el resumen (header)*/
@@ -42,7 +39,7 @@ composition:
 
 # Proyectos del curso
 
-<details>
+<details style="margin-bottom: 2rem;">
   <summary><strong>Periodo: Abril, 2024</strong></summary>
   <table>
     <thead>
