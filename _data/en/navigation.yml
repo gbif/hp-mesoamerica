@@ -2,12 +2,10 @@
 
 - text: About
   href: /en/about
-- text: News
-  href: /en/news
-- text: Collaboration
-  href: /en/collaboration
 - text: Courses
   href: /en/courses
+- text: Collaboration
+  href: /en/collaboration
 - text: Credits
   href: /en/credits
 - text: Data

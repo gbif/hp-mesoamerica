@@ -40,3 +40,12 @@ melastomaceae:
     en: "Melastomaceae. Photo: Tania Urquiza-Haas."
     es: "Melastomaceae. Foto: Tania Urquiza-Haas."
 
+form:
+  src: /assets/images/thumbnails/forms.png
+
+dia5:
+  src: /assets/images/thumbnails/dia5.png
+
+dia7:
+  src: /assets/images/thumbnails/dia7.png
+
