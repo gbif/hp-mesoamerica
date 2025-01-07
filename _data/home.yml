@@ -2,19 +2,19 @@ stats:
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=CR&country=MX&country=GT&country=PA&country=SV&country=HN&country=NI&notissues=COUNTRY_COORDINATE_MISMATCH">45</span>
       description: Registros biológicos
-      background: assets/images/placeholders/specimen.png
+      background: assets/images/icons/ico_registrosBiologicos.jpg
       href: /occurrence/search 
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT">45</span>
       description: Conjuntos de datos
-      background: assets/images/placeholders/collections.png
+      background: assets/images/icons/ico_conjuntoDatos.jpg
       href: /dataset/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution/search?country=CR&country=NI&country=PA&country=MX&country=HN&country=GT&country=SV&displayOnNHCPortal=true">45</span>
       description: Instituciones
-      background: assets/images/placeholders/blocks2.png
+      background: assets/images/icons/ico_instituciones.jpg
       href: /institution/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI">45</span>
       description: Publicaciones
-      background: assets/images/placeholders/institutions_small.jpg
+      background: assets/images/icons/ico_publicaciones.jpg
       href: /literature/search
 info: 
   reverse: false
@@ -40,25 +40,32 @@ proyectos:
   features:
     - preTitle: Proyectos
       title: Introducción a Python para Ciencia de Datos
-      description: |      # required
+      description: |
         El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python.
       # img required
-      background: assets/images/banners/leaf.jpg
+      background: assets/images/thumbnails/img_ficha_proyectosEstudiantes.jpg
       href: /proyectos/python_ciencia_datos
-    - preTitle: Proyectos      
-      title: Aprendizaje Automático Aplicado a Datos de Biodiversidad
+    - preTitle: Programas de curso      
+      title: Cursos libres 2024
       href: /about
-      description: |      # required
-        El presente curso se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de Aprendizaje Automático (utilizando el lenguaje Python).
-      background: assets/images/banners/leaf.jpg
+      description: |
+        Contenidos, tremario e información de los cursos impartidos.
+      background: assets/images/thumbnails/img_ficha_Programas.jpg
       href: /about
-    - preTitle: Proyectos
-      title: Lenguaje de Programación R
-      href: /about
-      description: |      # required
-        El curso está enfocado en introducir algunas de las herramientas básicas para hacer ciencia de datos usando el lenguaje R. 
-      background: assets/images/banners/leaf.jpg
-      href: /about
+    # - preTitle: Programas de curso      
+    #   title: Cursos libres 2024
+    #   href: /about
+    #   description: |      # required
+    #     El presente curso se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de Aprendizaje Automático (utilizando el lenguaje Python).
+    #   background: assets/images/thumbnails/img_ficha_Programas.jpg
+    #   href: /about
+    # - preTitle: Proyectos
+    #   title: Lenguaje de Programación R
+    #   href: /about
+    #   description: |      # required
+    #     El curso está enfocado en introducir algunas de las herramientas básicas para hacer ciencia de datos usando el lenguaje R. 
+    #   background: assets/images/banners/leaf.jpg
+    #   href: /about
 
 
 statsEn:
