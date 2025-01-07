@@ -14,16 +14,15 @@ Realizado por:  Juan Matheo Queché y Jesús Armando Ugalde-Gómez
 </h2>
 ---
 
-<br><br>
-
 # Presentación
+<br>
 
-![video de clase](https://youtu.be/uNOgwyZSG6M)
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/uNOgwyZSG6M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Cuaderno de Jupyter
-
+<br>
 <iframe 
     src="/assets/html/jesus_ugalde.html" 
     width="100%" 

@@ -14,17 +14,15 @@ Realizado por:  Joxual J. Araque Pérez.
 </h2>
 
 ---
-
-<br><br>
-
 # Presentación
+<br>
 
-![video de clase](https://youtu.be/zBmDiBcpltc)
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/zBmDiBcpltc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Cuaderno de Jupyter
-
+<br>
 <iframe 
     src="/assets/html/joxual_araque.html" 
     width="100%" 

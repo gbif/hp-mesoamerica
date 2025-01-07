@@ -15,9 +15,9 @@ Realizado por: Jimmy Barrantes Madrigal
 
 ---
 
-<br>
-
 # Cuaderno de Jupyter
+
+<br>
 
 <iframe 
     src="/assets/html/jimy_barrantes.html" 

@@ -15,15 +15,15 @@ Realizado por: Rosa María Estrada Hernández y Luis Andrés Arévalo Rodríguez
 
 ---
 
-<br><br>
-
 # Presentación
+<br>
 
-![video de clase](https://youtu.be/AG21QQ9XLso?si=m3IDV6i-ukJIWAQX)
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/AG21QQ9XLso?si=m3IDV6i-ukJIWAQX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Cuaderno de Jupyter
+<br>
 
 <iframe 
     src="/assets/html/rosa_estrada.html" 

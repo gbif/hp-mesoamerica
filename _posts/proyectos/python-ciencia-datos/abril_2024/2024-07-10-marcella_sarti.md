@@ -15,15 +15,15 @@ Realizado por: Marcella Sarti Arellano
 
 ---
 
-<br><br>
-
 # Presentación
+<br>
 
-![video de clase](https://youtu.be/pPjo1jyFyRU?si=-A-qGFf2S9OLtMeM)
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/pPjo1jyFyRU?si=-A-qGFf2S9OLtMeMc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Cuaderno de Jupyter
+<br>
 
 <iframe 
     src="/assets/html/marcella_sarti.html" 

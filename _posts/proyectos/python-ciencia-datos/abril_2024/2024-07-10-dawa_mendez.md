@@ -15,9 +15,9 @@ Realizado por:  Jose Pablo Jiménez y Dawa Méndez Álvarez
 
 ---
 
-<br>
-
 # Cuaderno de Jupyter
+
+<br>
 
 <iframe 
     src="/assets/html/dawa_mendez.html" 

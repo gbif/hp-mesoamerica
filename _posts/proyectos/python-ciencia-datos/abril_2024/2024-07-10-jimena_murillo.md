@@ -15,16 +15,15 @@ Realizado por: Jimena Murillo Montero y Diana Margarita Mojica Muñoz
 
 ---
 
-<br><br>
-
 # Presentación
+<br>
 
-![video de clase](https://www.youtube.com/watch?v=toNM_QoVPCk)
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/toNM_QoVPCk?si=8W8N5vD2oqB2Y0tt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Cuaderno de Jupyter
-
+<br>
 <iframe 
     src="/assets/html/jimena_murillo.html" 
     width="100%" 

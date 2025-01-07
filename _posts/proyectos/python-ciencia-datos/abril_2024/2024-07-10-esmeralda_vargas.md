@@ -14,11 +14,8 @@ Realizado por: Esmeralda Vargas Madrigal, Alexander Barrantes Herrera y Valeria 
 </h2>
 
 ---
-
-<br><br>
-
 # Presentación
-
+<br>
 <iframe width="100%" height="700" src="https://www.youtube.com/embed/o-96xgolR_A?si=A9Jf6G54KN-ylHzT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -26,6 +23,7 @@ Realizado por: Esmeralda Vargas Madrigal, Alexander Barrantes Herrera y Valeria 
 
 # Cuaderno de Jupyter
 
+<br>
 
 <iframe 
     src="/assets/html/esmeralda_vargas.html" 

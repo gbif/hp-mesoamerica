@@ -15,10 +15,10 @@ Realizado por: Adrián Varela Arquín
 </h2>
 
 ---
+# Cuaderno de Jupyter
 
 <br>
 
-# Cuaderno de Jupyter
 <iframe 
     src="/assets/html/adrian_varela.html" 
     width="100%" 

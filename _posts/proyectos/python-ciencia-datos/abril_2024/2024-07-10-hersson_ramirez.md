@@ -14,10 +14,10 @@ Realizado por:  Hersson Ramírez Molina y Sylvia Rodríguez Abarca
 </h2>
 
 ---
+# Cuaderno de Jupyter
 
 <br>
 
-# Cuaderno de Jupyter
 <iframe 
     src="/assets/html/hersson_ramirez.html" 
     width="100%" 

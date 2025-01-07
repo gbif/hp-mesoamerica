@@ -15,15 +15,16 @@ Realizado por:  Paris Rivera
 
 ---
 
-<br><br>
-
 # Presentación
+<br>
 
-![video de clase](https://youtu.be/uCHN7RGeBbc)
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/uCHN7RGeBbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Cuaderno de Jupyter
+
+<br>
 
 <iframe 
     src="/assets/html/paris_rivera.html" 

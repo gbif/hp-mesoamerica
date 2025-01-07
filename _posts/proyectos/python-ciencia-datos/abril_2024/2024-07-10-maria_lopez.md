@@ -15,16 +15,16 @@ Realizado por:  María Fernanda López
 
 ---
 
-<br><br>
-
 # Presentación
+<br>
 
-![video de clase](https://youtu.be/xunOB48qzgQ?si=so7RMx8uIrb8yl3U)
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/xunOB48qzgQ?si=so7RMx8uIrb8yl3Uc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Cuaderno de Jupyter
 
+<br>
 <iframe 
     src="/assets/html/maria_lopez.html" 
     width="100%" 

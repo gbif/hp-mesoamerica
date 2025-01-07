@@ -41,7 +41,8 @@ permalink: /proyectos/python_ciencia_datos
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=visibility" />
 
 <p style="text-align: justify;">
-El presente curso está enfocado a introducir conceptos básicos de Ciencia de Datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación. A continuación los proyectos realizados en los distintos peridos ....
+El presente curso está enfocado en introducir los conceptos básicos de Ciencia de Datos utilizando el lenguaje de programación Python. A lo largo del curso, los estudiantes adquirirán los conocimientos necesarios sobre la sintaxis y la semántica del lenguaje, logrando así un fundamento sólido que les permitirá abordar futuros proyectos en esta área de aplicación.
+En las siguientes secciones, se presentan los proyectos realizados por los estudiantes que participaron en el curso durante el periodo lectivo de abril de 2024.
 </p>
 
 <details style="margin-bottom: 2rem;">
