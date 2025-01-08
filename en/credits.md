@@ -1,17 +1,14 @@
 ---
-title: Créditos - EN
+layout: heroImage
+title: Credits
+permalink: /en/credits
 lang-ref: credits
-toc: true
-background: /assets/images/banners/Mariposa_recortada.PNG
-imageLicense: |
-  TODO: you should write a license or caption here
-layout: post
+background:  "{{ site.data.en.images.alouatta.src }}"
+imageLicense: "{{ site.data.en.images.alouatta.caption }}"
+height: 55vh
 ---
+
 
 <div style="text-align: justify">
-Este trabajo se llevó a cabo gracias a la subvención concedida por el Proyecto CSUCA-IDRC, financiado por el Centro Internacional de Investigaciones para el Desarrollo <a href="https://idrc-crdi.ca/es">(IDRC).</a>, Ottawa, Canadá, liderado por el Consejo Superior Universitario Centroamericano <a href="https://pridca.csuca.org/">(CSUCA)</a>. Las opiniones aquí expresadas no representan necesariamente las del CSUCA, IDRC o las de la Junta de Gobernadores
+This work has been accomplished thanks to the grant awarded by the CSUCA-IDRC Project, funded by the International Development Research Centre <a href="https://idrc-crdi.ca/">(IDRC)</a>, Ottawa, Canada, and led by the Central American University Superior Council <a href="https://pridca.csuca.org/">(CSUCA)</a>. The opinions expressed here do not reflect those of CSUCA, IDRC, or the Board of Governors.
 </div>
-
-<br>
-
----

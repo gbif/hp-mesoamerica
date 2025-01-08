@@ -19,3 +19,13 @@ ara_macao:
   src: assets/images/banners/AraMacao.jpg
   caption: |
     *Ara Macao.* Photo: Tania Urquiza-Haas.
+
+alouatta:
+  src: assets/images/banners/AlouattaPalliata.jpg
+  caption: |
+    *Alouatta Palliata.* Photo: Tania Urquiza-Haas.
+
+ateles:
+  src: assets/images/banners/AtelesGeoffroyi.jpg
+  caption: |
+    *Ateles Geoffroyi.* Photo: Tania Urquiza-Haas.

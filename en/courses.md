@@ -1,16 +1,16 @@
 ---
-title: Cursos - EN
-lang-ref: cursos
-toc: true
-background: /assets/images/banners/Mariposa_recortada.PNG
-imageLicense: |
-  TODO: you should write a license or caption here
-layout: post
+layout: heroImage
+title: Courses
+permalink: /en/courses
+lang-ref: courses
+background:  "{{ site.data.en.images.ateles.src }}"
+imageLicense: "{{ site.data.en.images.ateles.caption }}"
+height: 55vh
 ---
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=visibility" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=folder_open" />
 
-# Cursos
+# Courses
 
 <style>
 a, .material-symbols-outlined {
@@ -27,28 +27,28 @@ a, .material-symbols-outlined {
 <table>
   <thead>
     <tr>
-      <th>Programa del curso</th>
-      <th style="text-align: center;">Inicio</th>
-      <th style="text-align: center;">Fin</th>
-      <th>Instructores</th>
-      <th style="text-align: center;">Proyectos del curso</th>
+      <th>Course program</th>
+      <th style="text-align: center;">Start date</th>
+      <th style="text-align: center;">End date</th>
+      <th>Instructors</th>
+      <th style="text-align: center;">Course projects</th>
     </tr>
   </thead>
   <tbody>
-    {% for curso in site.data.courses %}
-      <tr>
-        <td><a href="{{ curso.programa }}">{{ curso.nombre }}</a></td>
-        <td>{{ curso.inicio }}</td>
-        <td>{{ curso.fin }}</td>
-        <td>{{ curso.instructores }}</td>
-        {% if curso.proyectos == "En proceso" %}
-          <td style="text-align: center;">{{ curso.proyectos }}</td>
-        {% else %}
-          <td style="text-align: center;">
-            <a href="{{ curso.proyectos }}" class="material-symbols-outlined">folder_open</a>
-          </td>
-        {% endif %}
-      </tr>
+    {% for c in site.data.en.courses %}
+    <tr>
+      <td><a href="{{ c.program }}">{{ c.name }}</a></td>
+      <td>{{ c.start }}</td>
+      <td>{{ c.finish }}</td>
+      <td>{{ c.instructors }}</td>
+      {% if c.projects == "In progress" %}
+        <td style="text-align: center;">{{ c.projects }}</td>
+      {% else %}
+        <td style="text-align: center;">
+          <a href="{{ curso.proyectos }}" class="material-symbols-outlined">folder_open</a>
+        </td>
+      {% endif %}
+    </tr>
     {% endfor %}
   </tbody>
 </table>

@@ -1,11 +1,11 @@
 ---
+layout: heroImage
 title: Cursos
-lang-ref: cursos
-toc: true
-background: /assets/images/banners/Mariposa_recortada.PNG
-imageLicense: |
-  TODO: you should write a license or caption here
-layout: post
+permalink: /courses
+lang-ref: courses
+background:  "{{ site.data.es.images.ateles.src }}"
+imageLicense: "{{ site.data.es.images.ateles.caption }}"
+height: 55vh
 ---
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=folder_open" />
@@ -35,20 +35,20 @@ a, .material-symbols-outlined {
     </tr>
   </thead>
   <tbody>
-    {% for curso in site.data.courses %}
-      <tr>
-        <td><a href="{{ curso.programa }}">{{ curso.nombre }}</a></td>
-        <td>{{ curso.inicio }}</td>
-        <td>{{ curso.fin }}</td>
-        <td>{{ curso.instructores }}</td>
-        {% if curso.proyectos == "En proceso" %}
-          <td style="text-align: center;">{{ curso.proyectos }}</td>
-        {% else %}
-          <td style="text-align: center;">
+    {% for c in site.data.es.courses %}
+    <tr>
+      <td><a href="{{ c.program }}">{{ c.name }}</a></td>
+      <td>{{ c.start }}</td>
+      <td>{{ c.finish }}</td>
+      <td>{{ c.instructors }}</td>
+      {% if c.projects == "En proceso" %}
+        <td style="text-align: center;">{{ c.projects }}</td>
+      {% else %}
+        <td style="text-align: center;">
             <a href="{{ curso.proyectos }}" class="material-symbols-outlined">folder_open</a>
-          </td>
-        {% endif %}
-      </tr>
+        </td>
+      {% endif %}
+    </tr>
     {% endfor %}
   </tbody>
 </table>
