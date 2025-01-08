@@ -3,7 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Colaboradores 
+  - name: PARTNERS 
     links:
     - text: International Development Research Centre (IDRC-CDRI)
       href: https://idrc-crdi.ca/es
@@ -14,7 +14,7 @@ columns:
     - text: Sistema de la Integración Centroamericana (SICA)
       href: https://www.sica.int/
 
-  - name: Contacto
+  - name: CONTACT
     links: 
     - text: maria.mora@itcr.ac.cr
       href: maria.mora@itcr.ac.cr

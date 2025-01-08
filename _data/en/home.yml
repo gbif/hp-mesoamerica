@@ -1,0 +1,82 @@
+stats:
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=CR&country=MX&country=GT&country=PA&country=SV&country=HN&country=NI&notissues=COUNTRY_COORDINATE_MISMATCH">45</span>
+      description: Biological records
+      background: assets/images/icons/ico_registrosBiologicos.jpg
+      href: /en/occurrence/search 
+
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT">45</span>
+      description: Datasets
+      background: assets/images/icons/ico_conjuntoDatos.jpg
+      href: /en/dataset/search
+
+    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution/search?country=CR&country=NI&country=PA&country=MX&country=HN&country=GT&country=SV&displayOnNHCPortal=true">45</span>
+      description: Institutions
+      background: assets/images/icons/ico_instituciones.jpg
+      href: /en/institution/search
+      
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI">45</span>
+      description: Publications
+      background: assets/images/icons/ico_publicaciones.jpg
+      href: /en/literature/search
+      
+info: 
+  reverse: false
+  title: "Information"
+  description: |      # required
+   <p style="font-size: 16px; text-align: justify;">The objective of the Data Science Network for the Conservation of Mesoamerican Biodiversity is to propose solutions to conservation problems through data science, with a strong component of capacity building and empowerment of women in the region. 
+   This project will strengthen alliances between institutions in the Mesoamerican region, learn about some of the needs of the participants associated with the sustainable use and conservation of biodiversity, implement an open data portal that integrates data and information on biodiversity and strengthen capacities in data science issues to support the development of science.  education and biodiversity conservation, giving priority to the most vulnerable groups of the Mesoamerican population.</p>
+  # img required
+  background: assets/images/banners/Melastomaceae.jpg
+  imageLicense: |
+    *Melastomaceae*. Photo by Tania Urquiza
+  cta:
+  - text: How to join
+    href: https://forms.gle/gq98uQN32xz9uBx87
+    isPrimary: true
+  - text: About
+    href: /about
+    # isPrimary: true
+
+courses: 
+  title: "Courses"
+  description: |
+    Directory of projects from the courses offered
+  features:
+    - preTitle: 2024
+      title: Introduction to Python for data science
+      background: assets/images/thumbnails/img_ficha_proyectosEstudiantes.jpg
+      cta:
+      - text: Projects
+        href: /projects/python_data_science
+        isPrimary: true
+
+      - text: Program
+        href: #
+        # isPrimary: true
+
+    - preTitle: 2024    
+      title: Machine learning applied to biodiversity data
+      background: assets/images/thumbnails/img_ficha_Programas.jpg
+      href: /about
+      cta:
+      - text: Projects
+        href: /projects/python_data_science
+        isPrimary: true
+
+      - text: Program
+        href: #
+        # isPrimary: true
+
+    - preTitle: 2024
+      title: R Programming Language
+      background: assets/images/banners/leaf.jpg
+      href: /about
+      cta:
+      - text: Projects
+        href: /projects/python_data_science
+        isPrimary: true
+
+      - text: Program
+        href: #
+        # isPrimary: true

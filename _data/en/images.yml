@@ -3,8 +3,8 @@
 # If you reuse images a lot, it can be convinent to only have them one place.
 
 # So in your frontmatter you can either use this data file :
-# background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
-# imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
+# background:  "{{ site.data.es.images.catocala_ilia_cramer.src }}"
+# imageLicense: "{{ site.data.es.images.catocala_ilia_cramer.caption }}"
 #
 # or you can just type it in that file
 # background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
@@ -12,14 +12,10 @@
 
 tabasco:
   src: /assets/images/banners/ArbolTabasco.jpg
-  caption_en: |
+  caption: |
     *Tabebuia rosea.* Photo: Tania Urquiza-Haas.
-  caption_es: |
-    *Tabebuia rosea.* Foto: Tania Urquiza-Haas.
 
 ara_macao:
   src: assets/images/banners/AraMacao.jpg
-  caption_en: |
+  caption: |
     *Ara Macao.* Photo: Tania Urquiza-Haas.
-  caption_es: |
-    *Ara Macao.* Foto: Tania Urquiza-Haas.

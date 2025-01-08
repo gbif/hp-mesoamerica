@@ -2,8 +2,8 @@
 layout: heroImage
 title: Sobre la redbioma
 description: Red de Ciencia de datos para la Conservación de la Biodiversidad Mesoamericana 
-background:  "{{ site.data.images.tabasco.src }}"
-imageLicense: "{{ site.data.images.tabasco.caption_es }}"
+background:  "{{ site.data.es.images.tabasco.src }}"
+imageLicense: "{{ site.data.es.images.tabasco.caption }}"
 height: 55vh
 lang-ref: about
 toc: true

@@ -2,11 +2,11 @@
 layout: heroImage
 title: Proyectos de Python para Ciencia de Datos 
 
-background:  "{{ site.data.images.tabasco.src }}"
-imageLicense: "{{ site.data.images.tabasco.caption_es }}"
+background:  "{{ site.data.es.images.tabasco.src }}"
+imageLicense: "{{ site.data.es.images.tabasco.caption }}"
 height: 55vh
 lang-ref: about
-permalink: /proyectos/python_ciencia_datos
+permalink: /projects/python_data_science
 
 ---
 <style>

@@ -1,0 +1,24 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Acerca de
+  href: /about
+- text: Actividades
+  href: /news
+- text: ¿Cómo participar?
+  href: /colaboration
+- text: Cursos
+  href: /courses
+- text: Créditos
+  href: /credits
+- text: Datos
+  menu: 
+  - text: Registros biológicos
+    href: /occurrence/search
+  - text: Instituciones
+    href: /institution/search
+  - text: Colecciones
+    href: /collection/search
+  - text: Conjuntos de datos 
+    href: /dataset/search
+  - text: Publicaciones
+    href: /literature/search

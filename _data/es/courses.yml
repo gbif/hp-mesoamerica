@@ -1,0 +1,53 @@
+# GIS - Enero 2025
+- name: "Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python"
+  start: "13/01/2025"
+  finish: "03/03/2025"
+  projects: "En proceso"
+  program: "/cursos/2024-12-sistemas-informacion-geografica.html"
+  instructors: "Manuel Vargas Del Valle"
+  form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
+
+# Ciencia de Datos - Julio 2024
+- name: "Programa de ciencia de datos"
+  start: "10/10/2024"
+  finish: "19/12/2024"
+  projects: "En proceso"
+  program: "/forms/invitacion-ciencia-datos.html"
+  instructors: "FundaTEC"
+  form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
+
+# Lenguaje de programación R - Octubre 2024
+- name: "Lenguaje de programación R"
+  start: "09/10/2024"
+  finish: "11/12/2024"
+  projects: "En proceso"
+  program: "/cursos/2024-08-lenguaje-programacion-R.html"
+  instructors: "Jonathan Solórzano Villegas"
+  form: "https://docs.google.com/forms/d/e/1FAIpQLSdND7N3UCjgXMbDp6ULa6TGbbnYhrCSA0rpcvrNhqKR1D42rQ/viewform?usp=sharing"
+
+# Python para ciencia de datos - Julio 2024
+- name: "Introducción a Python para ciencia de datos"
+  start: "24/07/2024"
+  finish: "11/09/2024"
+  projects: "En proceso"
+  program: "/cursos/2024-07-python-ciencia-datos.html"
+  instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Alejandro Quesada"
+  form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
+
+# Aprendizaje automático - Julio 2024
+- name: "Aprendizaje automático aplicado a datos de biodiversidad"
+  start: "08/07/2024"
+  finish: "26/08/2024"
+  projects: "En proceso"
+  program: "/cursos/2024-08-aprendizaje-automatico.html"
+  instructors: "Emilia Zeledón Lostalo"
+  form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
+
+# Python para ciencia de datos - Abril 2024
+- name: "Introducción a Python para ciencia de datos"
+  start: "03/04/2024"
+  finish: "28/05/2024"  
+  projects: "/proyectos/2024-04-python-ciencia-datos.html"
+  program: "/cursos/2024-07-python-ciencia-datos.html"
+  instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Ervin Rodríguez Villanueva"
+  form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
