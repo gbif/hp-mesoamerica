@@ -3,7 +3,7 @@
   start: "13/01/2025"
   finish: "03/03/2025"
   projects: "En proceso"
-  program: "/cursos/2024-12-sistemas-informacion-geografica.html"
+  program: "/courses/gis-program"
   instructors: "Manuel Vargas Del Valle"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
 
@@ -12,7 +12,7 @@
   start: "10/10/2024"
   finish: "19/12/2024"
   projects: "En proceso"
-  program: "/forms/invitacion-ciencia-datos.html"
+  program: "/forms/ds-program"
   instructors: "FundaTEC"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
 
@@ -21,7 +21,7 @@
   start: "09/10/2024"
   finish: "11/12/2024"
   projects: "En proceso"
-  program: "/cursos/2024-08-lenguaje-programacion-R.html"
+  program: "/courses/r-program"
   instructors: "Jonathan Solórzano Villegas"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSdND7N3UCjgXMbDp6ULa6TGbbnYhrCSA0rpcvrNhqKR1D42rQ/viewform?usp=sharing"
 
@@ -30,7 +30,7 @@
   start: "24/07/2024"
   finish: "11/09/2024"
   projects: "En proceso"
-  program: "/cursos/2024-07-python-ciencia-datos.html"
+  program: "/courses/python-program-07"
   instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Alejandro Quesada"
   form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
 
@@ -39,7 +39,7 @@
   start: "08/07/2024"
   finish: "26/08/2024"
   projects: "En proceso"
-  program: "/cursos/2024-08-aprendizaje-automatico.html"
+  program: "/courses/ml-program"
   instructors: "Emilia Zeledón Lostalo"
   form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
 
@@ -47,7 +47,7 @@
 - name: "Introducción a Python para ciencia de datos"
   start: "03/04/2024"
   finish: "28/05/2024"  
-  projects: "/proyectos/2024-04-python-ciencia-datos.html"
-  program: "/cursos/2024-07-python-ciencia-datos.html"
+  projects: "/projects/python_data_science"
+  program: "/courses/python-program-04"
   instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Ervin Rodríguez Villanueva"
   form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
