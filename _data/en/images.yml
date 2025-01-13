@@ -29,3 +29,17 @@ ateles:
   src: assets/images/banners/AtelesGeoffroyi.jpg
   caption: |
     *Ateles Geoffroyi.* Photo: Tania Urquiza-Haas.
+
+melastomaceae:
+  src: assets/images/banners/Melastomaceae.jpg
+  caption: |
+    *Melastomaceae.* Photo: Tania Urquiza-Haas.
+
+day5:
+  src: assets/images/thumbnails/dia5.png
+
+day7:
+  src: assets/images/thumbnails/dia7.png
+
+form:
+  src: assets/images/thumbnails/forms.png
