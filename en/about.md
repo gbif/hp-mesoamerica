@@ -4,8 +4,9 @@ title: About redbioma
 description: Data Science Network for the Conservation of Mesoamerican Biodiversity
 background:  "{{ site.data.en.images.tabasco.src }}"
 imageLicense: "{{ site.data.en.images.tabasco.caption }}"
-height: 55vh
+permalink: /en/about
 lang-ref: about
+height: 55vh
 toc: true
 cta: 
 - text: Participate in activities

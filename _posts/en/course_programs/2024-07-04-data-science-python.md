@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Introduction to Python for data science - July Course Program
+layout: post
+title: Introduction to Python for data science - July
 date:   2024-07-04 +0600
 categories: [Cursos]
 permalink: /en/courses/python-program-07
 lang-ref: python-program-07
-background: "{{ site.data.en.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.en.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Description

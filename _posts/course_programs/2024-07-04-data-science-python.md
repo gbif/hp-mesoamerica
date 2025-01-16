@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Programa del curso Introducción a Python para ciencia de datos - Julio
+layout: post
+title: Introducción a Python para ciencia de datos - Julio
 date:   2024-07-04 +0600
 categories: [Courses]
 permalink: /courses/python-program-07
 lang-ref: python-program-07
-background:  "{{ site.data.es.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.es.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Descripción

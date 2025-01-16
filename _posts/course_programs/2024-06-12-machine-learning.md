@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Programa del curso Aprendizaje automático aplicado a datos de biodiversidad
+layout: post
+title: Aprendizaje automático aplicado a datos de biodiversidad
 date:   2024-06-12 +0600
 categories: [Courses]
 permalink: /courses/ml-program
 lang-ref: ml-program
-background:  "{{ site.data.es.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.es.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Descripción

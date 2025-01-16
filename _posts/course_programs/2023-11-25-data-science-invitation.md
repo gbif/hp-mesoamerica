@@ -1,14 +1,10 @@
 ---
-layout: heroImage
+layout: post
 title: Formulario para participar del Programa de ciencia de datos (Requiere conocimientos de Python)
-subtitle: Formando personas líderes en ciencia de datos
 date:   2023-11-25 +0600
-categories: [Forms]
-tags: [Training, ITCR, STEM]
-permalink: /forms/ds-program
+categories: [Courses]
+permalink: /courses/ds-program
 lang-ref: ds-program
-background:  "{{ site.data.es.images.form.src }}"
-height: 55vh
 ---
 
 <div style="text-align: justify">

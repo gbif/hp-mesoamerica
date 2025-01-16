@@ -9,7 +9,7 @@ height: 55vh
 ---
 
 <div style="text-align: justify">
-The <b>Data Science Network for the Conservation of Mesoamerican Biodiversity (redbioma)</b> aims to create a dynamic connection between individuals and institutions to encourage Skill development and research in biodiversity conservation. Achieving these goals requires the support and engagement of all its members.
+The <b>Data Science Network for the Conservation of Mesoamerican Biodiversity (redbioma)</b> aims to create a dynamic connection between individuals and institutions to encourage Skill development and research in biodiversity conservation. Achieving these goals requires the support of all its members.
 
 <br>
 <br>
@@ -18,4 +18,22 @@ We encourage you to become an active member, not only by contributing data to pl
 <br><br>
 </div>
 
-If you are interested in participating in the our activities, please fill out the following form: [Participation Form](/formularios/invitacion-red.html). Or you can contact us via email: [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr)
+#### The activities of redbioma will
+
+<ul style="text-align: justify">
+
+<li>Reinforce alliances between institutions in the Mesoamerican region.</li>
+<li>Identify some of the needs of the participants related to the sustainable use and biodiversity conservation in the region.</li>
+<li>Implement an open data portal that integrates biodiversity data and information.</li>
+<li>Build skills in data science to support the development of science, education and biodiversity conservation, giving priority to the most vulnerable groups of the Mesoamerican population.</li>
+<li>By participating, you will be able to learn new tools and exchange experiences, data, and knowledge about biodiversity with people from the region.</li>
+</ul>
+
+
+#### Participation form
+
+If you are interested in participating in the our activities, please fill out the following form: [Participation form](https://forms.gle/gq98uQN32xz9uBx87). Or you can contact us via email: [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr)
+
+This form will allow us to identify the needs of our members interested in training activities and other topics related to the project. *Filling out the form wont take more than five minutes.*
+
+**Note:** *Personal data collected through this form will not be published and will only be used to identify IT needs of biodiversity in the region.*

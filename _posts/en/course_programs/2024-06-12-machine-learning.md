@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Machine Learning applied to biodiversity data Course Program
+layout: post
+title: Machine Learning applied to biodiversity data
 date: 2024-06-12 +0600
 categories: [Courses]
 permalink: /en/courses/ml-program
 lang-ref: ml-program
-background: "{{ site.data.en.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.en.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Description

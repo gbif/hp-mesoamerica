@@ -26,13 +26,12 @@ Este proyecto permitirá fortalecer alianzas entre instituciones de la región m
 
 ## General
 <div style="text-align: justify">
-Establecer una red mesoamericana de observadores e investigadores en biodiversidad para proponer soluciones a problemas
-de la conservación mediante ciencias de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento
+Establecer una red mesoamericana de observadores e investigadores en biodiversidad para proponer soluciones a problemas de la conservación mediante ciencias de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento
 de mujeres de la región.
 </div>
 <br>
 
-![objetivos](/assets/images/thumbnails/objetivos_especificos.jpg)
+![Foto: Tania Urquiza](/assets/images/thumbnails/objetivos_especificos.jpg){:standalone}
 
 ## Objetivos Específicos
 <div style="text-align: justify">

@@ -1,12 +1,10 @@
 ---
-layout: heroImage
-title: Programa del curso Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python
+layout: post
+title: Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python
+date:   2024-12-17 +0600
 categories: [Courses]
 permalink: /courses/gis-program
 lang-ref: gis-program
-background:  "{{ site.data.es.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.es.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Descripción

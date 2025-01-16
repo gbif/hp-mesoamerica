@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Introduction to Python for data science - April Course Program
+layout: post
+title: Introduction to Python for data science - April
 date: 2024-03-12 +0600
 categories: [Courses]
 permalink: /en/courses/python-program-04
 lang-ref: python-program-04
-background: "{{ site.data.en.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.en.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 

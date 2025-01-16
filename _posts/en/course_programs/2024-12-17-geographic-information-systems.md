@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Geospatial biodiversity data processing using the Python programming language Course Program
+layout: post
+title: Geospatial biodiversity data processing using the Python programming language
 date: 2024-12-17 +0600
 categories: [Courses]
 permalink: /en/courses/gis-program
 lang-ref: gis-program
-background: "{{ site.data.en.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.en.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Description

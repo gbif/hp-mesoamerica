@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Programa del curso Lenguaje de programación R
+layout: post
+title: Lenguaje de programación R
 date:   2024-08-10 +0600
 categories: [Courses]
 permalink: /courses/r-program
 lang-ref: r-program
-background:  "{{ site.data.es.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.es.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Descripción

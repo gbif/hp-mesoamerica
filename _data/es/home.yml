@@ -52,28 +52,50 @@ courses:
         isPrimary: true
 
       - text: Programa
-        href: #
-        # isPrimary: true
+        href: /courses/python-program-07
+
+      - text: Material
+        href: https://drive.google.com/drive/folders/1jY8WWazFvawhRQLPYivm09Gvr02RMdOp?usp=sharing
         
     - preTitle: 2024      
       title: Aprendizaje automático aplicado a biodiversidad
       background: assets/images/thumbnails/img_ficha_Programas.jpg
       cta:
       - text: Proyectos
-        href: /projects/python_data_science
+        href: #
         isPrimary: true
 
       - text: Programa
-        href: #
+        href: /courses/ml-program
+
+      - text: Material
+        href: https://drive.google.com/drive/folders/1uyxPKi8ZJ8Y_COrqXPGgvRFCeTHa3Yvm?usp=sharing
 
     - preTitle: 2024      
       title: Lenguaje de programación R
       background: assets/images/banners/leaf.jpg
       cta:
       - text: Proyectos
-        href: /projects/python_data_science
+        href: #
         isPrimary: true
         
       - text: Programa
+        href: /courses/r-program
+
+      - text: Material
+        href: https://jonathanvsv.github.io/CursoR/
+
+    - preTitle: 2024      
+      title: Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python
+      background: assets/images/banners/leaf.jpg
+      cta:
+      - text: Proyectos
         href: #
+        isPrimary: true
+        
+      - text: Programa
+        href: /courses/gis-program
+
+      - text: Material
+        href: https://datos-geoespaciales-biodiversidad.github.io/python/
 

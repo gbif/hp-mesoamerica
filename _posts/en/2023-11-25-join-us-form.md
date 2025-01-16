@@ -2,9 +2,7 @@
 layout: heroImage
 title: Form to participate in redbioma activities
 date:   2023-11-25 +0600
-categories: [Forms]
-tags: [Training, STEM]
-permalink: /en/forms/redbioma-form
+permalink: /en/redbioma-form
 lang-ref: redbioma-form
 background:  "{{ site.data.en.images.form.src }}"
 height: 55vh

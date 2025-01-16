@@ -1,14 +1,10 @@
 ---
-layout: heroImage
+layout: post
 title: Application form for the Data science program (Python knowledge required)
-subtitle: Training leaders in data science
 date: 2023-11-25 +0600
-categories: [Forms]
-tags: [Training, ITCR, STEM]
-permalink: /en/forms/ds-program
+categories: [Courses]
+permalink: /en/courses/ds-program
 lang-ref: ds-program
-background:  "{{ site.data.en.images.form.src }}"
-height: 55vh
 ---
 
 <div style="text-align: justify">

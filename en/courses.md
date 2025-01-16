@@ -41,11 +41,11 @@ a, .material-symbols-outlined {
       <td>{{ c.start }}</td>
       <td>{{ c.finish }}</td>
       <td>{{ c.instructors }}</td>
-      {% if c.projects == "In progress" %}
+      {% if c.projects == "In progress" or c.projects == "Not applicable" %}
         <td style="text-align: center;">{{ c.projects }}</td>
       {% else %}
         <td style="text-align: center;">
-          <a href="{{ curso.proyectos }}" class="material-symbols-outlined">folder_open</a>
+          <a href="{{ c.projects }}" class="material-symbols-outlined">folder_open</a>
         </td>
       {% endif %}
     </tr>

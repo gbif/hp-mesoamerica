@@ -1,13 +1,10 @@
 ---
-layout: heroImage
-title: Programa del curso Introducción a Python para ciencia de datos - Abril
+layout: post
+title: Introducción a Python para ciencia de datos - Abril
 date:   2024-03-12 +0600
 categories: [Courses]
 permalink: /courses/python-program-04
 lang-ref: python-program-04
-background:  "{{ site.data.es.images.melastomaceae.src }}"
-imageLicense: "{{ site.data.es.images.melastomaceae.caption }}"
-height: 55vh
 ---
 
 ## Descripción
