@@ -144,25 +144,71 @@ Las personas estudiantes llevarán a cabo tareas y un proyecto final, los rubros
 </div>
 <br>
 
-| Rubro | Valor (%) |
-| ----- | :-------: |
-| Asistencias | 30 |
-| Tareas | 30 |
-| Proyecto final | 40 |
-| Total | 100 |
+<table style="width:30%">
+  <tr>
+    <th>Rubro</th>
+    <th>Valor (%)</th>
+  </tr>
+  <tr>
+    <td>Asistencias</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Tareas</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Proyecto final</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
+
 
 ## Cronograma de clases
 
-| Clase      | Semana   |
-| -------    | -------- |
-| Introducción  | 1 |
-| Lenguaje de programación Python | 2 |
-| Lenguaje de programación Python (continuación) | 3 |
-| Introducción a los datos de biodiversidad, Análisis y visualización de datos | 4 |
-| Graficación estadística | 5 |
-| Introducción a los datos geoespaciales, Datos vectoriales | 6 |
-| Datos raster | 7 |
-| Visualización de datos geoespaciales de biodiversidad | 8 |
+<table style="width:60%">
+  <tr>
+    <th>Clase</th>
+    <th>Semana</th>
+  </tr>
+  <tr>
+    <td>Introducción</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Lenguaje de programación Python</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Lenguaje de programación Python (continuación)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Introducción a los datos de biodiversidad, Análisis y visualización de datos</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Graficación estadística</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Introducción a los datos geoespaciales, Datos vectoriales</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Datos raster</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Visualización de datos geoespaciales de biodiversidad</td>
+    <td>8</td>
+  </tr>
+</table>
+
 
 ## Referencias
 
@@ -191,8 +237,17 @@ Las personas estudiantes llevarán a cabo tareas y un proyecto final, los rubros
 
 ## Contactos
 
-| Persona facilitadora | Correo electrónico |
-| -------------------- | ------------------ |
-| Instructor: Manuel Vargas  | [mfvargas@gmail.com ](mailto:mfvargas@gmail.com ) |
-| María Auxiliadora Mora     | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
-
+<table style="width:40%">
+  <tr>
+    <th>Persona facilitadora</th>
+    <th>Correo electrónico</th>
+  </tr>
+  <tr>
+    <td>Instructor: Manuel Vargas</td>
+    <td><a href="mailto:mfvargas@gmail.com">mfvargas@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+</table>

@@ -133,12 +133,29 @@ Las personas estudiantes llevarán a cabo tareas cortas, laboratorios y un proye
 </div>
 <br>
 
-| Rubro | Valor (%) |
-| ----- | :-------: |
-| Tareas cortas | 30 |
-| Laboratorios  | 40 |
-| Proyecto final | 30 |
-| Total | 100 |
+<table style="width:30%">
+  <tr>
+    <th>Rubro</th>
+    <th>Valor (%)</th>
+  </tr>
+  <tr>
+    <td>Tareas cortas</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Laboratorios</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Proyecto final</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
+
 
 <div style="text-align: justify">
 El proyecto final consiste en identificar un caso de uso de aplicación del aprendizaje automático presente en el contexto profesional del participante.
@@ -160,6 +177,49 @@ Cada evaluación tendrá una fecha de entrega previamente establecida. La hora l
 | Aprendizaje profundo | 6-8 |
 | Reflexiones finales| 8 |
 | Presentación de proyectos | 8 |
+
+<table style="width:60%">
+  <tr>
+    <th>Clase</th>
+    <th>Semana</th>
+  </tr>
+  <tr>
+    <td>Fundamentos de Aprendizaje automático</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Enfoques de Aprendizaje automático</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Aprendizaje supervisado</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Aprendizaje no supervisado</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Aprendizaje semi supervisado</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Aprendizaje por reforzamiento</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Aprendizaje profundo</td>
+    <td>6-8</td>
+  </tr>
+  <tr>
+    <td>Reflexiones finales</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Presentación de proyectos</td>
+    <td>8</td>
+  </tr>
+</table>
 
 ## Materiales
 Se recomienda estudiar previo al curso los siguientes tutoriales:
@@ -189,7 +249,17 @@ Se recomienda estudiar previo al curso los siguientes tutoriales:
 
 ## Contactos
 
-| Persona facilitadora | Correo electrónico |
-| -------------------- | ------------------ |
-| Instructora: Emilia Zeledón Lostalo    | [emilia.zeledon@gmail.com ](emilia.zeledon@gmail.com ) |
-| María Auxiliadora Mora     | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
+<table style="width:40%">
+  <tr>
+    <th>Persona facilitadora</th>
+    <th>Correo electrónico</th>
+  </tr>
+  <tr>
+    <td>Instructor: Emilia Zeledón Lostalo</td>
+    <td><a href="mailto:emilia.zeledon@gmail.com">emilia.zeledon@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+</table>

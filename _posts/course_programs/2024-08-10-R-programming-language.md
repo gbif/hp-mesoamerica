@@ -124,12 +124,29 @@ Las personas estudiantes llevarán a cabo tareas y un proyecto final, los rubros
 </div>
 <br>
 
-| Rubro | Valor (%) |
-| ----- | :-------: |
-|  Clases presenciales  | 40 |
-| Tareas | 30 |
-| Proyecto final | 30 |
-| Total | 100 |
+<table style="width:30%">
+  <tr>
+    <th>Rubro</th>
+    <th>Valor (%)</th>
+  </tr>
+  <tr>
+    <td>Clases presenciales</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Tareas</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Proyecto final</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
+
 
 <div style="text-align: justify">
 El proyecto final consta de la aplicación de los conocimientos adquiridos en el curso a un problema de interés de cada estudiante. 
@@ -140,16 +157,44 @@ Las tareas se dejarán después de cada clase y se podrán entregar hasta las 00
 
 ## Cronograma de clases
 
-| Clase     | Semana      |
-| -------   | ----------- |
-| Introducción        | 1 |
-| Paquetes, I/O datos | 2 |
-| Manejo de datos     | 3 |
-| Análisis estadísticos    | 4 |
-| Gráficos personalizables | 5 |
-| Métricas de diversidad   | 6 |
-| Modelos                  | 7 |
-| Creación de reportes y cierre | 8 |
+<table style="width:60%">
+  <tr>
+    <th>Clase</th>
+    <th>Semana</th>
+  </tr>
+  <tr>
+    <td>Introducción</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Paquetes, I/O datos</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Manejo de datos</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Análisis estadísticos</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Gráficos personalizables</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Métricas de diversidad</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Modelos</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Creación de reportes y cierre</td>
+    <td>8</td>
+  </tr>
+</table>
 
 
 ## Materiales
@@ -173,8 +218,17 @@ Algunos de los materiales de apoyo son:
 
 ## Contactos
 
-| Persona facilitadora | Correo electrónico |
-| -------------------- | ------------------ |
-| Instructor: Jonathan Solórzano Villegas     | [jonathanvsv@gmail.com ](mailto:jonathanvsv@gmail.com ) |
-| María Auxiliadora Mora     | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
-
+<table style="width:40%">
+  <tr>
+    <th>Persona facilitadora</th>
+    <th>Correo electrónico</th>
+  </tr>
+  <tr>
+    <td>Instructor: Jonathan Solórzano Villegas</td>
+    <td><a href="mailto:jonathanvsv@gmail.com">jonathanvsv@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+</table>

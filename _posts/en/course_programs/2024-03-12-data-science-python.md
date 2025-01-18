@@ -110,12 +110,28 @@ Students will complete short assignments, labs, and a final project. Evaluation 
 </div>
 <br>
 
-| Item           | Value (%) |
-| ------------------- | :--------: |
-| Short Assignments   | 30         |
-| Labs                | 40         |
-| Final Project       | 30         |
-| Total               | 100        |
+<table style="width:30%">
+  <tr>
+    <th>Item</th>
+    <th>Value (%)</th>
+  </tr>
+  <tr>
+    <td>Short assignments</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Labs</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Final project</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
 
 <div style="text-align: justify">
 Each evaluation will have a previously established due date. The deadline for submission is 11:45 PM (GMT-6). Late submissions will not be accepted.
@@ -123,16 +139,44 @@ Each evaluation will have a previously established due date. The deadline for su
 
 ## Class schedule
 
-| Class                            | Week |
-| -------------------------------- | :--: |
-| Python Fundamentals              | 1    |
-| Introduction to OOP and Pandas   | 2    |
-| NumPy, Vectors, and Matrices     | 3    |
-| Exploratory Data Analysis (EDA)  | 4    |
-| Data Preprocessing               | 5    |
-| Geographic Information Systems   | 6    |
-| Artificial Intelligence (AI)     | 7    |
-| Project Presentations            | 8    |
+<table style="width:60%">
+  <tr>
+    <th>Class</th>
+    <th>Week</th>
+  </tr>
+  <tr>
+    <td>Python fundamentals</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Introduction to OOP and Pandas</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>NumPy, Vectors, and Matrices</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Exploratory Data Analysis (EDA)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Data preprocessing</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Geographic Information Systems</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Artificial Intelligence (AI)</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Project presentations</td>
+    <td>8</td>
+  </tr>
+</table>
 
 ## Materials
 We recommend studying the following tutorials prior to the course:
@@ -142,10 +186,29 @@ We recommend studying the following tutorials prior to the course:
 
 ## Contacts
 
-| Professors              | Email                     |
-| ----------------------- | --------------------------------- |
-| María Auxiliadora Mora  | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
-| Josué Castro Ramírez    | [jd.castro23r@gmail.com](mailto:jd.castro23r@gmail.com) |
-| Benjamin Johnson Davis  | [eduardojohnson2001@gmail.com](mailto:eduardojohnson2001@gmail.com) |
-| Ervin Rodríguez Villanueva | [ervinrodriguez140@gmail.com](mailto:ervinrodriguez140@gmail.com) |
-| Fabricio Ríos Montero   | [fabrirm15@gmail.com](mailto:fabrirm15@gmail.com) |
+<table style="width:40%">
+  <tr>
+    <th>Professors</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+  <tr>
+    <td>Josué Castro Ramírez</td>
+    <td><a href="mailto:jd.castro23r@gmail.com">jd.castro23r@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>Benjamin Johnson Davis</td>
+    <td><a href="mailto:eduardojohnson2001@gmail.com">eduardojohnson2001@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>Ervin Rodríguez Villanueva</td>
+    <td><a href="mailto:ervinrodriguez140@gmail.com">ervinrodriguez140@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>Fabricio Ríos Montero</td>
+    <td><a href="mailto:fabrirm15@gmail.com">fabrirm15@gmail.com</a></td>
+  </tr>
+</table>

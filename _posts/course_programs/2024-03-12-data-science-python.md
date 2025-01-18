@@ -111,12 +111,28 @@ Las personas estudiantes llevarán a cabo tareas cortas, laboratorios y un proye
 </div>
 <br>
 
-| Rubro | Valor (%) |
-| ----- | :-------: |
-| Tareas cortas | 30 |
-| Laboratorios  | 40 |
-| Proyecto final | 30 |
-| Total | 100 |
+<table style="width:30%">
+  <tr>
+    <th>Rubro</th>
+    <th>Valor (%)</th>
+  </tr>
+  <tr>
+    <td>Tareas cortas</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Laboratorios</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Proyecto final</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
 
 <div style="text-align: justify">
 Cada evaluación tendrá una fecha de entrega previamente establecida. La hora límite de las entregas será a las 23:45 GMT-6. No se reciben entregas tardías.
@@ -124,16 +140,44 @@ Cada evaluación tendrá una fecha de entrega previamente establecida. La hora l
 
 ## Cronograma de clases
 
-| Clase | Semana |
-| ----- | :----: |
-| Fundamentos de Python | 1 |
-| Introducción a POO y Pandas | 2 |
-| NumPy, vectores y matrices | 3 |
-| Análisis exploratorio de datos (EDA) | 4 |
-| Preprocesamiento de datos | 5 |
-| Sistemas de información geográfica | 6 |
-| Inteligencia artificial (IA) | 7 |
-| Presentación de proyectos | 8 |
+<table style="width:60%">
+  <tr>
+    <th>Clase</th>
+    <th>Semana</th>
+  </tr>
+  <tr>
+    <td>Fundamentos de Python</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Introducción a POO y Pandas</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>NumPy, vectores y matrices</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Análisis exploratorio de datos (EDA)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Preprocesamiento de datos</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Sistemas de información geográfica</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Inteligencia artificial (IA)</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Presentación de proyectos</td>
+    <td>8</td>
+  </tr>
+</table>
 
 ## Materiales
 Se recomienda estudiar previo al curso los siguientes tutoriales:
@@ -143,10 +187,29 @@ Se recomienda estudiar previo al curso los siguientes tutoriales:
 
 ## Contactos
 
-| Persona facilitadora | Correo electrónico |
-| -------------------- | ------------------ |
-| María Auxiliadora Mora     | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
-| Josué Castro Ramírez       | [jd.castro23r@gmail.com](mailto:jd.castro23r@gmail.com) |
-| Benjamin Johnson Davis     | [eduardojohnson2001@gmail.com](mailto:eduardojohnson2001@gmail.com) |
-| Ervin Rodríguez Villanueva | [ervinrodriguez140@gmail.com](mailto:ervinrodriguez140@gmail.com ) |
-| Fabricio Ríos Montero      | [fabrirm15@gmail.com](mailto:fabrirm15@gmail.com) |
+<table style="width:40%">
+  <tr>
+    <th>Persona facilitadora</th>
+    <th>Correo electrónico</th>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+  <tr>
+    <td>Josué Castro Ramírez</td>
+    <td><a href="mailto:jd.castro23r@gmail.com">jd.castro23r@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>Benjamin Johnson Davis</td>
+    <td><a href="mailto:eduardojohnson2001@gmail.com">eduardojohnson2001@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>Ervin Rodríguez Villanueva</td>
+    <td><a href="mailto:ervinrodriguez140@gmail.com">ervinrodriguez140@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>Fabricio Ríos Montero</td>
+    <td><a href="mailto:fabrirm15@gmail.com">fabrirm15@gmail.com</a></td>
+  </tr>
+</table>

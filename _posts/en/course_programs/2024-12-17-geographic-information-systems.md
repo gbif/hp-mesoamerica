@@ -74,14 +74,14 @@ Lesson content is available on the course website, which includes links to bibli
 ## Program content
 <div style="text-align: justify">
 <ol>
-    <b><li>Introduction to the Course.</li></b>
+    <b><li>Introduction to the course.</li></b>
     <ol type="i">
         <li>Course program review.</li>
         <li>Data science and reproducibility.</li>
-        <li>The Markdown language.</li>
+        <li>Markdown language.</li>
         <li>Jupyter notebooks.</li>
     </ol>
-    <b><li>The Python Programming Language.</li></b>
+    <b><li>Python programming language.</li></b>
     <ol type="i">
         <li>Basic data types.</li>
         <li>Variables.</li>
@@ -89,7 +89,7 @@ Lesson content is available on the course website, which includes links to bibli
         <li>Comments.</li>
         <li>Conditionals.</li>
     </ol>
-    <b><li>The Python Programming Language (continued).</li></b>
+    <b><li>Python programming language (continued).</li></b>
     <ol type="i">
         <li>Loops.</li>
         <li>Data structures.</li>
@@ -100,36 +100,36 @@ Lesson content is available on the course website, which includes links to bibli
             <li>Dictionaries.</li>
         </ol>
     </ol>
-    <b><li>Introduction to Biodiversity Data.</li></b>
+    <b><li>Introduction to biodiversity data.</li></b>
     <ol type="i">
         <li>Darwin Core standard.</li>
-        <li>The Pygbif library.</li>
+        <li>Pygbif library.</li>
     </ol>
     <b><li>Data Analysis and Visualization.</li></b>
     <ol type="i">
-        <li>The Pandas library.</li>
+        <li>Pandas library.</li>
     </ol>
-    <b><li>Statistical Plotting.</li></b>
+    <b><li>Statistical plotting.</li></b>
     <ol type="i">
-        <li>The Matplotlib library.</li>
-        <li>The Plotly library.</li>
+        <li>Matplotlib library.</li>
+        <li>Plotly library.</li>
     </ol>
-    <b><li>Introduction to Geospatial Data.</li></b>
+    <b><li>Introduction to geospatial data.</li></b>
     <ol type="i">
         <li>Data models.</li>
         <li>Geographic information systems.</li>
     </ol>
-    <b><li>Vector Data.</li></b>
+    <b><li>Vector data.</li></b>
     <ol type="i">
-        <li>The GeoPandas library.</li>
+        <li>GeoPandas library.</li>
     </ol>
-    <b><li>Raster Data.</li></b>
+    <b><li>Raster data.</li></b>
     <ol type="i">
-        <li>The Rasterio library.</li>
+        <li>Rasterio library.</li>
     </ol>
-    <b><li>Visualization of Biodiversity Geospatial Data.</li></b>
+    <b><li>Visualization of biodiversity geospatial data.</li></b>
     <ol type="i">
-        <li>The Leafmap library.</li>
+        <li>Leafmap library.</li>
     </ol>
 </ol>
 </div>
@@ -140,25 +140,71 @@ Students will complete assignments and a final project. Evaluation items are as 
 </div>
 <br>
 
-| Item   | Value (%) |
-| ----------- | :--------: |
-| Attendance  | 30         |
-| Assignments | 30         |
-| Final Project | 40       |
-| Total       | 100        |
+<table style="width:30%">
+  <tr>
+    <th>Item</th>
+    <th>Value (%)</th>
+  </tr>
+  <tr>
+    <td>Attendance</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Assignments</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Final project</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
+
 
 ## Class schedule
 
-| Class                                      | Week |
-| ------------------------------------------ |----- |
-| Introduction                               | 1    |
-| Python Programming Language                | 2    |
-| Python Programming Language (continued)  m | 3    |
-| Biodiversity Data, Analysis, and Visualization | 4     |
-| Statistical Plotting                       | 5     |
-| Geospatial Data, Vector Data               | 6     |
-| Raster Data                                | 7     |
-| Visualization of Biodiversity Geospatial Data |8     |
+<table style="width:60%">
+  <tr>
+    <th>Class</th>
+    <th>Week</th>
+  </tr>
+  <tr>
+    <td>Introduction</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Python programming language</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Python programming language (continued)</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Introduction to biodiversity data, Analysis, and Visualization</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Statistical plotting</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Introduction to geospatial data, Vector data</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Raster data</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Visualization of biodiversity geospatial data</td>
+    <td>8</td>
+  </tr>
+</table>
+
 
 ## References
 
@@ -176,7 +222,17 @@ Students will complete assignments and a final project. Evaluation items are as 
 
 ## Contacts
 
-| Professors           | Email Address                    |
-| --------------------- | -------------------------------- |
-| Instructor: Manuel Vargas | [mfvargas@gmail.com](mailto:mfvargas@gmail.com) |
-| María Auxiliadora Mora   | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
+<table style="width:40%">
+  <tr>
+    <th>Professors</th>
+    <th>Email Address</th>
+  </tr>
+  <tr>
+    <td>Instructor: Manuel Vargas</td>
+    <td><a href="mailto:mfvargas@gmail.com">mfvargas@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+</table>

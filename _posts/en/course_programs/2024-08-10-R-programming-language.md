@@ -79,17 +79,17 @@ The program is theoretical/practical, allowing participants to apply theoretical
         <li>Basics of programming in R.</li>
         <li>Object types.</li>
     </ol>
-    <b><li>Data Handling (1 session, 2 hours).</li></b>
+    <b><li>Data handling (1 session, 2 hours).</li></b>
     <ol type="i">
         <li>Data science workflow.</li>
         <li>Packages.</li>
         <li>Data I/O.</li>
     </ol>
-    <b><li>Data Wrangling (1 session, 2 hours).</li></b>
+    <b><li>Data organization (1 session, 2 hours).</li></b>
     <ol type="i">
         <li>Preprocessing with dplyr and tidyr.</li>
     </ol>
-    <b><li>Statistical Analysis (1 session, 2 hours).</li></b>
+    <b><li>Statistical analysis (1 session, 2 hours).</li></b>
     <ol type="i">
         <li>Parametric and non-parametric analyses with rstatix.</li>
     </ol>
@@ -97,7 +97,7 @@ The program is theoretical/practical, allowing participants to apply theoretical
     <ol type="i">
         <li>Customizable plots with ggplot2.</li>
     </ol>
-    <b><li>Diversity Metrics (1 session, 2 hours).</li></b>
+    <b><li>Diversity metrics (1 session, 2 hours).</li></b>
     <ol type="i">
         <li>Diversity indices and species accumulation curves.</li>
     </ol>
@@ -105,7 +105,7 @@ The program is theoretical/practical, allowing participants to apply theoretical
     <ol type="i">
         <li>Model training and evaluation with tidymodels.</li>
     </ol>
-    <b><li>Closing and Final Project Description (1 session, 2 hours).</li></b>
+    <b><li>Closing and final project description (1 session, 2 hours).</li></b>
     <ol type="i">
         <li>Report creation with Quarto.</li>
         <li>Recap.</li>
@@ -119,12 +119,29 @@ Students will complete assignments and a final project. Evaluation items are as 
 </div>
 <br>
 
-| Items            | Value (%) |
-| -------------------- | :--------: |
-| Synchronous Classes  | 40         |
-| Assignments          | 30         |
-| Final Project        | 30         |
-| Total                | 100        |
+<table style="width:30%">
+  <tr>
+    <th>Item</th>
+    <th>Value (%)</th>
+  </tr>
+  <tr>
+    <td>Synchronous classes</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Assignments</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Final project</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
+
 
 <div style="text-align: justify">
 The final project involves applying the knowledge acquired in the course to a problem of interest to each student.
@@ -134,16 +151,45 @@ Assignments will be given after each class and can be submitted until 12:00 AM (
 
 ## Class schedule
 
-| Class                | Week |
-| -------------------- | ----- |
-| Introduction         | 1     |
-| Packages, Data I/O   | 2     |
-| Data Wrangling       | 3     |
-| Statistical Analysis | 4     |
-| Customizable Plots   | 5     |
-| Diversity Metrics    | 6     |
-| Models               | 7     |
-| Report Creation & Closure | 8     |
+<table style="width:60%">
+  <tr>
+    <th>Class</th>
+    <th>Week</th>
+  </tr>
+  <tr>
+    <td>Introduction</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Packages, Data I/O</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Data organization</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Statistical analysis</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Customizable plots</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Diversity metrics</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Models</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Report creation & Closure</td>
+    <td>8</td>
+  </tr>
+</table>
+
 
 ## Materials
 Some supporting materials:
@@ -163,7 +209,17 @@ Some supporting materials:
 
 ## Contacts
 
-| Professors             | Email                   |
-| ----------------------- | ------------------------------- |
-| Instructor: Jonathan Solórzano Villegas | [jonathanvsv@gmail.com](mailto:jonathanvsv@gmail.com) |
-| María Auxiliadora Mora   | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
+<table style="width:40%">
+  <tr>
+    <th>Professors</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>Instructor: Jonathan Solórzano Villegas</td>
+    <td><a href="mailto:jonathanvsv@gmail.com">jonathanvsv@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+</table>

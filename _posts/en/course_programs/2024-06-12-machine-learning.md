@@ -127,12 +127,28 @@ Students will complete short assignments, labs, and a final project. Evaluation 
 </div>
 <br>
 
-| Item         | Value (%) |
-| ----------------- | :--------: |
-| Short Assignments | 30         |
-| Labs              | 40         |
-| Final Project     | 30         |
-| Total             | 100        |
+<table style="width:30%">
+  <tr>
+    <th>Item</th>
+    <th>Value (%)</th>
+  </tr>
+  <tr>
+    <td>Short assignments</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Labs</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Final project</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>100</td>
+  </tr>
+</table>
 
 <div style="text-align: justify">
 The final project involves identifying a machine learning use case relevant to the professional context of the participant.
@@ -142,17 +158,48 @@ Each evaluation will have a previously established due date. Submissions must be
 
 ## Class schedule
 
-| Class                          | Week |
-| ------------------------------ | :--: |
-| Fundamentals of Machine Learning| 1    |
-| Machine Learning Approaches    | 2    |
-| Supervised Learning            | 3    |
-| Unsupervised Learning          | 4    |
-| Semi-Supervised Learning       | 5    |
-| Reinforcement Learning         | 5    |
-| Deep Learning                  | 6-8  |
-| Final Reflections              | 8    |
-| Project Presentations          | 8    |
+<table style="width:60%">
+  <tr>
+    <th>ClasS</th>
+    <th>Week</th>
+  </tr>
+  <tr>
+    <td>Fundamentals of Machine Learning</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Machine Learning Approaches</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Supervised Learning</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Unsupervised Learning</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Semi-Supervised Learning</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Reinforcement Learning</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Deep Learning</td>
+    <td>6-8</td>
+  </tr>
+  <tr>
+    <td>Final reflections</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Project presentations</td>
+    <td>8</td>
+  </tr>
+</table>
 
 ## Materials
 We recommend studying the following tutorials prior to the course:
@@ -180,8 +227,17 @@ We recommend studying the following tutorials prior to the course:
 
 ## Contacts
 
-| Professors            | Email                       |
-| ---------------------- | ----------------------------------- |
-| Instructor: Emilia Zeledón Lostalo | [emilia.zeledon@gmail.com](mailto:emilia.zeledon@gmail.com) |
-| María Auxiliadora Mora  | [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr) |
-
+<table style="width:40%">
+  <tr>
+    <th>Professors</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>Instructor: Emilia Zeledón Lostalo</td>
+    <td><a href="mailto:emilia.zeledon@gmail.com">emilia.zeledon@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>María Auxiliadora Mora</td>
+    <td><a href="mailto:maria.mora@itcr.ac.cr">maria.mora@itcr.ac.cr</a></td>
+  </tr>
+</table>
