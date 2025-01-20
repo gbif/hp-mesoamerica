@@ -1,10 +1,8 @@
 ---
 layout: heroImage
 title: Biodiversity data platforms and non-formal education
-subtitle: Celebrating environmental day
+description: Celebrating Environmental day
 date: 2024-06-07 +0600
-categories: [Webinars]
-tags: [webinar, environmental day]
 permalink: /en/webinars/nicaragua-day7
 lang-ref: webinar-nicaragua-day7
 background: "{{ site.data.en.images.day7.src }}"

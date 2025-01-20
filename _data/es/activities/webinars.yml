@@ -1,0 +1,19 @@
+title: "Webinars y conferencias"
+description: |
+  Conferencias virtuales organizadas para actividades de la redbioma
+features:
+  - preTitle: Webinar  # optional
+    title: Publicaciones sobre biodiversidad de Nicaragua 2000 - 2024 # required
+    description: |      # required
+      Conferencias cortas de especialistas para presentar las publicaciones más importantes en su ámbito.
+    background: "{{ site.data.es.images.day5.src }}"  # img required
+    href: /webinars/nicaragua-day5
+    categories: [Día del medio ambiente]
+
+  - preTitle: Webinar
+    title: Plataformas de datos de biodiversidad y educación no formal
+    description: |   
+      Conferencias cortas sobre el uso potencial de las plataformas de datos de biodiversidad para educación no formal. 
+    background: "{{ site.data.es.images.day7.src }}"
+    href: /webinars/nicaragua-day7
+    categories: [Día del medio ambiente]

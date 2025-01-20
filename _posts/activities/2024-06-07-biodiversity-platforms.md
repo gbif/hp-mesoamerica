@@ -1,10 +1,8 @@
 ---
 layout: heroImage
 title: Plataformas de datos de biodiversidad y educación no formal
-subtitle: Celebrando el día del medio ambiente
+description: Celebrando el día del medio ambiente
 date:   2024-06-07 +0600
-categories: [Webinars]
-tags: [webinar, environmental day]
 permalink: /webinars/nicaragua-day7
 lang-ref: webinar-nicaragua-day7
 background:  "{{ site.data.es.images.day7.src }}"

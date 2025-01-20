@@ -1,10 +1,8 @@
 ---
 layout: heroImage
 title: Publicaciones sobre biodiversidad de Nicaragua 2000 - 2024
-subtitle: Celebrando el día del medio ambiente
+description: Celebrando el día del medio ambiente
 date:   2024-06-05 +0600
-categories: [Webinars]    
-tags: [webinar, environmental day]
 permalink: /webinars/nicaragua-day5
 lang-ref: webinar-nicaragua-day5
 background:  "{{ site.data.es.images.day5.src }}"
