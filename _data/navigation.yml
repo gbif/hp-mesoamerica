@@ -2,12 +2,10 @@
 
 - text: Acerca de
   href: /about
-- text: Actividades
-  href: /news
-- text: ¿Cómo participar?
-  href: /colaboration
 - text: Cursos
   href: /courses
+- text: ¿Cómo participar?
+  href: /collaboration
 - text: Créditos
   href: /credits
 - text: Datos

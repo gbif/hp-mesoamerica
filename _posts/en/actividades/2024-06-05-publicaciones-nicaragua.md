@@ -1,0 +1,41 @@
+---
+layout: post
+title: Publicaciones sobre biodiversidad de Nicaragua 2000 - 2024
+subtitle: Celebrando el día del medio ambiente
+date:   2024-06-05 +0600
+categories: [Webinars]    
+tags: [webinar, dia del medio ambiente]
+permalink: "/:categories/:title.html"
+lang-ref: webinar-nicaragua-dia5
+background:  "{{ site.data.images.dia5.src }}"
+---
+
+## Detalles
+
+Conferencias cortas de especialistas para presentar las publicaciones más importantes en su ámbito, los autores y/o los centros de investigación relacionados. Las charlas cubiertas son las siguientes:
+
+- Mamíferos (Jean Michel Maes)
+- Aves (Salvadora Morales)
+- Reptiles (Milton Salazar)
+- Peces y vida marina (Edgar Castañeda)
+- Moluscos (Gabriel Hipólito y Janina Urcuyo)
+- Insectos (Jean Michel Maes)
+- Plantas (Jean Michel Maes)
+- Medio ambiente, estudios de impacto y planes de manejo de áreas protegidas (Jean Michel Maes)
+
+
+<!-- | Expositor                         | Tema de presentación |
+| --------------------------------- | -------------------- |
+| Jean Michel Maes                  | Mamíferos |
+| Salvadora Morales                 | Aves |
+| Milton Salazar                    | Reptiles |
+| Edgar Castañeda                   | Peces y vida marina |
+| Gabriel Hipólito y Janina Urcuyo  | Moluscos |
+| Jean Michel Maes                  | Insectos |
+| Jean Michel Maes                  | Plantas |
+| Jean Michel Maes                  | Medio ambiente, estudios de impacto y planes de manejo de áreas protegidas | -->
+
+
+## Vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=jWWyhK2trnhDr-Bv&amp;list=PLiP4keNeUXymGibjqwDTNg-0o22zpnf8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
