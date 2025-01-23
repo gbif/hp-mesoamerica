@@ -5,7 +5,7 @@ es:
     start: "19/02/2025"
     finish: "09/04/2025"
     projects: "En proceso"
-    program: "/courses/modeling-program"
+    program: "/cursos/2025-01-modelado-nichos.html"
     instructors: "Enrique Martínez Meyer, Luis A. Osorio Olvera"
     form: "https://docs.google.com/forms/d/e/1FAIpQLSd0LPjBVhThuwtCxap-K-PEZFhxpIRjsDrtEFGf7a68Gch0fQ/viewform"
    
@@ -77,7 +77,7 @@ en:
     start: "19/02/2025"
     finish: "09/04/2025"
     projects: "In progress"
-    program: "/en/courses/modeling-program"
+    program: "/courses/2025-01-modeling-niches.html"
     instructors: "Enrique Martínez Meyer, Luis A. Osorio Olvera"
     form: "https://docs.google.com/forms/d/e/1FAIpQLSd0LPjBVhThuwtCxap-K-PEZFhxpIRjsDrtEFGf7a68Gch0fQ/viewform"
 
