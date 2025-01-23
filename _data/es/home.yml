@@ -99,3 +99,16 @@ courses:
       - text: Material
         href: https://datos-geoespaciales-biodiversidad.github.io/python/
 
+    - preTitle: 2024      
+      title: Introducción al modelado de nichos ecológicos y distribuciones de especies
+      background: assets/images/banners/leaf.jpg
+      cta:
+      - text: Proyectos
+        href: #
+        isPrimary: true
+        
+      - text: Programa
+        href: /courses/modeling-program
+
+      - text: Material
+        href: #
