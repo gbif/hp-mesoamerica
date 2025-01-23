@@ -3,26 +3,37 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Colaboradores 
-    links:
-    - text: International Development Research Centre (IDRC-CDRI)
-      href: https://idrc-crdi.ca/es
-    - text: Consejo Superior Universitario Centroamericano (CSUCA)
-      href: https://sicevaes.csuca.org/
-    - text: Comisión para el Desarrollo Científico y Tecnológico de Centroamérica y Panamá (CTCAP)
-      href: https://www.sica.int/ctcap/inicio
-    - text: Sistema de la Integración Centroamericana (SICA)
-      href: https://www.sica.int/
-
-  - name: Contacto
+#  - name: PARTNERS 
+#    links:
+#    - text: International Development Research Centre (IDRC-CDRI)
+#      href: https://idrc-crdi.ca/es
+#    - text: Consejo Superior Universitario Centroamericano (CSUCA)
+#      href: https://sicevaes.csuca.org/
+#    - text: Comisión para el Desarrollo Científico y Tecnológico de Centroamérica y Panamá (CTCAP)
+#      href: https://www.sica.int/ctcap/inicio
+#    - text: Sistema de la Integración Centroamericana (SICA)
+#      href: https://www.sica.int/
+  - name: CONTACTO
     links: 
     - text: maria.mora@itcr.ac.cr
-      href: maria.mora@itcr.ac.cr
+      href: mailto:maria.mora@itcr.ac.cr
   - name: 
     description: |
-      <img src="/assets/images/banners/cintillo1.png" width="auto" height="200"><br/><br/>
-      <img src="/assets/images/banners/cintillo2.png" width="auto" height="200"><br/><br/>
-  
+      <a href="/"><img src="/assets/images/banners/redbiomaLogo.png" width="100"><br/><br/></a>    
+  - name: 
+    description: |
+      <a href="https://idrc-crdi.ca/es"><img src="/assets/images/banners/IDRCLogo.png" width="100"><br/><br/></a>
+  - name: 
+    description: |
+      <a href="https://sicevaes.csuca.org/"><img src="/assets/images/banners/CSUCALogo.png" width="100"><br/><br/></a>
+  - name: 
+    description: |
+      <a href="https://www.sica.int/ctcap/inicio"><img src="/assets/images/banners/CTCAPLogo.png" width="100"><br/><br/></a>
+  - name: 
+    description: |
+      <a href="https://www.sica.int/"><img src="/assets/images/banners/SICALogo.png" width="100"><br/><br/></a>
+
+
   # EXAMPLE
   #- name: Group name
   #  description: |

@@ -1,0 +1,45 @@
+# it is possible to refer to images in front matter and access these images. 
+# Or you can choose to just type them in the front matter. It is a matter of preference. 
+# If you reuse images a lot, it can be convinent to only have them one place.
+
+# So in your frontmatter you can either use this data file :
+# background:  "{{ site.data.es.images.catocala_ilia_cramer.src }}"
+# imageLicense: "{{ site.data.es.images.catocala_ilia_cramer.caption }}"
+#
+# or you can just type it in that file
+# background:  /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
+# imageLicense: [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+
+tabasco:
+  src: /assets/images/banners/ArbolTabasco.jpg
+  caption: |
+    *Tabebuia rosea.* Foto: Tania Urquiza-Haas.
+
+ara_macao:
+  src: assets/images/banners/AraMacao.jpg
+  caption: |
+    *Ara Macao.* Foto: Tania Urquiza-Haas.
+
+alouatta:
+  src: assets/images/banners/AlouattaPalliata.jpg
+  caption: |
+    *Alouatta Palliata.* Foto: Tania Urquiza-Haas.
+
+ateles:
+  src: assets/images/banners/AtelesGeoffroyi.jpg
+  caption: |
+    *Ateles Geoffroyi.* Foto: Tania Urquiza-Haas.
+
+melastomaceae:
+  src: assets/images/banners/Melastomaceae.jpg
+  caption: |
+    *Melastomaceae.* Foto: Tania Urquiza-Haas.
+
+day5:
+  src: assets/images/thumbnails/dia5.png
+
+day7:
+  src: assets/images/thumbnails/dia7.png
+
+form:
+  src: assets/images/thumbnails/forms.png

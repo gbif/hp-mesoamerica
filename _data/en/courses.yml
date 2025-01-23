@@ -1,0 +1,61 @@
+# Modeling - Feb 2025
+- name: "Introduction to ecological niche modeling and species distributions"
+  start: "19/02/2025"
+  finish: "09/04/2025"
+  projects: "In progress"
+  program: "/en/courses/modeling-program"
+  instructors: "Enrique Martínez Meyer, Luis A. Osorio Olvera"
+  form: "https://docs.google.com/forms/d/e/1FAIpQLSd0LPjBVhThuwtCxap-K-PEZFhxpIRjsDrtEFGf7a68Gch0fQ/viewform"
+# GIS - Jan 2025
+- name: "Geospatial biodiversity data processing using the Python programming language"
+  start: "01/13/2025"
+  finish: "03/03/2025"
+  projects: "In progress"
+  program: "/en/courses/gis-program"
+  instructors: "Manuel Vargas Del Valle"
+  form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
+
+# Data science - Jul 2024
+- name: "Data science program"
+  start: "10/10/2024"
+  finish: "12/19/2024"
+  projects: "Not applicable"
+  program: "/en/courses/ds-program"
+  instructors: "FundaTEC"
+  form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
+
+# R programming language - Oct 2024
+- name: "R programming language"
+  start: "10/09/2024"
+  finish: "12/11/2024"
+  projects: "In progress"
+  program: "/en/courses/r-program"
+  instructors: "Jonathan Solórzano Villegas"
+  form: "https://docs.google.com/forms/d/e/1FAIpQLSdND7N3UCjgXMbDp6ULa6TGbbnYhrCSA0rpcvrNhqKR1D42rQ/viewform?usp=sharing"
+
+# Python for data science - Jul 2024
+- name: "Introduction to Python for data science"
+  start: "07/24/2024"
+  finish: "09/11/2024"
+  projects: "In progress"
+  program: "/en/courses/python-program-07"
+  instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Alejandro Quesada"
+  form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
+
+# Machine learning - Jul 2024
+- name: "Machine Learning applied to biodiversity data"
+  start: "07/08/2024"
+  finish: "08/26/2024"
+  projects: "In progress"
+  program: "/en/courses/ml-program"
+  instructors: "Emilia Zeledón Lostalo"
+  form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
+
+# Python for data science - Apr 2024
+- name: "Introduction to Python for data science"
+  start: "04/03/2024"
+  finish: "05/28/2024"  
+  projects: "/projects/python_data_science"
+  program: "/en/courses/python-program-04"
+  instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Ervin Rodríguez Villanueva"
+  form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
