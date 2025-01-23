@@ -80,3 +80,19 @@ courses:
       - text: Program
         href: #
         # isPrimary: true
+
+    - preTitle: 2024
+      title: Introduction to ecological niche modeling and species distributions
+      background: assets/images/banners/leaf.jpg
+      href: /about
+      cta:
+      - text: Projects
+        href: #
+        isPrimary: true
+
+      - text: Program
+        href: /en/courses/modeling-program
+        # isPrimary: true
+        
+      - text: Material
+        href: #

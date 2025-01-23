@@ -10,10 +10,17 @@ sidebar: []
 
 # Análisis de la Distribución Espacial y Funcional de las Aves del Cantón de Poás Usando Técnicas de Clustering
 <h2 style="color: gray; font-weight: normal;">
-Realizado por: Melanie Calderón-Hernández, Jose Vargas-Murillo y Paula Vargas-Jiménez
+Realizado por: Melanie Calderón Hernández, Jose Vargas Murillo y Paula Vargas Jiménez
 </h2>
 
 ---
+# Presentación
+<br>
+
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/qpbsLWs1blQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 # Cuaderno de Jupyter
 
 <br>
