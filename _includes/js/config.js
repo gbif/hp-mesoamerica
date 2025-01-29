@@ -66,8 +66,12 @@ var siteConfig = {
   },
   literature: {
     rootFilter: {
-      countriesOfResearcher: countryCodes
+      predicate: {
+        type: 'in',
+        key: 'countriesOfResearcher',
+        values: countryCodes
       }
+    }
   },
 };
 
