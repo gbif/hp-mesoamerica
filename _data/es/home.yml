@@ -62,7 +62,7 @@ courses:
       background: assets/images/thumbnails/img_ficha_Programas.jpg
       cta:
       - text: Proyectos
-        href: #
+        href: /projects/ml
         isPrimary: true
 
       - text: Programa
