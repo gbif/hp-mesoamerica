@@ -1,0 +1,27 @@
+- name: "Análisis de datos de registros de tortugas marinas haciendo uso de técnicas de la IA"
+  students: "Homero Bennet"
+  link: "/projects/2024-07-maching-learning/analisis-tortugas.html"
+
+- name: "BirdCLEF 2024"
+  students: "Fabricio Quirós Corella"
+  link: "/projects/2024-07-maching-learning/birdclef.html"
+
+- name: "Datos de monitoreo LNA"
+  students: "Yaretsi Belen Bermudez"
+  link: "/projects/2024-07-maching-learning/datos-monitoreo.html"
+
+- name: "Modelo para la predicción de llegada de especies migratorias"
+  students: "José Abelardo Sánchez Cardoza y Cynthia María Tercero Rojas"
+  link: "/projects/2024-07-maching-learning/prediccio-especies-migratorias.html"
+
+- name: "Modelización espacial de la distribución del topillo de Cabrera con Google Earth Engine y Random Forest"
+  students: "Ana Fandiño Carro"
+  link: "/projects/2024-07-maching-learning/modelizacion-espacial.html"
+
+- name: "Redes neuronales en pingüinos"
+  students: "Jose Fonseca"
+  link: "/projects/2024-07-maching-learning/redes-pinguinos.html"
+
+- name: "Variables ambientales asociadas con la ocurrencia del pájaro campana (Procnias tricarunculatus) en Costa Rica"
+  students: "Mónica Retamosa Izaguirre"
+  link: "/projects/2024-07-maching-learning/variables-ambientales-pajaro-campana"

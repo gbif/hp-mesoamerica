@@ -47,7 +47,7 @@
 - name: "Aprendizaje automático aplicado a datos de biodiversidad"
   start: "08/07/2024"
   finish: "26/08/2024"
-  projects: "En proceso"
+  projects: "/projects/ml"
   program: "/courses/ml-program"
   instructors: "Emilia Zeledón Lostalo"
   form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
