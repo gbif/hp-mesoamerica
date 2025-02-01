@@ -35,6 +35,21 @@ melastomaceae:
   caption: |
     *Melastomaceae.* Photo: Tania Urquiza-Haas.
 
+passiflora:
+  src: assets/images/banners/banner_comoParticipar_Passiflora_ligularis_LC.jpg
+  caption: |
+    *Passiflora ligularis.* Photo: Leila Calderón Gómez.
+
+clorospingus:
+  src: assets/images/banners/banner_Creditos3872x1109.jpg
+  caption: |
+    *Chlorospingus ophthalmicuss.* Photo: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/File:Chlorospingus_ophthalmicus_Santa_Elena_1.JPG)
+
+tabernaemontana:
+  src: assets/images/banners/banner_Cursos_Tabernaemontana-donnell-smithii-LC.jpg
+  caption: |
+    *Tabernaemontana onnell smithii.* Photo: Leila Calderón Gómez.
+
 day5:
   src: assets/images/thumbnails/dia5.png
 

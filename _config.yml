@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: redbioma/jekyll-hp-base-theme
+remote_theme: MBiarreta/jekyll-hp-base-theme
 
 # For use by the 'standardPrivacy' layout
 privacy:
@@ -59,7 +59,7 @@ algae:
       accent: "#BF4633"
       dark: "#0C2722"
       highlight: "#8C1C25"
-      link: "#BF4633"
+      links: "#0375B1"
 
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 

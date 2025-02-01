@@ -3,8 +3,8 @@ layout: heroImage
 title: ¿Cómo participar?
 permalink: /collaboration
 lang-ref: collaboration
-background:  "{{ site.data.es.images.ara_macao.src }}"
-imageLicense: "{{ site.data.es.images.ara_macao.caption }}"
+background:  "{{ site.data.es.images.passiflora.src }}"
+imageLicense: "{{ site.data.es.images.passiflora.caption }}"
 height: 55vh
 ---
 

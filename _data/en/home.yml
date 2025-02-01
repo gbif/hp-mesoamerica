@@ -2,22 +2,22 @@ stats:
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=CR&country=MX&country=GT&country=PA&country=SV&country=HN&country=NI&notissues=COUNTRY_COORDINATE_MISMATCH">45</span>
       description: Biological records
-      background: assets/images/icons/ico_registrosBiologicos.jpg
+      background: assets/images/icons/ico_registrosBiologicos.png
       href: /en/occurrence/search 
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT">45</span>
       description: Datasets
-      background: assets/images/icons/ico_conjuntoDatos.jpg
+      background: assets/images/icons/ico_conjuntoDatos.png
       href: /en/dataset/search
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution/search?country=CR&country=NI&country=PA&country=MX&country=HN&country=GT&country=SV&displayOnNHCPortal=true">45</span>
       description: Institutions
-      background: assets/images/icons/ico_instituciones.jpg
+      background: assets/images/icons/ico_instituciones.png
       href: /en/institution/search
       
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI">45</span>
       description: Publications
-      background: assets/images/icons/ico_publicaciones.jpg
+      background: assets/images/icons/ico_publicaciones.png
       href: /en/literature/search
       
 info: 
