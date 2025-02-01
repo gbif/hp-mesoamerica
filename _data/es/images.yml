@@ -18,22 +18,37 @@ tabasco:
 ara_macao:
   src: assets/images/banners/AraMacao.jpg
   caption: |
-    *Ara Macao.* Foto: Tania Urquiza-Haas.
+    *Ara macao.* Foto: Tania Urquiza-Haas.
 
 alouatta:
   src: assets/images/banners/AlouattaPalliata.jpg
   caption: |
-    *Alouatta Palliata.* Foto: Tania Urquiza-Haas.
+    *Alouatta palliata.* Foto: Tania Urquiza-Haas.
 
 ateles:
   src: assets/images/banners/AtelesGeoffroyi.jpg
   caption: |
-    *Ateles Geoffroyi.* Foto: Tania Urquiza-Haas.
+    *Ateles geoffroyi.* Foto: Tania Urquiza-Haas.
 
 melastomaceae:
   src: assets/images/banners/Melastomaceae.jpg
   caption: |
     *Melastomaceae.* Foto: Tania Urquiza-Haas.
+
+passiflora:
+  src: assets/images/banners/banner_comoParticipar_Passiflora_ligularis_LC.jpg
+  caption: |
+    *Passiflora ligularis.* Foto: Leila Calderón Gómez.
+
+clorospingus:
+  src: assets/images/banners/banner_Creditos3872x1109.jpg
+  caption: |
+    *Chlorospingus ophthalmicuss.* Foto: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/File:Chlorospingus_ophthalmicus_Santa_Elena_1.JPG)
+
+tabernaemontana:
+  src: assets/images/banners/banner_Cursos_Tabernaemontana-donnell-smithii-LC.jpg
+  caption: |
+    *Tabernaemontana onnell smithii.* Foto: Leila Calderón Gómez.
 
 day5:
   src: assets/images/thumbnails/dia5.png

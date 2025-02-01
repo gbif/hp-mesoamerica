@@ -3,8 +3,8 @@ layout: heroImage
 title: Cursos
 permalink: /courses
 lang-ref: courses
-background:  "{{ site.data.es.images.ateles.src }}"
-imageLicense: "{{ site.data.es.images.ateles.caption }}"
+background:  "{{ site.data.es.images.tabernaemontana.src }}"
+imageLicense: "{{ site.data.es.images.tabernaemontana.caption }}"
 height: 55vh
 ---
 

@@ -3,8 +3,8 @@ layout: heroImage
 title: Créditos
 permalink: /credits
 lang-ref: credits
-background:  "{{ site.data.es.images.alouatta.src }}"
-imageLicense: "{{ site.data.es.images.alouatta.caption }}"
+background:  "{{ site.data.es.images.clorospingus.src }}"
+imageLicense: "{{ site.data.es.images.clorospingus.caption }}"
 height: 55vh
 ---
 

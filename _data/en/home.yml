@@ -2,22 +2,22 @@ stats:
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=CR&country=MX&country=GT&country=PA&country=SV&country=HN&country=NI&notissues=COUNTRY_COORDINATE_MISMATCH">45</span>
       description: Biological records
-      background: assets/images/icons/ico_registrosBiologicos.jpg
+      background: assets/images/icons/ico_registrosBiologicos.png
       href: /en/occurrence/search 
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT">45</span>
       description: Datasets
-      background: assets/images/icons/ico_conjuntoDatos.jpg
+      background: assets/images/icons/ico_conjuntoDatos.png
       href: /en/dataset/search
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution/search?country=CR&country=NI&country=PA&country=MX&country=HN&country=GT&country=SV&displayOnNHCPortal=true">45</span>
       description: Institutions
-      background: assets/images/icons/ico_instituciones.jpg
+      background: assets/images/icons/ico_instituciones.png
       href: /en/institution/search
       
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI">45</span>
       description: Publications
-      background: assets/images/icons/ico_publicaciones.jpg
+      background: assets/images/icons/ico_publicaciones.png
       href: /en/literature/search
       
 info: 
@@ -27,9 +27,9 @@ info:
    <p style="font-size: 16px; text-align: justify;">The objective of the Data Science Network for the Conservation of Mesoamerican Biodiversity is to propose solutions to conservation problems through data science, with a strong component of capacity building and empowerment of women in the region. 
    This project will strengthen alliances between institutions in the Mesoamerican region, learn about some of the needs of the participants associated with the sustainable use and conservation of biodiversity, implement an open data portal that integrates data and information on biodiversity and strengthen capacities in data science issues to support the development of science.  education and biodiversity conservation, giving priority to the most vulnerable groups of the Mesoamerican population.</p>
   # img required
-  background: assets/images/banners/Melastomaceae.jpg
+  background: assets/images/banners/fo_Info_Chlorophyllum_molybdites_LC.jpg
   imageLicense: |
-    *Melastomaceae*. Photo by Tania Urquiza
+    *Chlorophyllum molybdites.* Photo: Leila Calderón Gómez.
   cta:
   - text: How to join
     href: https://forms.gle/gq98uQN32xz9uBx87
@@ -45,54 +45,65 @@ courses:
   features:
     - preTitle: 2024
       title: Introduction to Python for data science
-      background: assets/images/thumbnails/img_ficha_proyectosEstudiantes.jpg
+      background: assets/images/cards/img_ficha_Bradypus_variegatus_ChristianMehlfuhrer.jpg
+      imageLicense: "*Bradypus variegatus.* Photo: [Christian Mehlführer.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Bradypus_variegatus.jpg)"
       cta:
       - text: Projects
         href: /projects/python_data_science
         isPrimary: true
-
       - text: Program
-        href: #
-        # isPrimary: true
-
+        href: /en/courses/python-program-07
+      - text: Material
+        href: https://drive.google.com/drive/folders/1jY8WWazFvawhRQLPYivm09Gvr02RMdOp?usp=sharing
+  
     - preTitle: 2024    
       title: Machine learning applied to biodiversity data
-      background: assets/images/thumbnails/img_ficha_Programas.jpg
-      href: /about
+      background: assets/images/cards/img_ficha_Lampornis_calolaemus_pectoralis_DonFaulkner.jpg
+      imageLicense: "*Lampornis calolaemus pectoralis.* Photo: [Don Faulkner.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Purple-throated_Moutain-Gem_(6901527484).jpg)"
       cta:
       - text: Projects
-        href: /projects/python_data_science
+        href: /projects/ml
         isPrimary: true
-
       - text: Program
-        href: #
-        # isPrimary: true
+        href: /en/courses/ml-program
+      - text: Material
+        href: https://drive.google.com/drive/folders/1uyxPKi8ZJ8Y_COrqXPGgvRFCeTHa3Yvm?usp=sharing
 
     - preTitle: 2024
       title: R Programming Language
-      background: assets/images/banners/leaf.jpg
-      href: /about
+      background: assets/images/cards/img_ficha_Lantana_camara_LeilaCalderon.jpg
+      imageLicense: "*Lantana camara.* Photo: Leila Calderón Gómez."
       cta:
       - text: Projects
-        href: /projects/python_data_science
+        href: /projects/r
         isPrimary: true
-
       - text: Program
-        href: #
-        # isPrimary: true
+        href: /en/courses/r-program
+      - text: Material
+        href: https://jonathanvsv.github.io/CursoR/
 
-    - preTitle: 2024
-      title: Introduction to ecological niche modeling and species distributions
-      background: assets/images/banners/leaf.jpg
-      href: /about
+    - preTitle: 2025
+      title: Geospatial biodiversity data processing using the Python programming language
+      background: assets/images/cards/img_ficha_Bothriechis_lateralis_Cephas.jpg
+      imageLicense: "*Bothriechis lateralis.* Photo: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Bothriechis_lateralis_CR.JPG)"
       cta:
       - text: Projects
         href: #
         isPrimary: true
+      - text: Program
+        href: /en/courses/gis-program
+      - text: Material
+        href: https://datos-geoespaciales-biodiversidad.github.io/python/
 
+    - preTitle: 2025
+      title: Introduction to ecological niche modeling and species distributions
+      background: assets/images/cards/img_ficha_Higueron_Reserva_CuriCancha_Monteverde_Cephas.jpg
+      imageLicense: "*Ficus citrifolia.* Photo: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Strangler_fig_Curi_Cancha_07.jpg)"
+      cta:
+      - text: Projects
+        href: #
+        isPrimary: true
       - text: Program
         href: /en/courses/modeling-program
-        # isPrimary: true
-        
       - text: Material
         href: #

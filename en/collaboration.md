@@ -3,8 +3,8 @@ layout: heroImage
 title: How to join?
 permalink: /en/collaboration
 lang-ref: collaboration
-background:  "{{ site.data.en.images.ara_macao.src }}"
-imageLicense: "{{ site.data.en.images.ara_macao.caption }}"
+background:  "{{ site.data.en.images.passiflora.src }}"
+imageLicense: "{{ site.data.en.images.passiflora.caption }}"
 height: 55vh
 ---
 
