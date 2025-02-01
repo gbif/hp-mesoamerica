@@ -61,7 +61,7 @@ courses:
       background: assets/images/cards/img_ficha_Lampornis_calolaemus_pectoralis_DonFaulkner.jpg
       cta:
       - text: Proyectos
-        href: #
+        href: /projects/ml
         isPrimary: true
       - text: Programa
         href: /courses/ml-program
