@@ -29,7 +29,7 @@ info:
   # img required
   background: assets/images/banners/fo_Info_Chlorophyllum_molybdites_LC.jpg
   imageLicense: |
-    *Melastomaceae*. Foto: Tania Urquiza
+    *Chlorophyllum molybdites.* Foto: Leila Calderón Gómez.
   cta:
   - text: Participar de las actividades
     href: https://forms.gle/gq98uQN32xz9uBx87
@@ -43,10 +43,10 @@ courses:
   description: |
     Directorio de los proyectos de los cursos impartidos 
   features:
-    - license: "*Melastomaceae.* Foto: Tania Urquiza-Haas."
-      preTitle: 2024
+    - preTitle: 2024
       title: Introducción a Python para ciencia de datos
       background: assets/images/cards/img_ficha_Bradypus_variegatus_ChristianMehlfuhrer.jpg
+      imageLicense: "*Bradypus variegatus.* Foto: [Christian Mehlführer.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Bradypus_variegatus.jpg)"
       cta:
       - text: Proyectos
         href: /projects/python_data_science
@@ -59,6 +59,7 @@ courses:
     - preTitle: 2024      
       title: Aprendizaje automático aplicado a biodiversidad
       background: assets/images/cards/img_ficha_Lampornis_calolaemus_pectoralis_DonFaulkner.jpg
+      imageLicense: "*Lampornis calolaemus pectoralis.* Foto: [Don Faulkner.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Purple-throated_Moutain-Gem_(6901527484).jpg)"
       cta:
       - text: Proyectos
         href: /projects/ml
@@ -71,18 +72,20 @@ courses:
     - preTitle: 2024      
       title: Lenguaje de programación R
       background: assets/images/cards/img_ficha_Lantana_camara_LeilaCalderon.jpg
+      imageLicense: "*Lantana camara.* Foto: Leila Calderón Gómez."
       cta:
       - text: Proyectos
-        href: #
+        href: /projects/r
         isPrimary: true  
       - text: Programa
         href: /courses/r-program
       - text: Material
         href: https://jonathanvsv.github.io/CursoR/
 
-    - preTitle: 2024      
+    - preTitle: 2025      
       title: Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python
       background: assets/images/cards/img_ficha_Bothriechis_lateralis_Cephas.jpg
+      imageLicense: "*Bothriechis lateralis.* Foto: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Bothriechis_lateralis_CR.JPG)"
       cta:
       - text: Proyectos
         href: #
@@ -92,9 +95,10 @@ courses:
       - text: Material
         href: https://datos-geoespaciales-biodiversidad.github.io/python/
 
-    - preTitle: 2024      
+    - preTitle: 2025    
       title: Introducción al modelado de nichos ecológicos y distribuciones de especies
       background: assets/images/cards/img_ficha_Higueron_Reserva_CuriCancha_Monteverde_Cephas.jpg
+      imageLicense: "*Ficus citrifolia.* Foto: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Strangler_fig_Curi_Cancha_07.jpg)"
       cta:
       - text: Proyectos
         href: #

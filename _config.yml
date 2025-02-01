@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: MBiarreta/jekyll-hp-base-theme
+remote_theme: redbioma/jekyll-hp-base-theme
 
 # For use by the 'standardPrivacy' layout
 privacy:

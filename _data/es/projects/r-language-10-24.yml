@@ -1,0 +1,35 @@
+- name: "Análisis estadístico de bosques"
+  students: "Alexander Barrantes"
+  link: "/projects/2024-10-r-language/analisis-bosques.html"
+
+- name: "Tolerancia de metales por parte de microhongos en un pasivo minero de Guanacaste"
+  students: "Anny Vannesa Guillén Watson"
+  link: "/projects/2024-10-r-language/tolerancia-metales.html"
+
+- name: "Análisis de diversidad de las aves presentes en el campus central de la Universidad de San Carlos de Guatemala"
+  students: "Diego Lionel Lima Núñez"
+  link: "/projects/2024-10-r-language/aves-san-carlos.html"
+
+- name: "Análisis de datos sobre densidad y biomasa del inventario de candelilla en el estado de Coahuila"
+  students: "Jaqueline Jeniffer Noguez Lugo"
+  link: "/projects/2024-10-r-language/candelilla-coahuila.html"
+
+- name: "Relación de area foliar con radiación solar en especies del género Dipteryx"
+  students: "Jose Pablo Jimenez Madrigal"
+  link: "/projects/2024-10-r-language/foliar-solar.html"
+
+- name: "Uso de aceites esenciales en el comportamiento alimentario de lechones de la línea TN60"
+  students: "Josué Rocha"
+  link: "/projects/2024-10-r-language/aceites-esenciales.html"
+
+- name: "Variabilidad espacial de la abundancia y diversidad de especies de aves observadas en Bocas del Toro y Darién, Panamá, durante el 2024"
+  students: "Larissa Beltrán"
+  link: "/projects/2024-10-r-language/toro-darien.html"
+
+- name: "Evaluación de tres modelos para el ajuste de datos y predicción de caudales en función de la precipitación para la cuenca del río Tempisque"
+  students: "Leonel Sanabria Méndez"
+  link: "/projects/2024-10-r-language/rio-tempisque.html"
+
+- name: "Análisis de la presencia de mariposas del género Eacles en Costa Rica entre los años 2020-2024"
+  students: "María Biarreta"
+  link: "/projects/2024-10-r-language/mariposas-eacles.html"

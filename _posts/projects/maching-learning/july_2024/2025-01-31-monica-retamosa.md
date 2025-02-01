@@ -1,14 +1,14 @@
 ---
 layout: default
 author: PKiwi_03
-title: VARIABLES AMBIENTALES ASOCIADAS CON LA OCURRENCIA DEL PÁJARO CAMPANA (PROCNIAS TRICARUNCULATUS) EN COSTA RICA
+title: Variables ambientales asociadas con la ocurrencia del pajaro campana (Procnias tricarunculatus) en Costa Rica
 # categories: [Aprendizaje automatico (JUL 2024)]
 hidden: [related_posts, navigator]
 permalink: "/projects/2024-07-maching-learning/variables-ambientales-pajaro-campana"
 sidebar: []
 ---
 
-# VARIABLES AMBIENTALES ASOCIADAS CON LA OCURRENCIA DEL PÁJARO CAMPANA (PROCNIAS TRICARUNCULATUS) EN COSTA RICA
+# Variables ambientales asociadas con la ocurrencia del pajaro campana (Procnias tricarunculatus) en Costa Rica
 
 <h2 style="color: gray; font-weight: normal;">
 Realizado por:  Mónica Retamosa Izaguirre
