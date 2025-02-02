@@ -5,7 +5,7 @@ description: El presente curso está enfocado a introducir conceptos básicos de
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
 height: 55vh
-lang-ref: about
+lang-ref: proyectos
 permalink: /proyectos
 
 ---
