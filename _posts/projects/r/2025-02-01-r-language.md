@@ -4,7 +4,7 @@ title: Proyectos de Introducción al lenguaje R
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
 height: 55vh
-lang-ref: about
+lang-ref: r
 permalink: /projects/r
 
 ---

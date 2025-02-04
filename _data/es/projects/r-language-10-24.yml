@@ -30,6 +30,46 @@
   students: "Leonel Sanabria Méndez"
   link: "/projects/2024-10-r-language/rio-tempisque.html"
 
+- name: "Calidad de agua de algunas quebradas de la zona de Monteverde"
+  students: "Luisa Moreno"
+  link: "/projects/2024-10-r-language/agua-monteverde.html"
+
 - name: "Análisis de la presencia de mariposas del género Eacles en Costa Rica entre los años 2020-2024"
   students: "María Biarreta"
   link: "/projects/2024-10-r-language/mariposas-eacles.html"
+
+- name: "Análisis de la biodiversidad y estructura de las comunidades vegetales en ecosistemas tropicales mediante el conjunto de datos IFRI"
+  students: "Milton Sandoval"
+  link: "/projects/2024-10-r-language/analisis-ifri.html"
+
+- name: "Exploratorio del Conjunto de Datos de Plantas del Género Iris: Relación entre las Dimensiones de Sépalos y Pétalos en Diferentes Especie"
+  students: "Kristty Pamela Jiménez Montiel"
+  link: "/projects/2024-10-r-language/exploratorio-iris.html"
+
+- name: "Macromicetos asociados al Género Quercus en Guatemala"
+  students: "Paula Nicolle Zeceña Chenal"
+  link: "/projects/2024-10-r-language/quercus-guatemala.html"
+
+- name: "Análisis de suelos de Costa Rica a nivel general durante el periodo 1976-2020"
+  students: "Tracy Campos Robles"
+  link: "/projects/2024-10-r-language/analisis-suelos-cr.html"
+
+- name: "Distribución Altitudinal de Tábanos del Género Boldodimyia en Siete Provincias del Ecuador"
+  students: "Valeria Chiriboga Escobar"
+  link: "/projects/2024-10-r-language/tabanos-ecuador.html"
+
+- name: "Crecimiento de la especie Viridantha mauryana (Bromeliace) en la Barranca de Metztitlán, México"
+  students: "Valeria Petrone Mendoza"
+  link: "/projects/2024-10-r-language/viridantha-mexico.html"
+
+- name: "Análisis de poblaciones de insectos en áreas verdes urbanas y de campo en Cartago"
+  students: "Valeria Solís Monge"
+  link: "/projects/2024-10-r-language/insectos-cartago.html"
+
+- name: "Análisis de Librería “palmerpenguins”"
+  students: "Victor Sojo"
+  link: "/projects/2024-10-r-language/libreria-palmerpenguins.html"
+
+- name: "Análisis de biodiversidad de hormigas"
+  students: "Yaretsi Belén Bermúdez"
+  link: "/projects/2024-10-r-language/analisis-hormigas.html"

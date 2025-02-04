@@ -5,7 +5,7 @@ title: Proyectos de Python para Ciencia de Datos
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
 height: 55vh
-lang-ref: about
+lang-ref: python_data_science
 permalink: /projects/python_data_science
 
 ---
@@ -56,10 +56,10 @@ En las siguientes secciones, se presentan los proyectos realizados por los estud
       </tr>
     </thead>
     <tbody>
-      {% for proyecto in site.data.proyectos.python-ciencia-datos-04-24 %}
+      {% for proyecto in site.data.es.projects.python-data-science-04-24 %}
       <tr>
-        <td>{{ proyecto.nombre }}</td>
-        <td>{{ proyecto.integrantes }}</td>
+        <td>{{ proyecto.name }}</td>
+        <td>{{ proyecto.students }}</td>
         <td><a href="{{ proyecto.link }}" class="material-symbols-outlined">visibility</a></td>
       </tr>
       {% endfor %}
@@ -80,10 +80,10 @@ En las siguientes secciones, se presentan los proyectos realizados por los estud
       </tr>
     </thead>
     <tbody>
-      {% for proyecto in site.data.proyectos.python-ciencia-datos-07-24 %}
+      {% for proyecto in site.data.es.projects.python-data-science-07-24 %}
       <tr>
-        <td>{{ proyecto.nombre }}</td>
-        <td>{{ proyecto.integrantes }}</td>
+        <td>{{ proyecto.name }}</td>
+        <td>{{ proyecto.students }}</td>
         <td><a href="{{ proyecto.link }}" class="material-symbols-outlined">visibility</a></td>
       </tr>
       {% endfor %}

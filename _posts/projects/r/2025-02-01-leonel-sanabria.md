@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 author: biarretam
 title: Evaluación de tres modelos para el ajuste de datos y predicción de caudales en función de la precipitación para la cuenca del río Tempisque
 # categories: [Lenguaje R]

@@ -1,17 +1,17 @@
 ---
 layout: default
 author: biarretam
-title: Análisis de la presencia de mariposas del género Eacles en Costa Rica entre los años 2020-2024
+title:  "Exploratorio del Conjunto de Datos de Plantas del Género Iris: Relación entre las Dimensiones de Sépalos y Pétalos en Diferentes Especie"
 # categories: [Lenguaje R]
 hidden: [related_posts, navigator]
-permalink: "/projects/2024-10-r-language/mariposas-eacles.html"
+permalink: "/projects/2024-10-r-language/exploratorio-iris.html"
 sidebar: []
 ---
 
-# Análisis de la presencia de mariposas del género Eacles en Costa Rica entre los años 2020-2024
+# Exploratorio del Conjunto de Datos de Plantas del Género Iris: Relación entre las Dimensiones de Sépalos y Pétalos en Diferentes Especie
 
 <h2 style="color: gray; font-weight: normal;">
-Realizado por:  María Fernanda Biarreta
+Realizado por: Kristty Pamela Jiménez Montiel
 </h2>
 
 ---
@@ -20,7 +20,7 @@ Realizado por:  María Fernanda Biarreta
 <br>
 
 <iframe 
-    src="/assets/pdf/2024-10-r/maria_biarreta.pdf" 
+    src="/assets/pdf/2024-10-r/pamela_jimenez.pdf" 
     width="100%" 
     height="700" 
     style="border: 1px solid #ccc;"
