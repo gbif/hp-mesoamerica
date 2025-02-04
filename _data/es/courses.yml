@@ -29,7 +29,7 @@
 - name: "Lenguaje de programación R"
   start: "09/10/2024"
   finish: "11/12/2024"
-  projects: "En proceso"
+  projects: "/projects/r"
   program: "/courses/r-program"
   instructors: "Jonathan Solórzano Villegas"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSdND7N3UCjgXMbDp6ULa6TGbbnYhrCSA0rpcvrNhqKR1D42rQ/viewform?usp=sharing"
