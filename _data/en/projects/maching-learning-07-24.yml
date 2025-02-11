@@ -1,0 +1,27 @@
+- name: "Analysis of sea turtle records using AI techniques"
+  students: "Homer Bennet"
+  link: "/en/projects/2024-07-machine-learning/analysis-sea-turtles.html"
+
+- name: "BirdCLEF 2024"
+  students: "Fabricio Quiros Corella"
+  link: "/en/projects/2024-07-machine-learning/birdclef.html"
+
+- name: "LNA monitoring data"
+  students: "Yaretsi Belen Bermudez"
+  link: "/en/projects/2024-07-machine-learning/lna-monitoring-data.html"
+
+- name: "Model for predicting the arrival of migratory species"
+  students: "José Abelardo Sánchez Cardoza and Cynthia María Tercero Rojas"
+  link: "/en/projects/2024-07-machine-learning/prediction-migratory-species.html"
+
+- name: "Spatial modeling of Cabrera's vole distribution with Google Earth Engine and Random Forest"
+  students: "Ana Fandiño Carro"
+  link: "/en/projects/2024-07-machine-learning/spatial-modeling.html"
+
+- name: "Neural networks in penguins"
+  students: "Jose Fonseca"
+  link: "/en/projects/2024-07-machine-learning/neural-networks-penguins.html"
+
+- name: "Environmental variables associated with the occurrence of the Three-wattled Bellbird (Procnias tricarunculatus) in Costa Rica"
+  students: "Monica Retamosa Izaguirre"
+  link: "/en/projects/2024-07-machine-learning/environmental-variables-bellbird.html"
