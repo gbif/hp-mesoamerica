@@ -3,7 +3,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
   fontSize: '16px'
 }});
 
-const countryCodes = ['CR','MX','GT','PA','SV','HN','NI'];
+const countryCodes = ['CR','MX','GT','PA','SV','HN','NI','BZ'];
 
 var siteConfig = {
   version: 2,
@@ -11,8 +11,10 @@ var siteConfig = {
     alwaysUseHrefs: true, // Update - there now is translations. since the site isn't translated we can use push for now. if true, then we will always use hrefs, if false we will use onClick events and push state to the history. I've added this because I just realize that the language picker doesn't work with pushState as the url of the translated site is not updated with the new url
     enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey',"datasetKey","datasetSearch", "literatureSearch"],
   },
-  availableCatalogues: ['OCCURRENCE', 'COLLECTION', 'INSTITUTION',"DATASET"],
+  availableCatalogues: ['OCCURRENCE', 'COLLECTION', 'INSTITUTION','DATASET'],
   occurrence: {
+    //highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey'],
+    //defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'country', 'year'],
     mapSettings: {
       lat: 17.816627,
       lng: -98.35669392677512,
@@ -41,13 +43,9 @@ var siteConfig = {
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
-  collection: {
-    rootFilter: {
-      displayOnNHCPortal: true,
-      country: countryCodes
-    }
-  },
   institution: {
+    highlightedFilters: ['taxonKey'],
+    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'country', 'year'],
     rootFilter: {
       displayOnNHCPortal: true,
       country: countryCodes
@@ -57,7 +55,13 @@ var siteConfig = {
       lat: 17.816627,
       lng: -98.35669392677512,
       zoom: 4.809933245,
-    },
+    }
+  },
+  collection: {
+    rootFilter: {
+      displayOnNHCPortal: true,
+      country: countryCodes
+    }
   },
   dataset: {
     rootFilter: {
@@ -73,9 +77,12 @@ var siteConfig = {
       }
     }
   },
+  maps: {
+    locale: 'es', // we want to show the maps in japanese
+    defaultProjection: 'MERCATOR',
+    defaultMapStyle: 'BRIGHT',
+    mapStyles: {
+      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'],
+    }
+  }
 };
-
-// example of a language specific route overwrite
-// if (pageLang === 'da')  {
-//   siteConfig.routes.occurrenceSearch.route = '/observationer/sog';
-// }

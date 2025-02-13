@@ -6,7 +6,7 @@ background:  "{{ site.data.en.images.tabasco.src }}"
 imageLicense: "{{ site.data.en.images.tabasco.caption }}"
 permalink: /en/about
 lang-ref: about
-height: 55vh
+height: 65vh
 toc: true
 cta: 
 - text: Participate in activities

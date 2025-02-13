@@ -5,7 +5,7 @@ permalink: /en/courses
 lang-ref: courses
 background:  "{{ site.data.en.images.tabernaemontana.src }}"
 imageLicense: "{{ site.data.en.images.tabernaemontana.caption }}"
-height: 55vh
+height: 65vh
 ---
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=folder_open" />

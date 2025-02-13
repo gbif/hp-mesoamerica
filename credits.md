@@ -5,7 +5,7 @@ permalink: /credits
 lang-ref: credits
 background:  "{{ site.data.es.images.clorospingus.src }}"
 imageLicense: "{{ site.data.es.images.clorospingus.caption }}"
-height: 55vh
+height: 65vh
 ---
 
 

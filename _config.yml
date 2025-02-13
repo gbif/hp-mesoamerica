@@ -48,8 +48,8 @@ privacy:
 algae:
   rootLang: es
   # latestPostLimit: 2
-  # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
-  # logoAndTitle: false           # include the title next to the logo
+  logo: /assets/images/logos/ico_Redbioma_menu.png  # Logo in navbar, will be displayed with 28px height
+  logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
@@ -59,15 +59,14 @@ algae:
       accent: "#BF4633"
       dark: "#0C2722"
       highlight: "#8C1C25"
-      links: "#0375B1"
+      links: "#AA1713" #rojo   - "#0375B1" celeste - "#fa5e97" anterior
 
-      # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
     # color: "tomato"             # What color should the navbar be?
     # hasWhiteText: true          # Should the text color be white?
-    # floating: true
+     floating: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

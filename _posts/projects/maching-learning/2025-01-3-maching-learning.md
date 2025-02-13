@@ -4,7 +4,7 @@ title: Proyectos de Aprendizaje automático aplicado a datos de biodiversidad
 
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
-height: 55vh
+height: 65vh
 lang-ref: ml
 permalink: /projects/ml
 

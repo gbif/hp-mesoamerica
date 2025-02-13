@@ -4,7 +4,7 @@ title: Proyectos de Python para Ciencia de Datos
 
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
-height: 55vh
+height: 65vh
 lang-ref: python_data_science
 permalink: /projects/python_data_science
 
