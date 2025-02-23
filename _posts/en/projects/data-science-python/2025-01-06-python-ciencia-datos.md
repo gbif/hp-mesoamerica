@@ -1,12 +1,12 @@
 ---
 layout: heroImage
-title: Proyectos de Python para Ciencia de Datos 
+title: Python Projects for Data Science
 
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
 height: 55vh
 lang-ref: python_data_science
-permalink: /projects/python_data_science
+permalink: /en/projects/python_data_science
 
 ---
 <style>
@@ -41,22 +41,23 @@ permalink: /projects/python_data_science
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=visibility" />
 
 <p style="text-align: justify;">
-El presente curso está enfocado en introducir los conceptos básicos de Ciencia de Datos utilizando el lenguaje de programación Python. A lo largo del curso, los estudiantes adquirirán los conocimientos necesarios sobre la sintaxis y la semántica del lenguaje, logrando así un fundamento sólido que les permitirá abordar futuros proyectos en esta área de aplicación.
-En las siguientes secciones, se presentan los proyectos realizados por los estudiantes que participaron en el curso durante el periodo lectivo de abril y julia de 2024.
+This course is focused on introducing the basic concepts of Data Science using the Python programming language. Throughout the course, students will acquire the necessary knowledge of the language's syntax and semantics, building a solid foundation that will enable them to tackle future projects in this field.
+
+The following sections present the projects carried out by students who participated in the course during the academic term of April and July, 2024.
 </p>
 
 <details style="margin-bottom: 2rem;">
-  <summary><strong>Abril, 2024</strong></summary>
+  <summary><strong>April, 2024</strong></summary>
   <table>
     <thead>
       <tr>
-        <th>Nombre del proyecto</th>
-        <th>Integrantes</th>
-        <th>Ver</th>
+        <th>Project Name</th>
+        <th>Members</th>
+        <th>View</th>
       </tr>
     </thead>
     <tbody>
-      {% for proyecto in site.data.es.projects.python-data-science-04-24 %}
+      {% for proyecto in site.data.en.projects.python-data-science-04-24 %}
       <tr>
         <td>{{ proyecto.name }}</td>
         <td>{{ proyecto.students }}</td>
@@ -70,17 +71,17 @@ En las siguientes secciones, se presentan los proyectos realizados por los estud
 ---
 
 <details>
-  <summary><strong>Julio, 2024</strong></summary>
+  <summary><strong>July, 2024</strong></summary>
   <table>
     <thead>
       <tr>
-        <th>Nombre del proyecto</th>
-        <th>Integrantes</th>
-        <th>Ver</th>
+        <th>Project name</th>
+        <th>Members</th>
+        <th>View</th>
       </tr>
     </thead>
     <tbody>
-      {% for proyecto in site.data.es.projects.python-data-science-07-24 %}
+      {% for proyecto in site.data.en.projects.python-data-science-07-24 %}
       <tr>
         <td>{{ proyecto.name }}</td>
         <td>{{ proyecto.students }}</td>

@@ -1,115 +1,124 @@
-- name: "Quantitative Analysis of Centroid Displacement in Niche Models Due to Climate Change"
-  students: "Pablo Gonzales"
-  link: "/projects/2024-04-python-data-science/quantitative-analysis-centroid-displacement.html"
-
-- name: "Data Analysis of Plots from Plantations Under Environmental Services Payment Contracts with FONAFIFO"
-  students: "María Fernanda Obando Picado"
-  link: "/projects/2024-04-python-data-science/plot-data-analysis-psa.html"
-
-- name: "Analysis of Amphibian Diversity in Spain Using Primary Biodiversity Data"
-  students: "Ana Fandiño Carro"
-  link: "/projects/2024-04-python-data-science/amphibian-diversity-analysis-spain.html"
-
-- name: "Species Distribution Analysis of the Quercus Genus in Guatemala"
-  students: "María Fernanda López López"
-  link: "/projects/2024-04-python-data-science/species-distribution-quercus-guatemala.html"
-
-- name: "Analysis of Aquifers in the Guanacaste Region Using Real-Time Aquifer Monitoring System Data (SIMASTIR)"
+- name: "Analysis of Aquifers in the Guanacaste Region Based on Data from the Real-Time Aquifer Monitoring System (SIMASTIR)"
   students: "Esmeralda Vargas Madrigal, Alexander Barrantes Herrera, Valeria Solis Monge"
-  link: "/projects/2024-04-python-data-science/guanacaste-aquifers-analysis.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/analysis-aquifers-guanacaste.html"
 
-- name: "Analysis of Observations from iNaturalist for Class Aves - A Sample from 7 Countries"
+- name: "Analysis of Data from Plots of Land under Contract for Payment for Environmental Services with FONAFIFO"
+  students: "María Fernanda Obando Picado"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/analysis-data-plots.html"
+
+- name: "Analysis of Four Mexican Varieties of Vitis vinifera and Their Relationship with Grape Varieties Cultivated in Europe, Asia, and North America"
+  students: "Jimena Murillo Montero and Diana Margarita Mojica Muñoz"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/analysis-four-mexican-varieties-vitis-vinifera.html"
+
+- name: "Analysis of the Altitudinal Distribution Patterns of Amphibians in Guatemala"
+  students: "Rosa Roldán, Habibi Orellana, Isabel Martínez"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/altitudinal-distribution-patterns-amphibians-guatemala.html"
+
+- name: "Analysis of the Biodiversity of Amphibians in Spain Based on Primary Biodiversity Data"
+  students: "Ana Fandiño Carro"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/analysis-biodiversity-amphibians-spain.html"
+
+- name: "Analysis of the Distribution of Quercus Species in Guatemala"
+  students: "María Fernanda López López"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/analysis-distribution-quercus-guatemala.html"
+
+- name: "Analysis of the Observations Made in iNaturalist for the Class Aves – A Sample from 7 Countries"
   students: "Cynthia Tercero"
-  link: "/projects/2024-04-python-data-science/inaturalist-birds-observation-analysis.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/analysis-observations-iNaturalist-class-aves.html"
 
-- name: "Analysis of Four Mexican Vitis vinifera Varieties and Their Relationship with Vine Varieties Cultivated in Europe, Asia, and North America"
-  students: "Jimena Murillo Montero y Diana Margarita Mojica Muñoz"
-  link: "/projects/2024-04-python-data-science/mexican-vitis-vinifera-varieties.html"
+- name: "Analysis of the Quantitative Displacement of Centroids of Niche Models Due to Climate Change"
+  students: "Pablo Gonzales"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/quantitative-displacement-centroids-niche-models.html"
 
-- name: "Spatial Analysis of Marine Strandings of Cetaceans and Sea Turtles in the City and Port of Coatzacoalcos, Veracruz, Mexico"
-  students: "Homero Benet"
-  link: "/projects/2024-04-python-data-science/marine-strandings-analysis.html"
-
-- name: "Exploratory Data Analysis of Species Records in the Hylidae Family for Generating Biodiversity Information Using Data Science Tools"
+- name: "Biodiversity Information Generation Through Data Science Tools: Exploratory Data Analysis of Hylidae Species Records"
   students: "Hersson Ramírez Molina, Sylvia Rodríguez Abarca"
-  link: "/projects/2024-04-python-data-science/exploratory-data-hylidae.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/exploratory-data-analysis-hylidae.html"
 
-- name: "Exploratory Analysis of Data Associated with Biological Collections of the Banchinae Subfamily (Hymenoptera: Ichneumonidae) Deposited in the National Museum of Costa Rica"
-  students: "Juan Matheo Quequé, Jesús Armando Ugalde-Gómez"
-  link: "/projects/2024-04-python-data-science/banchinae-biological-collections.html"
-
-- name: "Water Quality of the Liberia River Using the Dutch Index"
-  students: "Johanna Rojas Conejo, Fernanda Salas Jara, Anny Guillén Watson"
-  link: "/projects/2024-04-python-data-science/water-quality-rio-liberia.html"
+- name: "Cleaning and Consolidation of the State-Owned Farms Table of MINAE from the Central Conservation Area of the National System of Conservation Areas"
+  students: "Adrián Varela Arquín"
+  link: "/en/projects/2024-04-python-data-science/cleaning-consolidation-farms.html"
 
 - name: "Comparison of Environmental Variables in Observations of Anolis cristatellus in Costa Rica (Introduced) and Puerto Rico (Native)"
   students: "Jimmy Barrantes Madrigal"
-  link: "/projects/2024-04-python-data-science/environmental-variables-anolis-cristatellus.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/comparison-environmental-variables.html"
 
-- name: "Ecological Corridor for Lepidoptera in Urban Areas Between Mokoron Hill and UNAN, Managua"
-  students: "Joxual J. Araque Pérez."
-  link: "/projects/2024-04-python-data-science/lepidoptera-ecological-corridor.html"
-
-- name: "Species Determination by Geographic Distribution"
-  students: "Luis Arrieta Arrieta, Stefany Solano González"
-  link: "/projects/2024-04-python-data-science/species-geographic-distribution.html"
-
-- name: "Dynamics of the Secondary Forest in Florencia, Turrialba, Costa Rica"
-  students: "Marcella Sarti Arellano"
-  link: "/projects/2024-04-python-data-science/secondary-forest-dynamics.html"
-
-- name: "Diversity of Bees in the Halictidae Family in Mexico"
+- name: "Diversity of Bees from the Halictidae Family in Mexico"
   students: "Ulises López Mora, Ana Celeste Martínez Cervantes"
-  link: "/projects/2024-04-python-data-science/halictidae-bees-diversity.html"
+  link: "/en/projects/2024-04-python-data-science/diversity-bees-halictidae-family-mexico.html"
 
-- name: "Payment for Environmental Services: An Economic Tool for the Protection of Natural Resources in Costa Rica"
-  students: "Francisco García Gruz, Víctor Sojo Chaves"
-  link: "/projects/2024-04-python-data-science/psa-economic-tool-costa-rica.html"
+- name: "Determination of Species Based on Geographic Distribution"
+  students: "Luis Arrieta Arrieta, Stefany Solano González"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/determination-species-geographic-distribution.html"
+
+- name: "Dynamics of the Secondary Forest Florencia, Turrialba, Costa Rica"
+  students: "Marcella Sarti Arellano"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/dynamics-secondary-forest-florencia.html"
+
+- name: "Ecological Corridor for Lepidoptera in Urban Areas, Between Cerro Mokorón and UNAN, Managua"
+  students: "Joxual J. Araque Pérez."
+  link: "/en/projects/2024-04-python-data-science/ecological-corridor.html"
+
+
+- name: "Exploratory Analysis of Data Associated with the Biological Collections of the Banchinae Subfamily (Hymenoptera: Ichneumonidae) Deposited in the National Museum of Costa Rica"
+  students: "Juan Matheo Quequé, Jesús Armando Ugalde-Gómez"
+  link: "/en/projects/2024-04-python-data-science/exploratory-analysis-biological-collections.html"
 
 - name: "Evaluation of Water Quality in Estuaries and Lakes of National Importance: A Hydrochemical Study for Environmental Sustainability"
   students: "Mónica Gabriela Pacas Mejía, Milton Antonio Sandoval, Patricia Steffany Arias Orellana"
-  link: "/projects/2024-04-python-data-science/water-quality-estuaries-lakes.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/evaluation-water-quality.html"
 
-- name: "Phenology of Dipteryx"
+- name: "Fenology of Dipteryx"
   students: "Jose Pablo Jiménez, Dawa Méndez Álvarez"
-  link: "/projects/2024-04-python-data-science/dipteryx-phenology.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/phenology-dipteryx.html"
 
 - name: "Invasion of the Plant Leonotis nepetifolia in Mesoamerica"
   students: "Ana Estrada, Randall Hidalgo, Vanessa Villacís"
-  link: "/projects/2024-04-python-data-science/leonotis-nepetifolia-invasion.html"
-
-- name: "Incidence and Deaths from Covid Worldwide 2019-2023"
-  students: "Carolina Sancho Blanco"
-  link: "/projects/2024-04-python-data-science/covid-incidence-deaths.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/invasion-plant-leonotis-nepetifolia-mesoamerica.html"
 
 - name: "iNaturalist as a Tool for Sustainable Tourism"
   students: "José Renato Morales Mérida"
-  link: "/projects/2024-04-python-data-science/inaturalist-sustainable-tourism.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/inaturalist-tool-sustainable-tourism.html"
 
-- name: "Cleaning and Consolidation of the State Minae Farm Table from the Central Conservation Area of the National Conservation Area System"
-  students: "Adrián Varela Arquín"
-  link: "/projects/2024-04-python-data-science/farm-data-cleaning.html"
-
-- name: "Soil Microbiome"
+- name: "Microbiome of Soils"
   students: "Karol Salazar Barrantes"
-  link: "/projects/2024-04-python-data-science/soil-microbiome.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/microbiome-soils.html"
 
-- name: "Flower Flies: Discovering Their Distribution with the Help of Citizen Science"
+- name: "Moscas de las Flores: Discovering Their Distribution with the Help of Citizen Science"
   students: "Rosa María Estrada Hernández, Luis Andrés Arévalo Rodríguez"
-  link: "/projects/2024-04-python-data-science/flower-flies-distribution.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/flower-flies-distribution-citizen-science.html"
 
-- name: "Bellbird"
-  students: "Mónica Retamosa"
-  link: "/projects/2024-04-python-data-science/bellbird.html"
+- name: "Payment for Environmental Services: An Economic Tool for the Protection of Natural Resources in Costa Rica"
+  students: "Francisco García Gruz, Víctor Sojo Chaves"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/payment-environmental-services.html"
 
-- name: "Patterns of Altitudinal Distribution of Amphibians in Guatemala"
-  students: "Rosa Roldán, Habibi Orellana, Isabel Martínez"
-  link: "/projects/2024-04-python-data-science/altitudinal-distribution-amphibians.html"
-
-- name: "Environmental Services Payment Projects in Fauna Conservation"
+- name: "Payment for Environmental Services Projects in Fauna Conservation"
   students: "Esaud E. Chaves Picado, Jennifer Hernández Sánchez"
-  link: "/projects/2024-04-python-data-science/psa-projects-fauna.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/payment-services-conservation.html"
 
-- name: "Relationship Between Altitude, Precipitation, and Temperature in Guatemala"
+- name: "Pájaro Campana"
+  students: "Mónica Retamosa"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/bellbird.html"
+
+- name: "Patterns of Altitude, Precipitation, and Temperature in Guatemala"
   students: "Paris Rivera"
-  link: "/projects/2024-04-python-data-science/altitude-precipitation-temperature.html"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/patterns-altitude-precipitation-temperature-guatemala.html"
+
+- name: "Projects of Payment for Environmental Services in Fauna Conservation"
+  students: "Esaud E. Chaves Picado, Jennifer Hernández Sánchez"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/payment-environmental-services-conservation.html"
+
+- name: "Quality of Water in the Liberia River Using the Dutch Index Calculation"
+  students: "Johanna Rojas Conejo, Fernanda Salas Jara, Anny Guillén Watson"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/water-quality-liberia-river.html"
+
+- name: "Spatial Analysis of Marine Strandings of Cetaceans and Sea Turtles in the City and Port of Coatzacoalcos, Veracruz, Mexico"
+  students: "Homero Benet"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/spatial-analysis-marine-strandings.html"
+
+- name: "Standardization and Cleaning of the State Farms Table of the Central Conservation Area of SINAC"
+  students: "Adrián Varela Arquín"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/standardization-cleaning-state-farms.html"
+
+- name: "Worldwide Incidence and Deaths from COVID-19 (2019-2023)"
+  students: "Carolina Sancho Blanco"
+  link: "/en/proyectos/2024-04-python-ciencia-datos/worldwide-incidence-deaths-covid.html"
