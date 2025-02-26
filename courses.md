@@ -5,7 +5,7 @@ permalink: /courses
 lang-ref: courses
 background:  "{{ site.data.es.images.tabernaemontana.src }}"
 imageLicense: "{{ site.data.es.images.tabernaemontana.caption }}"
-height: 55vh
+height: 65vh
 ---
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=folder_open" />
@@ -24,7 +24,7 @@ a, .material-symbols-outlined {
 
 </style>
 
-<table>
+<table style="width:100%">
   <thead>
     <tr>
       <th>Programa del curso</th>

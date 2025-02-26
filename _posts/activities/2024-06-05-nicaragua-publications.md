@@ -6,7 +6,7 @@ date:   2024-06-05 +0600
 permalink: /webinars/nicaragua-day5
 lang-ref: webinar-nicaragua-day5
 background:  "{{ site.data.es.images.day5.src }}"
-height: 55vh
+height: 65vh
 ---
 
 ## Detalles

@@ -1,10 +1,9 @@
 ---
 layout: heroImage
 title: Projects on Machine Learning Applied to Biodiversity Data
-
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
-height: 55vh
+height: 65vh
 lang-ref: ml
 permalink: /en/projects/ml
 

@@ -4,7 +4,7 @@ title: Proyectos de Python para Ciencia de Datos
 
 background:  "{{ site.data.es.images.tabasco.src }}"
 imageLicense: "{{ site.data.es.images.tabasco.caption }}"
-height: 55vh
+height: 65vh
 lang-ref: python_data_science
 permalink: /projects/python_data_science
 
@@ -42,7 +42,7 @@ permalink: /projects/python_data_science
 
 <p style="text-align: justify;">
 El presente curso está enfocado en introducir los conceptos básicos de Ciencia de Datos utilizando el lenguaje de programación Python. A lo largo del curso, los estudiantes adquirirán los conocimientos necesarios sobre la sintaxis y la semántica del lenguaje, logrando así un fundamento sólido que les permitirá abordar futuros proyectos en esta área de aplicación.
-En las siguientes secciones, se presentan los proyectos realizados por los estudiantes que participaron en el curso durante el periodo lectivo de abril y julia de 2024.
+En las siguientes secciones, se presentan los proyectos realizados por los estudiantes que participaron en el curso durante el periodo lectivo de abril de 2024.
 </p>
 
 <details style="margin-bottom: 2rem;">

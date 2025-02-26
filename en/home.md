@@ -5,7 +5,7 @@ title: redbioma
 description: Data Science Network for the Conservation of Mesoamerican Biodiversity
 background:  "{{ site.data.en.images.ara_macao.src }}"
 imageLicense: "{{ site.data.en.images.ara_macao.caption }}"
-height: 55vh
+height: 65vh
 composition:
   - type: heroImage # the block type
   - type: stats

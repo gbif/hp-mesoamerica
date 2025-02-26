@@ -5,7 +5,7 @@ permalink: /en/collaboration
 lang-ref: collaboration
 background:  "{{ site.data.en.images.passiflora.src }}"
 imageLicense: "{{ site.data.en.images.passiflora.caption }}"
-height: 55vh
+height: 65vh
 ---
 
 <div style="text-align: justify">
