@@ -1,3 +1,39 @@
-- nombre: "En proceso"
-  integrantes: "Redbioma"
-  link: "/projects/python_data_science.html"
+- name: "Analysis of Apis mellifera Geographic Distribution According to Climatic Variables in Costa Rica and Brazil"
+  students: "Maripaz Roldán Morales and Anaclara Arce"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/distribucion-apis-mellifera.html"
+
+- name: "Analysis of Edaphological Conditions of a Land for a Farm with Agricultural Potential in Llano Grande de Cartago"
+  students: "Katherine Bonilla Mora and Luis Diego Quesada Perez"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/analisis-edafologico-finca.html"
+
+- name: "Analysis of Geographic and Temporal Distribution of the Centrolenidae Family in Costa Rica: Implications for Biodiversity and Conservation"
+  students: "Pamela Jiménez Montiel"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/distribucion-familia-centrolenidae.html"
+
+- name: "Analysis of Migratory and Endemic Species in the Cloudbridge Reserve, Talamanca Mountains, Costa Rica"
+  students: "Johan Steven Vargas Ledezma"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/analisis-especies-reserva-cloudbrige.html"
+
+- name: "Analysis of Necropsies Performed Over Three Months at the Alturas Wildlife Sanctuary Rescue Center"
+  students: "Ana María Villada Rosales"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/necropsias-wildlife-sanctuary.html"
+
+- name: "Analysis of Spatial and Functional Distribution of Birds in the Poás Canton Using Clustering Techniques"
+  students: "Melanie Calderón Hernández, Jose Vargas Murillo, and Paula Vargas Jiménez"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/distribucion-espacial-aves.html"
+
+- name: "Datamining of American Onychophorans: Search and Distribution Patterns"
+  students: "Daniel Sánchez González, Joshua Ramsés Rodríguez Rodríguez, and Rebeca Quesada Céspedes"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/datamineo-onicoforos.html"
+
+- name: "Exploratory Analysis of Amphibians in Panama According to Their Conservation Status"
+  students: "Eddy Bustamante, Christofher Cardenas, Lisseth McDonald"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/analisis-anfibios-panama.html"
+
+- name: "Current Distribution of the Harpy Eagle (Harpia harpyja) in Panama"
+  students: "Larissa Beltrán"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/distribucion-aguila-arpia.html"
+
+- name: "Prediction of Video Game Success Using Statistical Models Based on Historical Data and Market Trends"
+  students: "Samuel Jimenez"
+  link: "/en/proyectos/2024-07-python-ciencia-datos/prediccion-exito-videojuegos.html"
