@@ -6,7 +6,8 @@ features:
     title: Publicaciones sobre biodiversidad de Nicaragua 2000 - 2024 # required
     description: |      # required
       Conferencias cortas de especialistas para presentar las publicaciones más importantes en su ámbito.
-    background: "{{ site.data.es.images.day5.src }}"  # img required
+    background: "{{ site.data.es.images.epiperipatus.src }}"
+    imageLicense: "{{ site.data.es.images.epiperipatus.caption }}"
     href: /webinars/nicaragua-day5
     categories: [Día del medio ambiente]
 
@@ -15,5 +16,6 @@ features:
     description: |   
       Conferencias cortas sobre el uso potencial de las plataformas de datos de biodiversidad para educación no formal. 
     background: "{{ site.data.es.images.day7.src }}"
+    imageLicense: "{{ site.data.es.images.day7.caption }}"
     href: /webinars/nicaragua-day7
     categories: [Día del medio ambiente]

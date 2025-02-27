@@ -6,4 +6,6 @@ lang-ref: activities
 composition:
   - type: features
     data: en.activities.webinars
+  - type: features
+    data: en.activities.publications
 ---
