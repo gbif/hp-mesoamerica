@@ -1,0 +1,10 @@
+title: "Publications"
+description: |
+  Publications by redbioma members
+features:
+  - title: Redbioma publications
+    description: |      # required
+      Paper published by redbioma members in the years 2024-2025.
+    background: "{{ site.data.en.images.pecari.src }}"
+    imageLicense: "{{ site.data.en.images.pecari.caption }}"
+    href: /en/publications

@@ -6,7 +6,8 @@ features:
     title: Nicaragua biodiversity publications 2000 - 2024 # required
     description: |      # required
       Short lectures by experts to present the most significant publications in their fields.
-    background: "{{ site.data.en.images.day5.src }}"  # img required
+    background: "{{ site.data.en.images.epiperipatus.src }}"
+    imageLicense: "{{ site.data.en.images.epiperipatus.caption }}"
     href: /en/webinars/nicaragua-day5
     categories: [Environmental Day]
 
@@ -15,5 +16,6 @@ features:
     description: |   
       Short lectures on the potential use of biodiversity data platforms for non-formal education. 
     background: "{{ site.data.en.images.day7.src }}"
+    imageLicense: "{{ site.data.en.images.day7.caption }}"
     href: /en/webinars/nicaragua-day7
     categories: [Environmental Day]

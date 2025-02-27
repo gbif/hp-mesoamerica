@@ -6,6 +6,7 @@ date: 2024-06-07 +0600
 permalink: /en/webinars/nicaragua-day7
 lang-ref: webinar-nicaragua-day7
 background: "{{ site.data.en.images.day7.src }}"
+imageLicense: "{{ site.data.en.images.day7.caption }}"
 height: 65vh
 ---
 

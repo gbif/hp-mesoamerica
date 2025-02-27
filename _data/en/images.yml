@@ -50,6 +50,41 @@ tabernaemontana:
   caption: |
     *Tabernaemontana onnell smithii.* Photo: Leila Calderón Gómez.
 
+bradypus:
+  src: assets/images/cards/img_ficha_Bradypus_variegatus_ChristianMehlfuhrer.jpg
+  caption: |
+    *Bradypus variegatus.* Photo: [Christian Mehlführer.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Bradypus_variegatus.jpg)
+
+lampornis:
+  src: assets/images/cards/img_ficha_Lampornis_calolaemus_pectoralis_DonFaulkner.jpg
+  caption: |
+    *Lampornis calolaemus pectoralis.* Photo: [Don Faulkner.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Purple-throated_Moutain-Gem_(6901527484).jpg)
+
+lantana:
+  src: assets/images/cards/img_ficha_Lantana_camara_LeilaCalderon.jpg
+  caption: |
+    *Lantana camara.* Photo: Leila Calderón Gómez.
+
+bothriechis:
+  src: assets/images/cards/img_ficha_Bothriechis_lateralis_Cephas.jpg
+  caption: |
+    *Bothriechis lateralis.* Photo: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Bothriechis_lateralis_CR.JPG)
+
+ficus:
+  src: assets/images/cards/img_ficha_Higueron_Reserva_CuriCancha_Monteverde_Cephas.jpg
+  caption: |
+    *Ficus citrifolia.* Photo: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Strangler_fig_Curi_Cancha_07.jpg)
+
+pecari:
+  src: assets/images/cards/img_fichasActividad01.jpg
+  caption: |
+    *Pecari tajacu.* Photo: [Geoff Gallice.](https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Collared_peccaries_(1).jpg)
+
+epiperipatus:
+  src: assets/images/cards/img_fichaActividad02.jpg
+  caption: |
+    *Epiperipatus solorzanoi.* Photo: A. Solórzano and J. Monge.
+
 day5:
   src: assets/images/thumbnails/dia5.png
 
