@@ -1,6 +1,6 @@
 stats:
   features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=CR&country=MX&country=GT&country=PA&country=SV&country=HN&country=NI&country=BZ&notissues=COUNTRY_COORDINATE_MISMATCH"></span>
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=query%7B%20occurrenceSearch(predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20in%2C%20key%3A%20%22country%22%2C%20values%3A%20%5B%22CR%22%2C%22MX%22%2C%22GT%22%2C%22PA%22%2C%22SV%22%2C%22HN%22%2C%22NI%22%2C%22BZ%22%5D%7D%2C%20%7Btype%3A%20not%2C%20predicate%3A%20%7Btype%3Aequals%2C%20key%3A%20%22issue%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%7D%5D%7D)%20%7B%20documents(size%3A%200)%20%7B%20total%20%7D%20%7D%20%7D"></span>
       description: Biological records
       background: assets/images/icons/ico_registrosBiologicos.png
       href: /en/occurrence/search 
