@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Application form for the Data science program (Python knowledge required)
-date: 2023-11-25 +0600
+date: 2023-11-25
 categories: [Courses]
 permalink: /en/courses/ds-program
 lang-ref: ds-program
 ---
 
 <div style="text-align: justify">
-The Data Science Network for the Conservation of Mesoamerican Biodiversity (redbioma) invites its participants to enroll in the Data science program offered by the School of Computer Engineering at the Costa Rica Institute of Technology (ITCR).
-<br><br>
-The objective of the project is to propose solutions to conservation problems through data science, with a strong focus on capacity building and empowerment of women in the region.
+<p>The Data Science Network for the Conservation of Mesoamerican Biodiversity (redbioma) invites its participants to enroll in the Data science program offered by the School of Computer Engineering at the Costa Rica Institute of Technology (ITCR).</p>
+<p>The objective of the project is to propose solutions to conservation problems through data science, with a strong focus on capacity building and empowerment of women in the region.</p>
 </div>
+
+<br>
 
 ## Considerations
 
@@ -23,7 +24,9 @@ The objective of the project is to propose solutions to conservation problems th
 - If selected, you will be required to sign a contract of commitment to successfully complete the enrolled courses or pay for any failed course.
 - Completing the form does not guarantee participation in the program.
 - Personal data collected through this form will not be published and will only be used for the selection process.
-  
+
+<br>  
+
 ## Module topics
 
 - Mathematics for data science
@@ -32,10 +35,14 @@ The objective of the project is to propose solutions to conservation problems th
 - Big Data
 - Business Intelligence and Data Mining
 
+<br>
+
 ## Additional information
 
 - Learn more about the Data Science Network for the Conservation of Mesoamerican Biodiversity at [redbioma.org.](https://redbioma.github.io)
 - Further details about the program are available here: [Data science program.](https://www.tec.ac.cr/fundatec/programa-ciencias-datos-escuela-computacion)
+
+<br>
 
 ## Requirements for the Data science program:
 
@@ -43,6 +50,8 @@ The objective of the project is to propose solutions to conservation problems th
 - Bachelor’s degree in natural sciences, engineering, statistics, mathematics, geography, or any related field.
 - Demonstrated programming experience. Applicants must have knowledge of Python or, alternatively, experience with another programming language and the ability to self-learn Python.
 - If an applicant does not know Python but has experience with other programming languages, they can express interest in taking a leveling course.
+
+<br>
 
 ## Application form
 

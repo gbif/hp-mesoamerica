@@ -15,7 +15,7 @@ features:
     title: Biodiversity data platforms and non-formal education
     description: |   
       Short lectures on the potential use of biodiversity data platforms for non-formal education. 
-    background: "{{ site.data.en.images.day7.src }}"
-    imageLicense: "{{ site.data.en.images.day7.caption }}"
+    background: "{{ site.data.en.images.pecari.src }}"
+    imageLicense: "{{ site.data.en.images.pecari.caption }}"
     href: /en/webinars/nicaragua-day7
     categories: [Environmental Day]

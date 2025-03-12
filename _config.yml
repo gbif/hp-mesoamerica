@@ -54,7 +54,7 @@ algae:
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#2C7446"
+      primary: "#008B89"
       secondary: "#D2D9A3"
       accent: "#BF4633"
       dark: "#0C2722"

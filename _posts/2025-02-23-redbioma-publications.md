@@ -1,22 +1,22 @@
 ---
 layout: heroImage
-title: Redbioma publications
-permalink: /en/publications
+title: Publicaciones
+permalink: /publications
 lang-ref: publications
-background: "{{ site.data.es.images.pecari.src }}"
-imageLicense: "{{ site.data.es.images.pecari.caption }}"
+background: "{{ site.data.es.images.robinsonella.src }}"
+imageLicense: "{{ site.data.es.images.robinsonella.caption }}"
 height: 65vh
 ---
 
-# Publications
+# Publicaciones
 
 <table style="width:100%">
   <thead>
     <tr>
-      <th>Title</th>
-      <th style="text-align: center;">Year</th>
-      <th>Conference</th>
-      <th>Authors</th>
+      <th>Título</th>
+      <th style="text-align: center;">Año</th>
+      <th>Conferencia</th>
+      <th>Autores</th>
     </tr>
   </thead>
   <tbody>
@@ -27,9 +27,9 @@ height: 65vh
         {% else %}
             <td><a href="{{ p.doi }}">{{ p.title }}</a></td>
         {% endif %}
-        <td>{{ p.year }}</td>
-        <td>{{ p.conference }}</td>
-        <td>{{ p.authors }}</td>
+      <td>{{ p.year }}</td>
+      <td>{{ p.conference }}</td>
+      <td>{{ p.authors }}</td>
     </tr>
     {% endfor %}
   </tbody>

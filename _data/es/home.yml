@@ -83,27 +83,53 @@ courses:
         href: https://jonathanvsv.github.io/CursoR/
 
     - preTitle: 2025      
-      title: Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python
+      title: Procesamiento de datos geoespaciales de biodiversidad
       background: "{{ site.data.es.images.bothriechis.src }}"
       imageLicense: "{{ site.data.es.images.bothriechis.caption }}"
       cta:
-      - text: Proyectos
-        href: #
-        isPrimary: true       
+      #- text: Proyectos
+      #  href: #
+      #  isPrimary: true       
       - text: Programa
         href: /courses/gis-program
       - text: Material
         href: https://datos-geoespaciales-biodiversidad.github.io/python/
 
     - preTitle: 2025    
-      title: Introducción al modelado de nichos ecológicos y distribuciones de especies
+      title: Introducción al modelado de nichos ecológicos y distribuciones de especies      
+      background: "{{ site.data.es.images.dasypus.src }}"
+      imageLicense: "{{ site.data.es.images.dasypus.caption }}"
+      cta:
+      #- text: Proyectos
+      #  href: #
+      #  isPrimary: true
+      - text: Programa
+        href: /courses/modeling-program
+      #- text: Material
+      #  href: #
+
+    - preTitle: 2025    
+      title: Planeación sistemática de la conservación con Zonation
+      background: "{{ site.data.es.images.guarianthe.src }}"
+      imageLicense: "{{ site.data.es.images.guarianthe.caption }}"
+      cta:
+      #- text: Proyectos
+      #  href: #
+      #  isPrimary: true
+      - text: Programa
+        href: /courses/zonation-program
+      #- text: Material
+      #  href: #
+
+    - preTitle: 2025    
+      title: Enfoques, métodos y herramientas para el análisis de la conectividad ecológica
       background: "{{ site.data.es.images.ficus.src }}"
       imageLicense: "{{ site.data.es.images.ficus.caption }}"
       cta:
-      - text: Proyectos
-        href: #
-        isPrimary: true
+      #- text: Proyectos
+      #  href: #
+      #  isPrimary: true
       - text: Programa
-        href: /courses/modeling-program
-      - text: Material
-        href: #
+        href: /courses/connectivity-program
+      #- text: Material
+      #  href: #

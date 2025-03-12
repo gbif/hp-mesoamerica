@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Formulario para participar del Programa de ciencia de datos (Requiere conocimientos de Python)
-date:   2023-11-25 +0600
+date:   2023-11-25
 categories: [Courses]
 permalink: /courses/ds-program
 lang-ref: ds-program
 ---
 
 <div style="text-align: justify">
-La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma) invita a los participantes a cursar el Programa de ciencia de datos que imparte la Escuela de Ingeniería en Computación del Instituto Tecnológico de Costa Rica (ITCR).
-<br><br>
-El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
+<p>La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma) invita a los participantes a cursar el Programa de ciencia de datos que imparte la Escuela de Ingeniería en Computación del Instituto Tecnológico de Costa Rica (ITCR).</p>
+<p>El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.</p>
 </div>
+
+<br>
 
 ## Consideraciones
 
@@ -23,6 +24,8 @@ El objetivo de la red es proponer soluciones a problemas de la conservación med
 - De resultar una persona seleccionada usted deberá firmar un contrato de compromiso de ganar los cursos que matricule o cancelar el costo del curso perdido.
 - El llenar el formulario no garantiza la participación en el programa.
 - Los datos personales recopilados por medio de este cuestionario no serán publicados solamente serán utilizados para realizar el proceso de selección de las personas beneficiadas.
+
+<br>
   
 ## Temas de los módulos
 
@@ -32,10 +35,14 @@ El objetivo de la red es proponer soluciones a problemas de la conservación med
 - Big Data
 - Inteligencia de negocios y minería de datos
 
+<br>
+
 ## Más información
 
 - Sobre la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana está disponible en [redbioma.org.](https://redbioma.github.io)
 - Más información del Programa está disponible aquí: [Programa de ciencia de datos.](https://www.tec.ac.cr/fundatec/programa-ciencias-datos-escuela-computacion)
+
+<br>
 
 ## Requisitos del Programa de ciencia de datos:
 
@@ -43,6 +50,8 @@ El objetivo de la red es proponer soluciones a problemas de la conservación med
 - Bachillerato universitario en ciencias naturales, ingeniería, estadística, matemáticas, geografía o algún área relacionada con las anteriores.
 - Experiencia demostrada en programación. Se debe contar con conocimientos en Python o en su defecto haber programado en algún otro lenguaje y por cuenta propia aprender Python.
 - Si la persona no cuenta con conocimientos en Python pero sí en programación en otros lenguajes, puede indicar su interés en tomar un curso de nivelación.
+
+<br>
 
 ## Link al formulario
 
