@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducción a Python para ciencia de datos - Abril
-date:   2024-03-12 +0600
+date:   2024-03-12
 categories: [Courses]
 permalink: /courses/python-program-04
 lang-ref: python-program-04
@@ -9,9 +9,11 @@ lang-ref: python-program-04
 
 ## Descripción
 <div style="text-align: justify">
-El presente curso está enfocado a introducir conceptos básicos de ciencia de datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.
-<br><br>
+<p>El presente curso está enfocado a introducir conceptos básicos de ciencia de datos a través del lenguaje de programación Python. A lo largo del curso, las personas estudiantes aprenderán la sintaxis y semántica necesaria del lenguaje para lograr un fundamento sólido de conocimientos que les ayudarán a realizar futuros proyectos en el área de aplicación.</p>
+</div>
+<br>
 
+<div>
 <b>Horario y fecha de inicio</b>
 <br>
 El curso se impartirá en dos grupos independientes en los siguientes horarios:
@@ -19,8 +21,10 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
     <li>Grupo #1: inicia el miércoles 3 de abril y se impartirá todos los miércoles a las 06:00 pm. (GMT-6) durante 8 semanas.</li>
     <li>Grupo #2: inicia el jueves 4 de abril y se impartirá todos los jueves a las 06:00 pm. (GMT-6) durante 8 semanas.</li>
 </ul>
+</div>
 <br>
 
+<div>
 <b>Tipo de curso</b>
 <br>
 <ul>
@@ -28,63 +32,67 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
     <li>Teórico/Práctico: Para completar el programa, es necesario tener una asistencia efectiva de más del 75% de las clases sincrónicas virtuales, y sus evaluaciones con un promedio mayor o igual a 70.</li>
     <li>Costo: Gratuito.</li>
 </ul>
+</div>
+<br>
 
+<div>
 <b>Requisitos</b>
 <ul>
 <li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
 <li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
-
-<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma.</a> (anteriormente circulado)</li>
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma</a> (anteriormente circulado, por favor llenarlo una sola vez).</li>
 </ul>
-
 </div>
+<br>
 
-## Formulario de inscripción (Cupos limitados)
+## Formulario de inscripción
 Enlace: [Inscripciones Python para ciencia de datos](https://forms.gle/XbZCbuSoV33FiPc1A)
+
+<br>
 
 ## Objetivos
 
-### General
+#### General
 <div style="text-align: justify">
-Este programa de introducción a Python está diseñado para proporcionar una comprensión sólida de los conceptos básicos de la programación y los fundamentos de Python a través de lecciones teóricas y prácticas que permitan desarrollar capacidades en ciencia de datos en las personas participantes.
-</div>
+<p>Este programa de introducción a Python está diseñado para proporcionar una comprensión sólida de los conceptos básicos de la programación y los fundamentos de Python a través de lecciones teóricas y prácticas que permitan desarrollar capacidades en ciencia de datos en las personas participantes.
+</p></div>
+<br>
 
-### Específicos
-<div style="text-align: justify">
-<ul>
+#### Específicos
+<div style="text-align: justify"><ul>
     <li>Construir  una comprensión sólida de la sintaxis básica de Python utilizada para  escribir y ejecutar código en el lenguaje.</li>
     <li>Experimentar con los conceptos básicos de programación, incluyendo variables, tipos de datos, estructuras de datos, funciones, programación orientada a objetos (POO), y graficación de datos.</li>
     <li>Desarrollar conceptos relacionados con el tema de ciencia de datos, por ejemplo: álgebra lineal, aprendizaje automático, análisis exploratorio de datos, sistemas de información geográficos, entre otros.</li>
     <li>Aplicar los conocimientos y habilidades adquiridos a través de laboratorios prácticos, para consolidar el aprendizaje y desarrollar habilidades en la programación de Python.</li>
     <li>Desarrollar proyectos de investigación aplicados a la conservación de la biodiversidad.</li>
-</ul>
-</div>
+</ul></div>
+<br>
 
 ## Metodología del curso
+
 <div style="text-align: justify">
-La metodología del curso estará basada en aprendizaje activo y colaborativo, por medio de resolución de problemas planteados en los laboratorios, trabajo de investigación y aula invertida, entre otras técnicas. Se propone guiar a las personas estudiantes para que estas fortalezcan su capacidad de investigar y aplicar nuevos conceptos teniendo como base el conocimiento adquirido previamente y los contenidos del curso.
-<br><br>
-El programa del curso es teórico/práctico donde los participantes pondrán en práctica los conocimientos teóricos mediante casos de estudios, laboratorios y proyecto de investigación.
-<br><br>
+<p>La metodología del curso estará basada en aprendizaje activo y colaborativo, por medio de resolución de problemas planteados en los laboratorios, trabajo de investigación y aula invertida, entre otras técnicas. Se propone guiar a las personas estudiantes para que estas fortalezcan su capacidad de investigar y aplicar nuevos conceptos teniendo como base el conocimiento adquirido previamente y los contenidos del curso.</p>
+<p>El programa del curso es teórico/práctico donde los participantes pondrán en práctica los conocimientos teóricos mediante casos de estudios, laboratorios y proyecto de investigación.</p>
 <b>Importante:</b>
 <ul>
     <li>Todas las sesiones sincrónicas serán grabadas y publicadas en el sitio web del proyecto.</li>
     <li>Los proyectos finales de investigación serán publicados en el sitio web del proyecto.</li>
 </ul>
 </div>
+<br>
 
 ## Contenidos del programa
 <div style="text-align: justify">
 <ol>
-    <b><li>Fundamentos de Python. (1 sesión / 2 horas)</li></b>
+    <b><li>Fundamentos de Python</li></b>
     <ol type="i">
         <li>Introducción a Python.</li>
-        <li>Configuración de ambiente de trabajo. (Cuadernos de Jupyter)</li>
+        <li>Configuración de ambiente de trabajo (Cuadernos de Jupyter).</li>
         <li>Variables y tipos de datos.</li>
         <li>Estructuras de control de flujo.</li>
         <li>Funciones.</li>
     </ol>
-    <b><li>Introducción al análisis de datos con Python. (4 sesiones / 2 horas)</li></b>
+    <b><li>Introducción al análisis de datos con Python</li></b>
     <ol type="i">
         <li>Introducción a POO y a Pandas.</li>
         <li>Manejo de datos y formatos de archivos.</li>
@@ -93,21 +101,22 @@ El programa del curso es teórico/práctico donde los participantes pondrán en 
         <li>Graficación y visualización de datos.</li>
         <li>Transformación y preprocesamiento de datos.</li>
     </ol>
-    <b><li>Introducción a la representación de datos geoespaciales. (1 sesión / 2 horas)</li></b>
+    <b><li>Introducción a la representación de datos geoespaciales</li></b>
     <ol type="i">
         <li>Introducción a los sistemas de información geográfica (GIS) con datos de biodiversidad.</li>
     </ol>
-    <b><li>Introducción al aprendizaje automático. (1 sesión / 2 horas)</li></b>
+    <b><li>Introducción al aprendizaje automático</li></b>
     <ol type="i">
         <li>Introducción al aprendizaje automático.</li>
         <li>Ejemplo de uso.</li>
     </ol>
 </ol>
 </div>
+<br>
 
 ## Evaluación
 <div style="text-align: justify">
-Las personas estudiantes llevarán a cabo tareas cortas, laboratorios y un proyecto final, los rubros de las evaluaciones serán los siguientes:
+<p>Las personas estudiantes llevarán a cabo tareas cortas, laboratorios y un proyecto final, los rubros de las evaluaciones serán los siguientes:</p>
 </div>
 <br>
 
@@ -135,8 +144,9 @@ Las personas estudiantes llevarán a cabo tareas cortas, laboratorios y un proye
 </table>
 
 <div style="text-align: justify">
-Cada evaluación tendrá una fecha de entrega previamente establecida. La hora límite de las entregas será a las 23:45 GMT-6. No se reciben entregas tardías.
+<p>Cada evaluación tendrá una fecha de entrega previamente establecida. La hora límite de las entregas será a las 23:45 GMT-6. No se reciben entregas tardías.</p>
 </div>
+<br>
 
 ## Cronograma de clases
 
@@ -178,12 +188,15 @@ Cada evaluación tendrá una fecha de entrega previamente establecida. La hora l
     <td>8</td>
   </tr>
 </table>
+<br>
 
 ## Materiales
-Se recomienda estudiar previo al curso los siguientes tutoriales:
+<p>Se recomienda estudiar previo al curso los siguientes tutoriales:</p>
 
 - [Aprende Python - Curso de Python desde Cero](https://www.youtube.com/watch?v=DLikpfc64cA)
 - [Programación en Python - Programación ATS](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJnh0KVllw24XklzJ62WNFsj)
+
+<br>
 
 ## Contactos
 

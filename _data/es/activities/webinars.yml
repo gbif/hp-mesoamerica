@@ -15,7 +15,7 @@ features:
     title: Plataformas de datos de biodiversidad y educación no formal
     description: |   
       Conferencias cortas sobre el uso potencial de las plataformas de datos de biodiversidad para educación no formal. 
-    background: "{{ site.data.es.images.day7.src }}"
-    imageLicense: "{{ site.data.es.images.day7.caption }}"
+    background: "{{ site.data.es.images.pecari.src }}"
+    imageLicense: "{{ site.data.es.images.pecari.caption }}"
     href: /webinars/nicaragua-day7
     categories: [Día del medio ambiente]

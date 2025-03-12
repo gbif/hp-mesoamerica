@@ -1,8 +1,0 @@
-title: "Publicaciones"
-features:
-  - title: Publicaciones de la Redbioma
-    description: |      
-      Artículos publicados por entre los años 2024 y 2025 por integrantes de la redbioma.
-    background: "{{ site.data.en.images.pecari.src }}"
-    imageLicense: "{{ site.data.en.images.pecari.caption }}"
-    href: /publications

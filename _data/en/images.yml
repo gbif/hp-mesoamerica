@@ -85,6 +85,21 @@ epiperipatus:
   caption: |
     *Epiperipatus solorzanoi.* Photo: A. Solórzano and J. Monge.
 
+dasypus:
+  src: assets/images/cards/img_ficha_Dasypus_novemcinctus_Mwcolgan8.jpg
+  caption: |
+    *Dasypus novemcinctus.* Photo: [Mwcolgan8](https://commons.wikimedia.org/wiki/File:Armadillo2.jpg).
+
+guarianthe:
+  src: assets/images/cards/img_ficha_Guarianthe_skinneri_Larsen_Twins_Orchids.jpg
+  caption: |
+    *Guarianthe skinneri.* Photo: [Larsen Twins Orchids](https://commons.wikimedia.org/wiki/File:Cattleya_skinneri0.jpg).
+
+robinsonella:
+  src: assets/images/banners/banner_Publicaciones_Robinsonella_lindeniana_Jacob_Rehage.jpg
+  caption: |
+    *Robinsonella lindeniana.* Photo: [Jacob Rehage](https://commons.wikimedia.org/wiki/File:Robinsonella_lindeniana.jpg).
+
 day5:
   src: assets/images/thumbnails/dia5.png
 
