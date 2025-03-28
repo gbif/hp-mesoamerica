@@ -1,3 +1,10 @@
+#José Chavarría, María Mora, William Ulate
+- title: "Comparative Study: Evaluating the effects of class balancing on transformer performance in the PlantNet-300k image dataset"
+  doi: "https://doi.org/10.3897/biss.7.113057"
+  year: "2023"
+  conference: "Biodiversity Information Science and Standards 7: e113057"
+  authors: "José Chavarría Madriz, Maria Mora-Cross, William Ulate"
+
 #Fabricio Rios, Ervin Rodríguez, María Mora
 - title: "Relation Extraction From Unstructured Species Descriptions Using TaxonNERD and LLaMA 7B. [Lecture]"
   doi: ""

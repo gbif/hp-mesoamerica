@@ -14,7 +14,7 @@ height: 65vh
     <li>Hersson Ramírez Molina, Administrator of the National GBIF Node Costa Rica, through the Technical Office of the National Commission for Biodiversity Management <a href="https://www.conagebio.go.cr/">(Conagebio)</a>, Costa Rica.</li>  
     <li>Jean Michel Maes, Entomological Museum of León, Nicaragua.</li>  
     <li>Manuel Vargas Del Valle, Biodiversity Informatics Researcher, Costa Rica.</li>  
-    <li>María Auxiliadora Mora Cros, Coordinator of redbioma, School of Computer Engineering, Technological Institute of Costa Rica <a href="https://www.tec.ac.cr/">(ITCR)</a>, Alajuela, Costa Rica.</li>  
+    <li>María Auxiliadora Mora Cross, Coordinator of redbioma, School of Computer Engineering, Technological Institute of Costa Rica <a href="https://www.tec.ac.cr/">(ITCR)</a>, Alajuela, Costa Rica.</li>  
     <li>Melisa Ojeda, Independent Researcher, Guatemala.</li>  
     <li>Patricia Koleff Osorio, National Commission for the Knowledge and Use of Biodiversity <a href="https://www.gob.mx/conabio/en">(CONABIO)</a>, Mexico.</li>  
     <li>Tania R. Urquiza Haas, National Commission for the Knowledge and Use of Biodiversity <a href="https://www.gob.mx/conabio/en">(CONABIO)</a>, Mexico.</li>  
@@ -32,7 +32,7 @@ height: 65vh
 
 <b>Graphic design:<b>
 <ul>  
-    <li>Leila Calderón Gómez.</li>  
+    <li>Leila Calderón Gómez <a href="mailto:leilarocio@gmail.com">(leilarocio@gmail.com)</a>.</li>  
 </ul>  
 <br>  
 
