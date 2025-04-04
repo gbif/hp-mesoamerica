@@ -29,7 +29,7 @@
 - name: "Procesamiento de datos geoespaciales de biodiversidad mediante el lenguaje de programación Python"
   start: "13/01/2025"
   finish: "03/03/2025"
-  projects: "En proceso"
+  projects: "/projects/gis"
   program: "/courses/gis-program"
   instructors: "Manuel Vargas Del Valle"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
