@@ -1,83 +1,83 @@
+- name: "Acianthera (Orchidaceae) en Ámerica; distribución y descripción de hábitat."
+  students: "Mayra Lisseth Maldonado Montúfar"
+  link: "/projects/2025-04-geospatial/acianthera.html"
+
+- name: "Análisis de la Distribución Geoespacial de las Especies de la Familia Centrolenidae en Costa Rica; Relación con Factores Ambientales"
+  students: "Pamela Jimenez"
+  link: "/projects/2025-04-geospatial/centrolenidae.html"
+
+- name: "Brosimun alicastrum SW"
+  students: "Christopher Mora Jiménez"
+  link: "/projects/2025-04-geospatial/Brosimun.html"
+
+- name: "Crocodylus acutus"
+  students: "Paris Rivera"
+  link: "/projects/2025-04-geospatial/crocodylus.html"
+
+- name: "Distribución de dos especies del genéro Lachesis"
+  students: "Sylvia Rodríguez Abarca"
+  link: "/projects/2025-04-geospatial/lachesis.html"
+
+- name: "Distribución de la palma de cera (Ceroxylon quindiuense) en Colombia"
+  students: "Mónica Alvarez Valle"
+  link: "/projects/2025-04-geospatial/ceroxylon.html"
+
+#- name: "Distribución del pájaro campana (Procnias tricarunculatus) en Costa Rica"
+#  students: "Mónica Retamosa Izaguirre"
+#  link: "/projects/2025-04-geospatial/procnias_tricarunculatus.html"
+
+- name: "Distribución del pájaro campana en áreas de conservación de Costa Rica"
+  students: "Fabricio Quirós Corella"
+  link: "/projects/2025-04-geospatial/procnias_nudicollis.html"
+
+- name: "Distribución de Lontra longicaudis annectens en México"
+  students: "Patricia Steffany Arias Orellana"
+  link: "/projects/2025-04-geospatial/lontra_longicaudis.html"
+
+- name: "Distribución de especies arbóreas en las provincias de Heredia y San José"
+  students: "Jeffrey Tapia"
+  link: "/projects/2025-04-geospatial/arboreal_heredia_sj.html"
+
+- name: "Distribución de 'Ara macao' y su relación con la precipitación"
+  students: "Rebeca Quesada Céspedes y Alexander Barrantes Herrera"
+  link: "/projects/2025-04-geospatial/ara_macao.html"
+
+- name: "Distribución natural de Bothriechis schlegelli en Costa Rica"
+  students: "Dawa Méndez Álvarez y Daniel Villavicencio Serrano"
+  link: "/projects/2025-04-geospatial/bothriechis_schlegelli.html"
+
 - name: "Cedro (Cedrela odorata), Almendro (Dipteryx oleifera) y Cristobal (Platymiscium parviflorum)"
   students: "Alberto Méndez Rodríguez"
   link: "/projects/2025-04-geospatial/woods.html"
 
-- name: Víboras (Género Porthidium)
-  students: Jairo Moya y Alejandra Méndez
-  link: "/projects/2025-04-geospatial/porthidium.html"
+#- name: "Familia Felidae en el continente de Ámerica"
+#  students: "Milton Antonio Sandoval Recinos y Larissa Elizabeth Beltrán Merino"
+# link: "/projects/2025-04-geospatial/felidae.html"
 
-- name: Distribución de "Ara macao" y su relación con la precipitación
-  students: Rebeca Quesada Céspedes y Alexander Barrantes Herrera
-  link: "/projects/2025-04-geospatial/ara_macao.html"
-
-- name: Brosimun alicastrum SW
-  students: Christopher Mora Jiménez
-  link: "/projects/2025-04-geospatial/Brosimun.html"
-
-- name: Riqueza de especies del género Megachile en Guatemala
-  students: Claudia María Marroquin Cruz 
-  link: "/projects/2025-04-geospatial/megachile_guatemala.html"
-
-- name: Distribución natural de Bothriechis schlegelli en Costa Rica
-  students: Dawa Méndez Álvarez y Daniel Villavicencio Serrano
-  link: "/projects/2025-04-geospatial/bothriechis_schlegelli.html"
-
-- name: Distribución del pájaro campana en áreas de conservación de Costa Rica
-  students: Fabricio Quirós Corella
-  link: "/projects/2025-04-geospatial/procnias_nudicollis.html"
-
-- name: Mariposa Malaquita (Siproeta stelenes)
-  students: Homero Bennet Leguizamo
-  link: "/projects/2025-04-geospatial/siproeta_stelenes.html"
-
-- name: Distribución de especies arbóreas en las provincias de Heredia y San José
-  students: Jeffrey Tapia
-  link: "/projects/2025-04-geospatial/arboreal_heredia_sj.html"
-
-- name: Riqueza de Especies del Género Coffea en América; Un Análisis Geoespacial de Registros de Presencia con un Estudio de Caso en Atitlán, Guatemala
-  students: José Domingo Esquina Macario
-  link: "/projects/2025-04-geospatial/atitlan_guatemala.html"
-
-- name: Las ranas venenosas de Costa Rica y su distribución
-  students: Julieta Laucirica
+- name: "Las ranas venenosas de Costa Rica y su distribución"
+  students: "Julieta Laucirica"
   link: "/projects/2025-04-geospatial/poisonous_frogs.html"
 
-- name: Familia Felidae en el continente de Ámerica
-  students: Milton Antonio Sandoval Recinos y Larissa Elizabeth Beltrán Merino 
-  link: "/projects/2025-04-geospatial/felidae.html"
+- name: "Mariposa Malaquita (Siproeta stelenes)"
+  students: "Homero Bennet Leguizamo"
+  link: "/projects/2025-04-geospatial/siproeta_stelenes.html"
 
-- name: Acianthera (Orchidaceae) en Ámerica; distribución y descripción de hábitat.
-  students: Mayra Lisseth Maldonado Montúfar 
-  link: "/projects/2025-04-geospatial/acianthera.html"
+#- name: "Nyctibius griseus comúnmente conocido como 'Pajaro Estaca'"
+#  students: "Víctor Sojo Chaves"
+#  link: "/projects/2025-04-geospatial/nyctibius.html"
 
-- name: Distribución de la palma de cera (Ceroxylon quindiuense) en Colombia
-  students: Mónica Alvarez Valle
-  link: "/projects/2025-04-geospatial/ceroxylon.html"
+- name: "Riqueza de Especies del Género Coffea en América; Un Análisis Geoespacial de Registros de Presencia con un Estudio de Caso en Atitlán, Guatemala"
+  students: "José Domingo Esquina Macario"
+  link: "/projects/2025-04-geospatial/atitlan_guatemala.html"
 
-- name: Distribución del pájaro campana (Procnias tricarunculatus) en Costa Rica
-  students: Mónica Retamosa Izaguirre
-  link: "/projects/2025-04-geospatial/procnias_tricarunculatus.html"
+- name: "Riqueza de especies del género Megachile en Guatemala"
+  students: "Claudia María Marroquin Cruz"
+  link: "/projects/2025-04-geospatial/megachile_guatemala.html"
 
-- name: Análisis de la Distribución Geoespacial de las Especies de la Familia Centrolenidae en Costa Rica; Relación con Factores Ambientales
-  students: Pamela Jimenez
-  link: "/projects/2025-04-geospatial/centrolenidae.html"
-
-- name: Crocodylus acutus
-  students: Paris Rivera
-  link: "/projects/2025-04-geospatial/crocodylus.html"
-
-- name: Distribución de Lontra longicaudis annectens en México 
-  students: Patricia Steffany Arias Orellana
-  link: "/projects/2025-04-geospatial/lontra_longicaudis.html"
-
-- name: Estudio del avistamiento de pinguinos
-  students: Saray Castro Mora
+- name: "Estudio del avistamiento de pinguinos"
+  students: "Saray Castro Mora"
   link: "/projects/2025-04-geospatial/pinguins.html"
 
-- name: Distribución de dos especies del genéro Lachesis
-  students: Sylvia Rodríguez Abarca 
-  link: "/projects/2025-04-geospatial/lachesis.html"
-
-- name: Nyctibius griseus comúnmente conocido como "Pajaro Estaca"
-  students: Víctor Sojo Chaves
-  link: "/projects/2025-04-geospatial/nyctibius.html"
+- name: "Víboras (Género Porthidium)"
+  students: "Jairo Moya y Alejandra Méndez"
+  link: "/projects/2025-04-geospatial/porthidium.html"
