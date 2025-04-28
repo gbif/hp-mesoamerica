@@ -10,7 +10,7 @@ lang-ref: ml-program
 ## Description
 <div style="text-align: justify">
 <p>Artificial intelligence, particularly the branch of machine learning, has grown rapidly in recent years, offering a wide range of techniques that can be used individually or together to analyze, extract patterns, and generate new data across countless application areas, which has led to significant advancements in these disciplines.</p>
-<p>This course was developed in response to the training needs in different areas of data science identified by the Mesoamerican Data Science Network for Biodiversity Conservation (redbioma). It is aimed at professionals working in activities related to biodiversity conservation, so it is focused on problem-solving and developing knowledge and skills to design and implement simple machine learning models (using the Python programming language) applied to datasets relevant to the professional areas of the participants.</p>
+<p>This course was developed in response to the training needs in different areas of data science identified by the Mesoamerican Data Science Network for Biodiversity Conservation (Redbioma). It is aimed at professionals working in activities related to biodiversity conservation, so it is focused on problem-solving and developing knowledge and skills to design and implement simple machine learning models (using the Python programming language) applied to datasets relevant to the professional areas of the participants.</p>
 </div>
 <br>
 
@@ -74,8 +74,8 @@ Link: [Registration for Machine Learning course](https://forms.gle/SojwgcUT1iN3S
 <p>The program is theoretical/practical, allowing participants to apply theoretical knowledge through case studies, group discussions, labs, and research projects.</p>
 <b>Important:</b>
 <ul>
-    <li>All synchronous sessions will be recorded and published on the redbioma website.</li>
-    <li>Final research projects will be published on the redbioma website.</li>
+    <li>All synchronous sessions will be recorded and published on the Redbioma website.</li>
+    <li>Final research projects will be published on the Redbioma website.</li>
 </ul>
 </div>
 <br>

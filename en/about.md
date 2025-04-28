@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: About redbioma
+title: About Redbioma
 description: Data Science Network for the Conservation of Mesoamerican Biodiversity
 background:  "{{ site.data.en.images.tabasco.src }}"
 imageLicense: "{{ site.data.en.images.tabasco.caption }}"

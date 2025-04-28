@@ -17,7 +17,7 @@ La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamerica
 El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.
 </div>
 
-## Las actividades de la redbioma permitirán
+## Las actividades de la Redbioma permitirán
 
 <ul style="text-align: justify">
 
@@ -32,6 +32,6 @@ El objetivo de la red es proponer soluciones a problemas de la conservación med
 
 ## Link al formulario
 
-[Invitación a participar en las actividades de la redbioma.](https://forms.gle/gq98uQN32xz9uBx87)
+[Invitación a participar en las actividades de la Redbioma.](https://forms.gle/gq98uQN32xz9uBx87)
 
 **Nota:** *El llenar el formulario no toma más de cinco minutos.*

@@ -9,7 +9,7 @@ height: 65vh
 ---
 
 <div style="text-align: justify">
-The <b>Data Science Network for the Conservation of Mesoamerican Biodiversity (redbioma)</b> aims to create a dynamic connection between individuals and institutions to encourage Skill development and research in biodiversity conservation. Achieving these goals requires the support of all its members.
+The <b>Data Science Network for the Conservation of Mesoamerican Biodiversity (Redbioma)</b> aims to create a dynamic connection between individuals and institutions to encourage Skill development and research in biodiversity conservation. Achieving these goals requires the support of all its members.
 
 <br>
 <br>
@@ -18,7 +18,7 @@ We encourage you to become an active member, not only by contributing data to pl
 <br><br>
 </div>
 
-#### The activities of redbioma will
+#### The activities of Redbioma will
 
 <ul style="text-align: justify">
 

@@ -10,7 +10,7 @@ lang-ref: ml-program
 ## Descripción
 <div style="text-align: justify">
 <p> La inteligencia artificial y en particular, la rama del aprendizaje automático ha tenido un crecimiento acelerado en los últimos años existiendo una gran diversidad de técnicas que pueden ser utilizadas en forma individual o en conjunto para analizar, extraer patrones y generar nuevos datos en innumerables áreas de aplicación, lo que ha permitido importantes avances en dichas disciplinas.</p>
-<p> Este curso surge en respuesta a las necesidades de capacitación en diferentes áreas de la ciencia de datos diagnosticadas por la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma). Está dirigido a profesionales que se desempeñan en actividades relacionadas con la conservación de la biodiversidad, por lo que se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de aprendizaje automático (utilizando el lenguaje Python) aplicados a conjuntos de datos afines con las áreas profesionales de los participantes.</p>
+<p> Este curso surge en respuesta a las necesidades de capacitación en diferentes áreas de la ciencia de datos diagnosticadas por la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (Redbioma). Está dirigido a profesionales que se desempeñan en actividades relacionadas con la conservación de la biodiversidad, por lo que se encuentra enfocado en la solución de problemas y el desarrollo de conocimientos y habilidades en el diseño e implementación de modelos simples de aprendizaje automático (utilizando el lenguaje Python) aplicados a conjuntos de datos afines con las áreas profesionales de los participantes.</p>
 </div>
 <br>
 
@@ -42,7 +42,7 @@ El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
 <li>Tener disponibilidad de al menos 24 horas durante todo el programa para realizar tareas cortas, los laboratorios prácticos del curso y un proyecto final. (3hrs / semana)</li>
 <li>Conocimientos básicos del lenguaje de programación Python, bibliotecas Numpy y Pandas para el manejo de datos y generalidades de la representación de datos geoespaciales. De preferencia haber aprobado el curso de Introducción a Python para ciencia de datos, que se ofrece como parte de este programa de capacitación.</li>
-<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma</a> (anteriormente circulado, por favor llenarlo una sola vez).</li>
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la Redbioma</a> (anteriormente circulado, por favor llenarlo una sola vez).</li>
 </ul>
 </div>
 <br>

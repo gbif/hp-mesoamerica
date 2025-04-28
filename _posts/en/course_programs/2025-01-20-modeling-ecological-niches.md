@@ -72,8 +72,8 @@ Link:  [Registration for Modeling ecological niches](https://docs.google.com/for
 <p>The course is both theoretical and practical. During the synchronous sessions, time will be allocated to present the basic concepts necessary to understand the functionality and proper use of ecological niche models through specific examples. Additionally, practical exercises will be conducted to provide students with the basic tools to develop research projects. Assignments will be given to reinforce the knowledge acquired, and a final project, either individual or team-based, will be developed to apply the concepts and procedures learned throughout the course.</p>
 <b>Important:</b>
 <ul>
-    <li>All synchronous sessions will be recorded and published on the redbioma website.</li>
-    <li>Final research projects will be published on the redbioma website.</li>
+    <li>All synchronous sessions will be recorded and published on the Redbioma website.</li>
+    <li>Final research projects will be published on the Redbioma website.</li>
 </ul>
 </div>
 <br>

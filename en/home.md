@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: redbioma
+title: Redbioma
 description: Data Science Network for the Conservation of Mesoamerican Biodiversity
 background:  "{{ site.data.en.images.ara_macao.src }}"
 imageLicense: "{{ site.data.en.images.ara_macao.caption }}"

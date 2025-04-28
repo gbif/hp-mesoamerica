@@ -75,8 +75,8 @@ Link: [Registration for Python for data science registration](https://forms.gle/
 <p>The course program is theoretical/practical, allowing participants to apply theoretical knowledge through case studies, labs, and research projects.</p>
 <b>Important:</b>
 <ul>
-    <li>All synchronous sessions will be recorded and published on the redbioma website.</li>
-    <li>Final research projects will be published on the redbioma website.</li>
+    <li>All synchronous sessions will be recorded and published on the Redbioma website.</li>
+    <li>Final research projects will be published on the Redbioma website.</li>
 </ul>
 </div>
 <br>

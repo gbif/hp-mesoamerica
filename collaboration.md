@@ -9,7 +9,7 @@ height: 65vh
 ---
 
 <div style="text-align: justify">
-La <b>Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma)</b> pretende implementar una conexión viva entre personas e instituciones para impulsar el desarrollo de capacidades y la investigación en conservación de la biodiversidad, para lo cual se debe contar con el apoyo de todos sus miembros.
+La <b>Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (Redbioma)</b> pretende implementar una conexión viva entre personas e instituciones para impulsar el desarrollo de capacidades y la investigación en conservación de la biodiversidad, para lo cual se debe contar con el apoyo de todos sus miembros.
 
 <br>
 <br>
@@ -18,7 +18,7 @@ Les motivamos a que sean miembros activos, no solamente subiendo datos en <a hre
 <br><br>
 </div>
 
-#### Las actividades de la redbioma permitirán:
+#### Las actividades de la Redbioma permitirán:
 
 <ul style="text-align: justify">
 
@@ -32,7 +32,7 @@ Les motivamos a que sean miembros activos, no solamente subiendo datos en <a hre
 
 #### Formulario de participación
 
-Si tiene interés en participar en las actividades de la red, por favor llene el siguiente formulario: [Formulario para las actividades de la redbioma](https://forms.gle/gq98uQN32xz9uBx87). O bien, puede contactarnos al correo: [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr)
+Si tiene interés en participar en las actividades de la red, por favor llene el siguiente formulario: [Formulario para las actividades de la Redbioma](https://forms.gle/gq98uQN32xz9uBx87). O bien, puede contactarnos al correo: [maria.mora@itcr.ac.cr](mailto:maria.mora@itcr.ac.cr)
 
 El formulario de participación de las actividades nos va a permitir conocer las necesidades de los usuarios interesados en las actividades de capacitación y otros temas relacionados con la red. *Llenar el formulario no toma más de cinco minutos.*
 

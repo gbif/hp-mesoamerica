@@ -74,8 +74,8 @@ Link: [Registration for Geospatial data processing](https://docs.google.com/form
 <p>Lesson content is available on the course website, which includes links to bibliographic resources and other learning materials such as tutorials and videos.</p>
 <b>Important:</b>
 <ul>
-    <li>All synchronous sessions will be recorded and published on the redbioma website.</li>
-    <li>Final research projects will be published on the redbioma website.</li>
+    <li>All synchronous sessions will be recorded and published on the Redbioma website.</li>
+    <li>Final research projects will be published on the Redbioma website.</li>
 </ul>
 </div>
 <br>

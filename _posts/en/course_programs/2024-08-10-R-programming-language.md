@@ -75,8 +75,8 @@ Link: [Registration for R Programming Language](https://docs.google.com/forms/d/
 <p>The program is theoretical/practical, allowing participants to apply theoretical knowledge through case studies, group discussions, and a research project.</p>
 <b>Important:</b>
 <ul>
-    <li>All synchronous sessions will be recorded and published on the redbioma website.</li>
-    <li>Final research projects will be published on the redbioma website.</li>
+    <li>All synchronous sessions will be recorded and published on the Redbioma website.</li>
+    <li>Final research projects will be published on the Redbioma website.</li>
 </ul>
 </div>
 <br>

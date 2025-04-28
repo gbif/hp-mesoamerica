@@ -73,8 +73,8 @@ Link:  [Registration for Ecological connectivity course](https://forms.gle/C8qPi
 <p>The course combines a theoretical and practical approach, with a stronger emphasis on developing applied skills. The first part of the course will cover the theoretical foundations of ecological connectivity and its implications for conservation and ecosystem restoration. However, the majority of the course will focus on the practical application of these concepts through the use of the Makurhini package and other spatial analysis tools. Active learning will be encouraged through case study analyses presented by the instructor and potential guest speakers, as well as group discussions to reflect on challenges and applications in different contexts. Additionally, participants will develop a research project where they will apply the methodologies learned to address a real ecological connectivity issue, promoting experiential learning and the development of applied solutions.</p>
 <b>Important:</b>
 <ul>
-    <li>All synchronous sessions will be recorded and published on the redbioma website.</li>
-    <li>Final research projects will be published on the redbioma website.</li>
+    <li>All synchronous sessions will be recorded and published on the Redbioma website.</li>
+    <li>Final research projects will be published on the Redbioma website.</li>
 </ul>
 </div>
 <br>

@@ -8,7 +8,7 @@ lang-ref: ds-program
 ---
 
 <div style="text-align: justify">
-<p>La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (redbioma) invita a los participantes a cursar el Programa de ciencia de datos que imparte la Escuela de Ingeniería en Computación del Instituto Tecnológico de Costa Rica (ITCR).</p>
+<p>La Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana (Redbioma) invita a los participantes a cursar el Programa de ciencia de datos que imparte la Escuela de Ingeniería en Computación del Instituto Tecnológico de Costa Rica (ITCR).</p>
 <p>El objetivo de la red es proponer soluciones a problemas de la conservación mediante ciencia de datos, con un fuerte componente de fortalecimiento de capacidades y empoderamiento de mujeres de la región.</p>
 </div>
 
@@ -17,9 +17,9 @@ lang-ref: ds-program
 ## Consideraciones
 
 - Para expresar su interés en cursar el Programa de ciencia de datos debe de llenar el presente formulario.
-- La oportunidad de cursar el programa es para las personas que llenaron el formulario para participar de las actividades (Disponible en: ["Formulario para participar en actividades de la redbioma".](https://redbioma.github.io/formularios/invitacion-red.html))
+- La oportunidad de cursar el programa es para las personas que llenaron el formulario para participar de las actividades (Disponible en: ["Formulario para participar en actividades de la Redbioma".](hthttps://forms.gle/LXP8BVqLe9sQ9Y9j9))
 - El programa está formado por cinco cursos de 32 horas cada uno. Todos los cursos se imparten de manera virtual sincrónica utilizando Zoom.
-- El costo del programa completo es de US$ 2,500 + IVA(2%), **sin embargo, a los participante de las actividades de la redbioma se les está brindando la oportunidad de tomar todos los cursos de forma gratuita.**
+- El costo del programa completo es de US$ 2,500 + IVA(2%), **sin embargo, a los participante de las actividades de la Redbioma se les está brindando la oportunidad de tomar todos los cursos de forma gratuita.**
 - Se dará prioridad a la participación de mujeres.
 - De resultar una persona seleccionada usted deberá firmar un contrato de compromiso de ganar los cursos que matricule o cancelar el costo del curso perdido.
 - El llenar el formulario no garantiza la participación en el programa.
@@ -39,7 +39,7 @@ lang-ref: ds-program
 
 ## Más información
 
-- Sobre la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana está disponible en [redbioma.org.](https://redbioma.github.io)
+- Sobre la Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana está disponible en [redbioma.org.](https://redbioma.org)
 - Más información del Programa está disponible aquí: [Programa de ciencia de datos.](https://www.tec.ac.cr/fundatec/programa-ciencias-datos-escuela-computacion)
 
 <br>

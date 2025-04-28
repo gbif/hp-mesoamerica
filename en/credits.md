@@ -8,13 +8,13 @@ imageLicense: "{{ site.data.en.images.clorospingus.caption }}"
 height: 65vh
 ---
 
-<b>Coordinating consortium of redbioma (alphabetical order):<b>
+<b>Coordinating consortium of Redbioma (alphabetical order):<b>
 <ul>  
     <li>Gandhi Ponce Juárez, National Council of Protected Areas <a href="https://conap.gob.gt/">(CONAP)</a>, through the GBIF Node of Guatemala, Guatemala.</li>  
     <li>Hersson Ramírez Molina, Administrator of the National GBIF Node Costa Rica, through the Technical Office of the National Commission for Biodiversity Management <a href="https://www.conagebio.go.cr/">(Conagebio)</a>, Costa Rica.</li>  
     <li>Jean Michel Maes, Entomological Museum of León, Nicaragua.</li>  
     <li>Manuel Vargas Del Valle, Biodiversity Informatics Researcher, Costa Rica.</li>  
-    <li>María Auxiliadora Mora Cross, Coordinator of redbioma, School of Computer Engineering, Technological Institute of Costa Rica <a href="https://www.tec.ac.cr/">(ITCR)</a>, Alajuela, Costa Rica.</li>  
+    <li>María Auxiliadora Mora Cross, Coordinator of Redbioma, School of Computer Engineering, Technological Institute of Costa Rica <a href="https://www.tec.ac.cr/">(ITCR)</a>, Alajuela, Costa Rica.</li>  
     <li>Melisa Ojeda, Independent Researcher, Guatemala.</li>  
     <li>Patricia Koleff Osorio, National Commission for the Knowledge and Use of Biodiversity <a href="https://www.gob.mx/conabio/en">(CONABIO)</a>, Mexico.</li>  
     <li>Tania R. Urquiza Haas, National Commission for the Knowledge and Use of Biodiversity <a href="https://www.gob.mx/conabio/en">(CONABIO)</a>, Mexico.</li>  

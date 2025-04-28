@@ -1,8 +1,8 @@
 ---
 layout: home
 lang-ref: home
-title: redbioma
-description: Red de Ciencia de datos para la Conservación de la Biodiversidad Mesoamericana 
+title: Redbioma
+description: Red de Ciencia de Datos para la Conservación de la Biodiversidad Mesoamericana 
 background:  "{{ site.data.es.images.ara_macao.src }}"
 imageLicense: "{{ site.data.es.images.ara_macao.caption }}"
 height: 65vh

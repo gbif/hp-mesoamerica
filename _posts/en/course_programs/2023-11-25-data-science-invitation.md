@@ -8,7 +8,7 @@ lang-ref: ds-program
 ---
 
 <div style="text-align: justify">
-<p>The Data Science Network for the Conservation of Mesoamerican Biodiversity (redbioma) invites its participants to enroll in the Data science program offered by the School of Computer Engineering at the Costa Rica Institute of Technology (ITCR).</p>
+<p>The Data Science Network for the Conservation of Mesoamerican Biodiversity (Redbioma) invites its participants to enroll in the Data science program offered by the School of Computer Engineering at the Costa Rica Institute of Technology (ITCR).</p>
 <p>The objective of the project is to propose solutions to conservation problems through data science, with a strong focus on capacity building and empowerment of women in the region.</p>
 </div>
 
@@ -17,9 +17,9 @@ lang-ref: ds-program
 ## Considerations
 
 - To express your interest in enrolling in the Data science program, you must fill out this form.
-- The opportunity to join the program is reserved for individuals who have completed the form for participating in redbioma activities (Available at: ["Invitation to participate in redbioma activities form."](https://redbioma.github.io/formularios/invitacion-red.html)).
+- The opportunity to join the program is reserved for individuals who have completed the form for participating in Redbioma activities (Available at: ["Invitation to participate in Redbioma activities form."](https://forms.gle/LXP8BVqLe9sQ9Y9j9)).
 - The program consists of five courses of 32 hours each. All courses are taught virtually via Zoom.
-- The total cost of the program is US$ 2,500 + VAT (2%). **However, participants of the redbioma activities are being offered the opportunity to take all the courses for free.**
+- The total cost of the program is US$ 2,500 + VAT (2%). **However, participants of the Redbioma activities are being offered the opportunity to take all the courses for free.**
 - Priority will be given to women.
 - If selected, you will be required to sign a contract of commitment to successfully complete the enrolled courses or pay for any failed course.
 - Completing the form does not guarantee participation in the program.
@@ -39,7 +39,7 @@ lang-ref: ds-program
 
 ## Additional information
 
-- Learn more about the Data Science Network for the Conservation of Mesoamerican Biodiversity at [redbioma.org.](https://redbioma.github.io)
+- Learn more about the Data Science Network for the Conservation of Mesoamerican Biodiversity at [redbioma.org.](https://redbioma.org)
 - Further details about the program are available here: [Data science program.](https://www.tec.ac.cr/fundatec/programa-ciencias-datos-escuela-computacion)
 
 <br>

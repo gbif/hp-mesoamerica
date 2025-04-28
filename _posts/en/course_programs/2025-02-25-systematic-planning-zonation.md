@@ -77,8 +77,8 @@ Link: [Registration for Systematic planning with Zonation](https://forms.gle/5zM
 <p>The course is theoretical and practical, meaning that during synchronous sessions there will be time to present the basic concepts necessary to understand systematic conservation planning through specific examples. Additionally, practical exercises will be carried out using the Zonation prioritization software, allowing students to acquire the fundamental tools to develop their own conservation prioritization projects. Assignments will be given to reinforce acquired knowledge, and an individual final project will be developed to apply the concepts and procedures learned throughout the course.</p>
 <b>Important:</b>
 <ul>
-    <li>All synchronous sessions will be recorded and published on the redbioma website.</li>
-    <li>Final research projects will be published on the redbioma website.</li>
+    <li>All synchronous sessions will be recorded and published on the Redbioma website.</li>
+    <li>Final research projects will be published on the Redbioma website.</li>
 </ul>
 </div>
 <br>

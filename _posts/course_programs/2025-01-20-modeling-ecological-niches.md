@@ -42,7 +42,7 @@ Importante: Se abrirá un único grupo.
 <li>Tener disponibilidad de al menos 16 horas durante todo el programa para asistir a ocho sesiones sincrónicas virtuales de clases. (2hrs / clase)</li>
 <li>Tener disponibilidad de al menos 32 horas durante todo el programa para realizar tareas cortas y un proyecto final. (4hrs / semana)</li>
 <li>Tener conocimientos básicos de R y de SIG (en R o en cualquier otro programa).</li>
-<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la redbioma</a> (anteriormente circulado, por favor llenarlo una sola vez).</li>
+<li>Llenar el formulario para <a href="https://forms.gle/gq98uQN32xz9uBx87">Participar en las actividades de la Redbioma</a> (anteriormente circulado, por favor llenarlo una sola vez).</li>
 </ul>
 </div>
 <br>
