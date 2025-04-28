@@ -5,7 +5,8 @@ description: Celebrando el día del medio ambiente
 date:   2024-06-07 +0600
 permalink: /webinars/nicaragua-day7
 lang-ref: webinar-nicaragua-day7
-background:  "{{ site.data.es.images.day7.src }}"
+background: "{{ site.data.es.images.pecari.src }}"
+imageLicense: "{{ site.data.es.images.pecari.caption }}"
 height: 65vh
 ---
 

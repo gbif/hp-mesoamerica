@@ -5,7 +5,8 @@ description: Celebrating Environmental day
 date: 2024-06-05 +0600
 permalink: /en/webinars/nicaragua-day5
 lang-ref: webinar-nicaragua-day5
-background: "{{ site.data.en.images.day5.src }}"
+background: "{{ site.data.en.images.epiperipatus.src }}"
+imageLicense: "{{ site.data.en.images.epiperipatus.caption }}"
 height: 65vh
 ---
 

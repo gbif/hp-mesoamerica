@@ -50,6 +50,56 @@ tabernaemontana:
   caption: |
     *Tabernaemontana onnell smithii.* Foto: Leila Calderón Gómez.
 
+bradypus:
+  src: assets/images/cards/img_ficha_Bradypus_variegatus_ChristianMehlfuhrer.jpg
+  caption: |
+    *Bradypus variegatus.* Foto: [Christian Mehlführer.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Bradypus_variegatus.jpg)
+
+lampornis:
+  src: assets/images/cards/img_ficha_Lampornis_calolaemus_pectoralis_DonFaulkner.jpg
+  caption: |
+    *Lampornis calolaemus pectoralis.* Foto: [Don Faulkner.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Purple-throated_Moutain-Gem_(6901527484).jpg)
+
+lantana:
+  src: assets/images/cards/img_ficha_Lantana_camara_LeilaCalderon.jpg
+  caption: |
+    *Lantana camara.* Foto: Leila Calderón Gómez.
+
+bothriechis:
+  src: assets/images/cards/img_ficha_Bothriechis_lateralis_Cephas.jpg
+  caption: |
+    *Bothriechis lateralis.* Foto: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Bothriechis_lateralis_CR.JPG)
+
+ficus:
+  src: assets/images/cards/img_ficha_Higueron_Reserva_CuriCancha_Monteverde_Cephas.jpg
+  caption: |
+    *Ficus citrifolia.* Foto: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Strangler_fig_Curi_Cancha_07.jpg)
+
+pecari:
+  src: assets/images/cards/img_fichasActividad01.jpg
+  caption: |
+    *Pecari tajacu.* Foto: [Geoff Gallice.](https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Collared_peccaries_(1).jpg)
+
+epiperipatus:
+  src: assets/images/cards/img_fichaActividad02.jpg
+  caption: |
+    *Epiperipatus solorzanoi.* Foto: A. Solórzano y J. Monge.
+
+dasypus:
+  src: assets/images/cards/img_ficha_Dasypus_novemcinctus_Mwcolgan8.jpg
+  caption: |
+    *Dasypus novemcinctus.* Foto: [Mwcolgan8](https://commons.wikimedia.org/wiki/File:Armadillo2.jpg).
+
+guarianthe:
+  src: assets/images/cards/img_ficha_Guarianthe_skinneri_Larsen_Twins_Orchids.jpg
+  caption: |
+    *Guarianthe skinneri.* Foto: [Larsen Twins Orchids](https://commons.wikimedia.org/wiki/File:Cattleya_skinneri0.jpg).
+
+robinsonella:
+  src: assets/images/banners/banner_Publicaciones_Robinsonella_lindeniana_Jacob_Rehage.jpg
+  caption: |
+    *Robinsonella lindeniana.* Foto: [Jacob Rehage](https://commons.wikimedia.org/wiki/File:Robinsonella_lindeniana.jpg).
+
 day5:
   src: assets/images/thumbnails/dia5.png
 

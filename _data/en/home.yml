@@ -1,21 +1,21 @@
 stats:
   features:
-    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?country=CR&country=MX&country=GT&country=PA&country=SV&country=HN&country=NI&notissues=COUNTRY_COORDINATE_MISMATCH">45</span>
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=query%7B%20occurrenceSearch(predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20in%2C%20key%3A%20%22country%22%2C%20values%3A%20%5B%22CR%22%2C%22MX%22%2C%22GT%22%2C%22PA%22%2C%22SV%22%2C%22HN%22%2C%22NI%22%2C%22BZ%22%5D%7D%2C%20%7Btype%3A%20not%2C%20predicate%3A%20%7Btype%3Aequals%2C%20key%3A%20%22issue%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%7D%5D%7D)%20%7B%20documents(size%3A%200)%20%7B%20total%20%7D%20%7D%20%7D"></span>
       description: Biological records
       background: assets/images/icons/ico_registrosBiologicos.png
       href: /en/occurrence/search 
 
-    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT">45</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT&publishingCountry=BZ"></span>
       description: Datasets
       background: assets/images/icons/ico_conjuntoDatos.png
       href: /en/dataset/search
 
-    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution/search?country=CR&country=NI&country=PA&country=MX&country=HN&country=GT&country=SV&displayOnNHCPortal=true">45</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution/search?country=CR&country=NI&country=PA&country=MX&country=HN&country=GT&country=SV&country=BZ&displayOnNHCPortal=true"></span>
       description: Institutions
       background: assets/images/icons/ico_instituciones.png
       href: /en/institution/search
       
-    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI">45</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI&countriesOfResearcher=BZ"></span>
       description: Publications
       background: assets/images/icons/ico_publicaciones.png
       href: /en/literature/search
@@ -45,8 +45,8 @@ courses:
   features:
     - preTitle: 2024
       title: Introduction to Python for data science
-      background: assets/images/cards/img_ficha_Bradypus_variegatus_ChristianMehlfuhrer.jpg
-      imageLicense: "*Bradypus variegatus.* Photo: [Christian Mehlführer.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Bradypus_variegatus.jpg)"
+      background: "{{ site.data.en.images.bradypus.src }}"
+      imageLicense: "{{ site.data.en.images.bradypus.caption }}"
       cta:
       - text: Projects
         href: /projects/python_data_science
@@ -58,8 +58,8 @@ courses:
   
     - preTitle: 2024    
       title: Machine learning applied to biodiversity data
-      background: assets/images/cards/img_ficha_Lampornis_calolaemus_pectoralis_DonFaulkner.jpg
-      imageLicense: "*Lampornis calolaemus pectoralis.* Photo: [Don Faulkner.](https://es.wikipedia.org/wiki/Fauna_de_Costa_Rica#/media/Archivo:Purple-throated_Moutain-Gem_(6901527484).jpg)"
+      background: "{{ site.data.en.images.lampornis.src }}"
+      imageLicense: "{{ site.data.en.images.lampornis.caption }}"
       cta:
       - text: Projects
         href: /projects/ml
@@ -71,8 +71,8 @@ courses:
 
     - preTitle: 2024
       title: R Programming Language
-      background: assets/images/cards/img_ficha_Lantana_camara_LeilaCalderon.jpg
-      imageLicense: "*Lantana camara.* Photo: Leila Calderón Gómez."
+      background: "{{ site.data.en.images.lantana.src }}"
+      imageLicense: "{{ site.data.en.images.lantana.caption }}"
       cta:
       - text: Projects
         href: /projects/r
@@ -84,12 +84,12 @@ courses:
 
     - preTitle: 2025
       title: Geospatial biodiversity data processing using the Python programming language
-      background: assets/images/cards/img_ficha_Bothriechis_lateralis_Cephas.jpg
-      imageLicense: "*Bothriechis lateralis.* Photo: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Bothriechis_lateralis_CR.JPG)"
+      background: "{{ site.data.en.images.bothriechis.src }}"
+      imageLicense: "{{ site.data.en.images.bothriechis.caption }}"
       cta:
-      - text: Projects
-        href: #
-        isPrimary: true
+      #- text: Projects
+      #  href: #
+      #  isPrimary: true
       - text: Program
         href: /en/courses/gis-program
       - text: Material
@@ -97,13 +97,39 @@ courses:
 
     - preTitle: 2025
       title: Introduction to ecological niche modeling and species distributions
-      background: assets/images/cards/img_ficha_Higueron_Reserva_CuriCancha_Monteverde_Cephas.jpg
-      imageLicense: "*Ficus citrifolia.* Photo: [Simon Pierre Barrette - Cephas.](https://commons.wikimedia.org/wiki/User:Cephas#/media/File:Strangler_fig_Curi_Cancha_07.jpg)"
+      background: "{{ site.data.en.images.dasypus.src }}"
+      imageLicense: "{{ site.data.en.images.dasypus.caption }}"
       cta:
-      - text: Projects
-        href: #
-        isPrimary: true
+      #- text: Projects
+      #  href: #
+      #  isPrimary: true
       - text: Program
         href: /en/courses/modeling-program
-      - text: Material
-        href: #
+      #- text: Material
+      #  href: #
+
+    - preTitle: 2025    
+      title: Systematic conservation planning with Zonation
+      background: "{{ site.data.es.images.guarianthe.src }}"
+      imageLicense: "{{ site.data.es.images.guarianthe.caption }}"
+      cta:
+      #- text: Projects
+      #  href: #
+      #  isPrimary: true
+      - text: Program
+        href: /en/courses/zonation-program
+      #- text: Material
+      #  href: #
+
+    - preTitle: 2025    
+      title: Approaches, methods and tools for ecological connectivity.
+      background: "{{ site.data.es.images.ficus.src }}"
+      imageLicense: "{{ site.data.es.images.ficus.caption }}"
+      cta:
+      #- text: Projects
+      #  href: #
+      #  isPrimary: true
+      - text: Program
+        href: /en/courses/connectivity-program
+      #- text: Material
+      #  href: #

@@ -1,0 +1,27 @@
+#José Chavarría, María Mora, William Ulate
+- title: "Estudio comparativo: Evaluación de los efectos del balance de clases en el rendimiento de los transformers en el conjunto de datos de imágenes PlantNet-300k"
+  doi: "https://doi.org/10.3897/biss.7.113057"
+  year: "2023"
+  conference: "Biodiversity Information Science and Standards 7: e113057"
+  authors: "José Chavarría Madriz, Maria Mora-Cross, William Ulate"
+
+#Fabricio Rios, Ervin Rodríguez, María Mora (ponencia)
+- title: "Extracción de Relaciones a partir de Descripciones de Especies No Estructuradas Usando TaxonNERD y LLaMA 7B. [Ponencia]"
+  doi: ""
+  year: "2024"
+  conference: "2024 IEEE 6th International Conference on BioInspired Processing (BIP)"
+  authors: "Fabricio Ríos Montero, Ervin Rodríguez Villanueva, María Mora Cross"
+
+#María Mora, Saúl Calderon
+- title: "Estimación de la Incertidumbre en Modelos de Lenguaje Extensos para Apoyar la Conservación de la Biodiversidad."
+  doi: "https://aclanthology.org/2024.naacl-industry.31/"
+  year: "2024"
+  conference: "2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)"
+  authors: "María Mora Cross, Saúl Calderón Ramírez"
+
+#Fabricio Rios, Ervin Rodríguez, María Mora
+- title: "Extracción de Relaciones a partir de Descripciones de Especies No Estructuradas Usando TaxonNERD y LLaMA 7B."
+  doi: "https://ieeexplore.ieee.org/document/10885387"
+  year: "2024"
+  conference: "Biodiversity Information Science and Standards 8: e142382"
+  authors: "Fabricio Ríos Montero, Ervin Rodríguez Villanueva, María Mora Cross"
