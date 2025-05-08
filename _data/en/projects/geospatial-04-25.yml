@@ -1,0 +1,83 @@
+- name: "Acianthera (Orchidaceae) in America; Distribution and Habitat Description"
+  students: "Mayra Lisseth Maldonado Montúfar"
+  link: "/en/projects/2025-04-geospatial/acianthera.html"
+
+- name: "Brosimun alicastrum SW"
+  students: "Christopher Mora Jiménez"
+  link: "/en/projects/2025-04-geospatial/Brosimun.html"
+
+- name: "Cedar (Cedrela odorata), Almendro (Dipteryx oleifera), and Cristobal (Platymiscium parviflorum)"
+  students: "Alberto Méndez Rodríguez"
+  link: "/en/projects/2025-04-geospatial/woods.html"
+
+- name: "Crocodylus acutus"
+  students: "Paris Rivera"
+  link: "/en/projects/2025-04-geospatial/crocodylus.html"
+
+- name: "Distribution of 'Ara macao' and Its Relationship with Precipitation"
+  students: "Rebeca Quesada Céspedes y Alexander Barrantes Herrera"
+  link: "/en/projects/2025-04-geospatial/ara_macao.html"
+
+- name: "Distribution of Lontra longicaudis annectens in Mexico"
+  students: "Patricia Steffany Arias Orellana"
+  link: "/en/projects/2025-04-geospatial/lontra_longicaudis.html"
+
+- name: "Distribution of the Bare-necked Umbrellabird in Conservation Areas of Costa Rica"
+  students: "Fabricio Quirós Corella"
+  link: "/en/projects/2025-04-geospatial/procnias_nudicollis.html"
+
+- name: "Distribution of the Wax Palm (Ceroxylon quindiuense) in Colombia"
+  students: "Mónica Alvarez Valle"
+  link: "/en/projects/2025-04-geospatial/ceroxylon.html"
+
+- name: "Distribution of Tree Species in the Provinces of Heredia and San José"
+  students: "Jeffrey Tapia"
+  link: "/en/projects/2025-04-geospatial/arboreal_heredia_sj.html"
+
+- name: "Distribution of Two Species of the Genus Lachesis"
+  students: "Sylvia Rodríguez Abarca"
+  link: "/en/projects/2025-04-geospatial/lachesis.html"
+
+- name: "Geospatial Distribution Analysis of the Species of the Family Centrolenidae in Costa Rica; Relationship with Environmental Factors"
+  students: "Pamela Jimenez"
+  link: "/en/projects/2025-04-geospatial/centrolenidae.html"
+
+- name: "Malachite Butterfly (Siproeta stelenes)"
+  students: "Homero Bennet Leguizamo"
+  link: "/en/projects/2025-04-geospatial/siproeta_stelenes.html"
+
+- name: "Natural Distribution of Bothriechis schlegelli in Costa Rica"
+  students: "Dawa Méndez Álvarez y Daniel Villavicencio Serrano"
+  link: "/en/projects/2025-04-geospatial/bothriechis_schlegelli.html"
+
+- name: "Poisonous Frogs of Costa Rica and Their Distribution"
+  students: "Julieta Laucirica"
+  link: "/en/projects/2025-04-geospatial/poisonous_frogs.html"
+
+- name: "Species Richness of the Genus Coffea in America; A Geospatial Analysis of Presence Records with a Case Study in Atitlán, Guatemala"
+  students: "José Domingo Esquina Macario"
+  link: "/en/projects/2025-04-geospatial/atitlan_guatemala.html"
+
+- name: "Species Richness of the Genus Megachile in Guatemala"
+  students: "Claudia María Marroquin Cruz"
+  link: "/en/projects/2025-04-geospatial/megachile_guatemala.html"
+
+- name: "Study on Penguin Sightings"
+  students: "Saray Castro Mora"
+  link: "/en/projects/2025-04-geospatial/pinguins.html"
+
+- name: "Vipers (Genus Porthidium)"
+  students: "Jairo Moya y Alejandra Méndez"
+  link: "/en/projects/2025-04-geospatial/porthidium.html"
+
+# - name: "Distribution of the Three-wattled Bellbird (Procnias tricarunculatus) in Costa Rica"
+#   students: "Mónica Retamosa Izaguirre"
+#   link: "/projects/2025-04-geospatial/procnias_tricarunculatus.html"
+
+# - name: "Family Felidae in the American Continent"
+#   students: "Milton Antonio Sandoval Recinos y Larissa Elizabeth Beltrán Merino"
+#   link: "/projects/2025-04-geospatial/felidae.html"
+
+# - name: "Nyctibius griseus Commonly Known as 'Stick Bird'"
+#   students: "Víctor Sojo Chaves"
+#   link: "/projects/2025-04-geospatial/nyctibius.html"

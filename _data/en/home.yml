@@ -87,9 +87,9 @@ courses:
       background: "{{ site.data.en.images.bothriechis.src }}"
       imageLicense: "{{ site.data.en.images.bothriechis.caption }}"
       cta:
-      #- text: Projects
-      #  href: #
-      #  isPrimary: true
+      - text: Projects
+        href: /en/projects/gis
+        isPrimary: true
       - text: Program
         href: /en/courses/gis-program
       - text: Material
