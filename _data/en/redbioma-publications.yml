@@ -6,22 +6,22 @@
   authors: "José Chavarría Madriz, Maria Mora-Cross, William Ulate"
 
 #Fabricio Rios, Ervin Rodríguez, María Mora
-- title: "Relation Extraction From Unstructured Species Descriptions Using TaxonNERD and LLaMA 7B. [Lecture]"
-  doi: ""
+- title: "Relation Extraction From Unstructured Species Descriptions Using TaxonNERD and LLaMA 7B."
+  doi: "https://doi.org/10.1109/BIP63158.2024.10885387"
   year: "2024"
   conference: "2024 IEEE 6th International Conference on BioInspired Processing (BIP)"
   authors: "Fabricio Ríos Montero, Ervin Rodríguez Villanueva, María Mora Cross"
 
 #María Mora, Saúl Calderon
 - title: "Uncertainty Estimation in Large Language Models to Support Biodiversity Conservation."
-  doi: "https://aclanthology.org/2024.naacl-industry.31/"
+  doi: "https://doi.org/10.18653/v1/2024.naacl-industry.31"
   year: "2024"
   conference: "2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 6: Industry Track)"
   authors: "María Mora Cross, Saúl Calderón Ramírez"
 
-#Fabricio Rios, Ervin Rodríguez, María Mora
-- title: "Relation Extraction From Unstructured Species Descriptions Using TaxonNERD and LLaMA 7B."
-  doi: "https://ieeexplore.ieee.org/document/10885387"
+#Fabricio Rios, Ervin Rodríguez, María Mora (lecture)
+- title: "Relation Extraction From Unstructured Species Descriptions Using TaxonNERD and LLaMA 7B. [Lecture]"
+  doi: ""
   year: "2024"
   conference: "Biodiversity Information Science and Standards 8: e142382"
   authors: "Fabricio Ríos Montero, Ervin Rodríguez Villanueva, María Mora Cross"

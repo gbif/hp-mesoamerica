@@ -29,7 +29,7 @@ To establish a Mesoamerican network of biodiversity observers and researchers to
 
 <br>
 
-![objectives](/assets/images/thumbnails/objetivos_especificos.jpg)
+![Photo: Tania Urquiza](/assets/images/thumbnails/objetivos_especificos.jpg){:standalone}
 
 ## Specific
 
