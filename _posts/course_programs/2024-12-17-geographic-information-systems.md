@@ -223,25 +223,25 @@ Enlace: [Inscripciones Procesamiento de datos geoespaciales](https://docs.google
 
 1. Downey, A. B. (2024). *Think Python: How to think like a computer scientist* (3rd ed.). Green Tea Press. [Enlace externo](https://greenteapress.com/wp/think-python-3rd-edition)
 
-2. Geopandas contributors. (s.f.). geopandas: Geographic pandas extensions. Recuperado 1 de enero de 2022, de [Enlace externo](http://geopandas.org)
+2. Geopandas contributors. (s.f.). *geopandas: Geographic pandas extensions*. Recuperado el 1 de enero de 2022, de [Enlace externo](http://geopandas.org)
 
-3. GeoPandas contributors. (s.f.). *GeoPandas: Geographic pandas extensions*. Recuperado el 1 de enero de 2022, de [Enlace externo](https://github.com/mapbox/rasterio)
+3. Gillies, S. (s.f.). *rasterio: Fast and direct raster I/O for use with Numpy and SciPy*. Recuperado el 1 de enero de 2022, de [Enlace externo](https://github.com/mapbox/rasterio)
 
-4. Kaggle. (s.f.-a). *Learn Pandas*. Recuperado 1 de agosto de 2024, de [Enlace externo](https://www.kaggle.com/learn/pandas)
+4. Kaggle. (s.f.-a). *Learn Pandas*. Recuperado el 1 de agosto de 2024, de [Enlace externo](https://www.kaggle.com/learn/pandas)
 
-5. Kaggle. (s.f.-b). *Learn Data Visualization*. Recuperado 1 de agosto de 2024, de [Enlace externo](https://www.kaggle.com/learn/data-visualization)
+5. Kaggle. (s.f.-b). *Learn Data Visualization*. Recuperado el 1 de agosto de 2024, de [Enlace externo](https://www.kaggle.com/learn/data-visualization)
 
-6. Kaggle. (s.f.-c). *Learn Geospatial Analysis*. Recuperado 1 de agosto de 2024, de [Enlace externo](https://www.kaggle.com/learn/geospatial-analysis)
+6. Kaggle. (s.f.-c). *Learn Geospatial Analysis*. Recuperado el 1 de agosto de 2024, de [Enlace externo](https://www.kaggle.com/learn/geospatial-analysis)
 
 7. Markdown Tutorial. (s.f.). *Markdown Tutorial*. Recuperado el 19 de marzo de 2022, de [Enlace externo](https://www.markdowntutorial.com/)
 
-8. P, C. (s.f.). *Plotly: An open-source, interactive data visualization library for Python*. Recuperado 1 de agosto de 2024, de [Enlace externo](https://plotly.com/python/)
+8. P, C. (s.f.). *Plotly: An open-source, interactive data visualization library for Python*. Recuperado el 1 de agosto de 2024, de [Enlace externo](https://plotly.com/python/)
 
 9. Rey, S. J., Arribas-Bel, D., & Wolf, L. J. (2020). *Geographic Data Science with Python*. [Enlace externo](https://geographicdata.science/book/)
 
 10. Severance, C. R. (2016). *Python for everybody: Exploring data in Python 3* (S. Blumenberg & E. Hauser, Eds.). CreateSpace Independent Publishing Platform. [Enlace externo](https://www.py4e.com/html3/)
 
-11. The Pandas Development Team. (s.f.). *Pandas: Powerful data structures for data analysis, time series, and statistics*. Recuperado 1 de enero de 2022, de [Enlace externo](https://pandas.pydata.org)
+11. The Pandas Development Team. (s.f.). *Pandas: Powerful data structures for data analysis, time series, and statistics*. Recuperado el 1 de enero de 2022, de [Enlace externo](https://pandas.pydata.org)
 
 <br>
 
