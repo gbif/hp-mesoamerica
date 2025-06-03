@@ -86,7 +86,7 @@ Enlace: [Inscripciones Planeación sistemática con Zonation](https://forms.gle/
 ## Contenidos del programa
 <div style="text-align: justify">
 <ol>
-    <b><li>Introducción a la planeación aistemática de la conservación</li></b>
+    <b><li>Introducción a la planeación sistemática de la conservación</li></b>
     <ol type="i">
         <li>Conceptos clave y enfoques en conservación.</li>
         <li>Importancia de la planeación sistemática y el análisis espacial.</li>

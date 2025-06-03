@@ -100,9 +100,9 @@ courses:
       background: "{{ site.data.es.images.dasypus.src }}"
       imageLicense: "{{ site.data.es.images.dasypus.caption }}"
       cta:
-      #- text: Proyectos
-      #  href: #
-      #  isPrimary: true
+      - text: Proyectos
+        href: /projects/modeling
+        isPrimary: true
       - text: Programa
         href: /courses/modeling-program
       #- text: Material
