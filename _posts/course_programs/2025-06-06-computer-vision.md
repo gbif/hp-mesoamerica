@@ -218,11 +218,11 @@ Enlace: [Inscripciones Visión por Computadora aplicada a la Biodiversidad](http
 
 ## Recursos
 
-- Bibliotecas de Python: Pillow, OpenCV, scikit-image, Tensorflow, Keras
-- Plataformas basadas en Inteligencia Artificial: Wildlife Insights (WI), Machine Learning for Wildlife Image Classification (MLWIC2), MegaDetector (MD), y Conservation AI
-- Herramientas de procesamiento y análisis de imágenes: Timelapse, Camelot
-- Colecciones de imágenes públicas obtenidas de repositorios como GBIF y CalTech
-- GBIF Webinars
+- Bibliotecas de Python: Pillow, OpenCV, scikit-image, Tensorflow, Keras.
+- Plataformas basadas en Inteligencia Artificial: Wildlife Insights (WI), Machine Learning for Wildlife Image Classification (MLWIC2), MegaDetector (MD), y Conservation AI.
+- Herramientas de procesamiento y análisis de imágenes: Timelapse, Camelot.
+- Colecciones de imágenes públicas obtenidas de repositorios como GBIF y CalTech.
+- GBIF Webinars.
 
 <br>
 
