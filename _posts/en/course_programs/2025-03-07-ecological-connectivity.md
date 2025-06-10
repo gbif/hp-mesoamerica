@@ -18,11 +18,15 @@ lang-ref: connectivity-program
 <div>
 <b>Schedule and start date</b>
 <br>
-Important: Only one group will be available.
-<br>
+The course will be offered in two groups with the following schedules:
 <ul>
-    <li>Starts on Wednesday, July 9, and ends on August 27, 2025.</li>
-    <li>Classes will be held every Wednesday from 18:00 to 20:00 (GMT-6) for 8 weeks.</li>
+    <li>Group #1: Starts on <b>Wednesday, June 25</b>, and will be held every Wednesday at 6:00 PM (GMT-6) for 8 weeks. <br>
+    Dates: June 25; July 9, 16, 23 and 30; August 6, 13 and 20, 2025. 
+    </li>
+    <br>
+    <li>Group #2: Starts on <b>Thursday, June 26</b>, and will be held every Thursday at 6:00 PM (GMT-6) for 8 weeks. <br>
+    Dates: June 26; July 10, 17, 24 and 31; August 7, 14 and 21, 2025. 
+    </li>
 </ul>
 </div>
 <br>
@@ -50,7 +54,7 @@ Important: Only one group will be available.
 <br>
 
 ## Registration form
-Link:  [Registration for Ecological connectivity course](https://forms.gle/C8qPi7pon3AYYyXLA)
+Link:  [Registration for Ecological connectivity course](https://forms.gle/5HDeuMcETXaj4cSU9)
 
 <br>
 

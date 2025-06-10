@@ -17,11 +17,13 @@ lang-ref: connectivity-program
 <div>
 <b>Horario y fecha de inicio</b>
 <br>
-Importante: Se abrirá un único grupo.
-<br>
+El curso se impartirá en dos grupos independientes en los siguientes horarios:
 <ul>
-    <li>Inicia el miércoles 09 de julio y finaliza el 27 de agosto de 2025.</li>
-    <li>Se impartirá todos los miércoles de 18:00 a 20:00 horas (GMT-6) durante 8 semanas.</li>
+    <li>Grupo #1: Inicia <b>Miércoles 25 de junio</b> y se impartirá todos los miércoles de 6:00 p.m. a 8:00 p.m. (GMT-6). <br>
+    Fechas: 25 de junio; 9, 16, 23 y 30 de julio; 6, 13 y 20 de agosto.</li>
+    <br>
+    <li>Grupo #2: Inicia <b>Jueves 26 de junio</b> y se impartirá todos los jueves de 6:00 p.m. a 8:00 p.m. (GMT-6). <br>
+    Fechas: 26 de junio; 10, 17, 24 y 31 de julio; 7, 14 y 21 de agosto.</li>
 </ul>
 </div>
 <br>
@@ -49,7 +51,7 @@ Importante: Se abrirá un único grupo.
 <br>
 
 ## Formulario de inscripción
-Enlace: [Inscripciones Conectividad ecológica](https://forms.gle/C8qPi7pon3AYYyXLA)
+Enlace: [Inscripciones Conectividad ecológica](https://forms.gle/5HDeuMcETXaj4cSU9)
 
 <br>
 
