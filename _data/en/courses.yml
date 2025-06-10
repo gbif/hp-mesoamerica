@@ -7,6 +7,15 @@
   instructors: "Oscar Godínez Gómez"
   form: "https://forms.gle/C8qPi7pon3AYYyXLA"
 
+# Vision por computadora - Jun 2025
+- name: "Computer vision applied to biodiversity"
+  start: "24/06/2025"
+  finish: "12/08/2025"
+  projects: "In progress"
+  program: "/en/courses/vision-program"
+  instructors: "Emilia Zeledón"
+  form: "https://forms.gle/C8qPi7pon3AYYyXLA"
+
 # Zonation - Apr 2025
 - name: "Systematic conservation planning with Zonation"
   start: "01/04/2025"
