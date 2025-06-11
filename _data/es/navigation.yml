@@ -1,5 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: Inauguración
+  href: /opening
 - text: Acerca de
   href: /about
 - text: Actividades

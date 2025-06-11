@@ -15,5 +15,9 @@ composition:
   - type: features
     data: es.home.courses
 permalink: /
+cta:
+  - text: ¡Inauguración!
+    href: /opening
+    isPrimary: true
 ---
 
