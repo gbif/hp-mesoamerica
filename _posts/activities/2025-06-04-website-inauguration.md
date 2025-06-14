@@ -9,7 +9,7 @@ imageLicense: "{{ site.data.es.images.inauguration.caption }}"
 height: 66vh
 ---
 
-<div style="width:60%; margin:0 auto;">
+<div style="width:55%; margin:0 auto; text-align: justify;">
 Te invitamos a conocer la nueva plataforma web de datos abiertos sobre la biodiversidad mesoamericana con más de 90 millones de registros.
 <br>
 <br>
@@ -26,20 +26,28 @@ Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de 
 <br>
 <br>
 
-<a href="https://vc-cudi.zoom.us/meeting/register/7R7KYc7yR5ua3k1pVMEJGQ">Regístrate en Zoom</a> con antelación a este evento. <br>
+<b><a href="https://vc-cudi.zoom.us/meeting/register/7R7KYc7yR5ua3k1pVMEJGQ">Regístrate en Zoom</a></b> con antelación a este evento. <br>
 Cuando the hayas registrado recibirás un correo electrónico de confirmación con los datos de cómo participar.
+<br>
+<br>
+
+<img src="/assets/images/icons/img_FBLive-Conabio.png" alt=" " width="30%">
 
 <br>
 <br>
 
 <h4 style="text-align: center"><b>¡Súmate al cambio por la conservación de la biodiversidad!</b></h4>
+
+<br>
+
+<img src="/assets/images/logos/logos_invitacion.png" alt=" " width="1500">
 </div>
 
 <br>
 <br>
 
 <div style="width:70%; margin:0 auto;">
-<h1>Agenda del evento</h1>
+<h2>Agenda del evento</h2>
 
 <table>
   <tr>
