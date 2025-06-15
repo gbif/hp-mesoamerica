@@ -17,11 +17,11 @@ Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de 
 <br>
 <br>
 
-<b>Fecha:</b> Miércoles 2 de julio, 2025
+<b>Fecha:</b> Miércoles 2 de julio, 2025.
 <br>
-<b>Hora:</b> 10:00 a.m. (Guatemala) / 10:00 a.m. (GMT-6)
+<b>Hora:</b> 10:00 a.m. (Guatemala) / 10:00 a.m. (GMT-6).
 <br>
-<b>Modalidad:</b> Virtual
+<b>Modalidad:</b> Virtual.
 
 <br>
 <br>
@@ -67,7 +67,7 @@ Cuando the hayas registrado recibirás un correo electrónico de confirmación c
   </tr>
   <tr>
     <td>10:35 - 11:15</td>
-    <td>Redbioma: Ciencia de datos, colaboración regional y acceso abierto para la conservación de la biodiversidad mesoamericana.</td>
+    <td>Redbioma: Ciencia de datos, colaboración regional y acceso abierto para la conservación de la biodiversidad mesoamericana</td>
     <td>Modera: Patricia Koleff, Tania Urquiza. <br>
         Participan:
         <ul>
