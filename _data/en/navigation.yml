@@ -1,5 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: Opening
+  href: /en/opening
 - text: About us
   href: /en/about
 - text: Activities
@@ -13,14 +15,14 @@
 - text: Credits
   href: /en/credits
 - text: Data
-  menu: 
-  - text: Occurrences
-    href: /en/occurrence/search
-  - text: Institutions
-    href: /en/institution/search
-  - text: Collections
-    href: /en/collection/search
-  - text: Datasets 
-    href: /en/dataset/search
-  - text: Literature
-    href: /en/literature/search
+  menu:
+    - text: Occurrences
+      href: /en/occurrence/search
+    - text: Institutions
+      href: /en/institution/search
+    - text: Collections
+      href: /en/collection/search
+    - text: Datasets
+      href: /en/dataset/search
+    - text: Literature
+      href: /en/literature/search

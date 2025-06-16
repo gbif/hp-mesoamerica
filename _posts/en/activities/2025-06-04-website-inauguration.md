@@ -1,33 +1,33 @@
 ---
 layout: heroImage
-title: ¡Inauguramos el portal de datos de la Redbioma!
-date:   2025-06-04 +0600
-permalink: /opening
+title: We’re launching the Redbioma data portal!
+date: 2025-06-04 +0600
+permalink: /en/opening
 lang-ref: opening
-background:  "{{ site.data.es.images.inauguration.src }}"
+background: "{{ site.data.es.images.inauguration.src }}"
 imageLicense: "{{ site.data.es.images.inauguration.caption }}"
 height: 66vh
 ---
 
 <div style="width:55%; margin:0 auto; text-align: justify;">
-Te invitamos a conocer la nueva plataforma web de datos abiertos sobre la biodiversidad mesoamericana con más de 90 millones de registros.
+We invite you to explore the new open data web platform on Mesoamerican biodiversity, featuring over 90 million records.
 <br>
 <br>
-Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de capacidades.
-<br>
-<br>
-
-<b>Fecha:</b> Miércoles 2 de julio, 2025.
-<br>
-<b>Hora:</b> 10:00 a.m. (Guatemala) / 10:00 a.m. (GMT-6).
-<br>
-<b>Modalidad:</b> Virtual.
-
+An initiative that brings together data science, biodiversity conservation, and capacity building.
 <br>
 <br>
 
-<b><a href="https://vc-cudi.zoom.us/meeting/register/7R7KYc7yR5ua3k1pVMEJGQ">Regístrate en Zoom</a></b> con antelación a este evento. <br>
-Cuando the hayas registrado recibirás un correo electrónico de confirmación con los datos de cómo participar.
+<b>Date:</b> Wednesday, July 2nd, 2025.
+<br>
+<b>Time:</b> 10:00 a.m. (Guatemala) / 10:00 a.m. (GMT-6).
+<br>
+<b>Format:</b> Online.
+
+<br>
+<br>
+
+<b><a href="https://vc-cudi.zoom.us/meeting/register/7R7KYc7yR5ua3k1pVMEJGQ">Register on Zoom</a></b> in advance for this event.<br>
+Once registered, you will receive a confirmation email with the information to join.
 <br>
 <br>
 
@@ -36,7 +36,7 @@ Cuando the hayas registrado recibirás un correo electrónico de confirmación c
 <br>
 <br>
 
-<h4 style="text-align: center"><b>¡Súmate al cambio por la conservación de la biodiversidad!</b></h4>
+<h4 style="text-align: center"><b>Join the movement for biodiversity conservation!</b></h4>
 
 <br>
 
@@ -47,41 +47,43 @@ Cuando the hayas registrado recibirás un correo electrónico de confirmación c
 <br>
 
 <div style="width:70%; margin:0 auto;">
-<h2>Agenda del evento</h2>
+<h2>Event agenda</h2>
 
 <table>
   <tr>
-    <th style="width:15%">Horario</th>
-    <th> </th>
-    <th>Responsable</th>
+    <th style="width:15%">Time</th>
+    <th>Activity</th>
+    <th>Responsible</th>
   </tr>
   <tr>
     <td>10:00 - 10:20</td>
-    <td>Bienvenida al evento y breve síntesis del proyecto</td>
+    <td>Welcome and project overview</td>
     <td>María Mora</td>
   </tr>
   <tr>
     <td>10:20 - 10:35</td>
-    <td>Mensaje de representante de GBIF</td>
+    <td>Message from GBIF representative</td>
     <td> </td>
   </tr>
   <tr>
     <td>10:35 - 11:15</td>
-    <td>Redbioma: Ciencia de datos, colaboración regional y acceso abierto para la conservación de la biodiversidad mesoamericana</td>
-    <td>Modera: Patricia Koleff, Tania Urquiza. <br>
-        Participan:
+    <td>Redbioma: Data science, regional collaboration, and open access for Mesoamerican biodiversity conservation</td>
+    <td>Moderators: Patricia Koleff, Tania Urquiza.
+        <br>
+        <br>
+        Panelists:
         <ul>
             <li>Anabela Plos - GBIF Argentina</li>
-            <li>Raùl Jiménez- CONABIO, GBIF México</li>
+            <li>Raùl Jiménez- CONABIO, GBIF Mexico</li>
             <li>Lilliana Sancho Chavarría - TEC, Costa Rica</li>
-            <li>Leslie Melisa Ojeda Cabrera - Consultora independiente, Guatemala</li>
+            <li>Leslie Melisa Ojeda Cabrera - Independent consultant, Guatemala</li>
         </ul>
     </td>
   </tr>
   <tr>
     <td>11:15 - 11:30</td>
-    <td>Preguntas del público y despedida</td>
-    <td>El equipo coordinador responde en línea</td>
+    <td>Audience Q&A and closure.</td>
+    <td>Coordination team.</td>
   </tr>
 </table>
 </div>
