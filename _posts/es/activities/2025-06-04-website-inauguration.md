@@ -31,7 +31,7 @@ Cuando te hayas registrado recibirás un correo electrónico de confirmación co
 <br>
 <br>
 
-<img src="/assets/images/icons/img_FBLive-Conabio.png" alt=" " width="30%">
+<img src="/assets/images/icons/img_FBLive-Conabio.png" alt="Facebook Live" width="30%">
 
 <br>
 <br>
@@ -39,8 +39,10 @@ Cuando te hayas registrado recibirás un correo electrónico de confirmación co
 <h4 style="text-align: center"><b>¡Súmate al cambio por la conservación de la biodiversidad!</b></h4>
 
 <br>
+</div>
 
-<img src="/assets/images/logos/logos_invitacion.png" alt=" " width="1500">
+<div style="width:75%; margin:0 auto">
+<img src="/assets/images/logos/logos_invitacion.png" alt="Logos">
 </div>
 
 <br>

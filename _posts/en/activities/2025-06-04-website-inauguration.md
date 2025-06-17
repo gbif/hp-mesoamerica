@@ -39,8 +39,10 @@ Once registered, you will receive a confirmation email with the information to j
 <h4 style="text-align: center"><b>Join the movement for biodiversity conservation!</b></h4>
 
 <br>
+</div>
 
-<img src="/assets/images/logos/logos_invitacion.png" alt=" " width="1500">
+<div style="width:75%; margin:0 auto">
+<img src="/assets/images/logos/logos_invitacion.png" alt="Logos">
 </div>
 
 <br>
