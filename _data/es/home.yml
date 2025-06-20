@@ -133,3 +133,17 @@ courses:
         href: /courses/connectivity-program
       #- text: Material
       #  href: #
+
+    - preTitle: 2025    
+      title: Visión por computadora aplicada a la biodiversidad
+      background: "{{ site.data.es.images.agalychnis.src }}"
+      imageLicense: "{{ site.data.es.images.agalychnis.caption }}"
+      cta:
+      #- text: Proyectos
+      #  href: #
+      #  isPrimary: true
+      - text: Programa
+        href: /courses/vision-program
+      #- text: Material
+      #  href: #
+

@@ -110,8 +110,8 @@ courses:
 
     - preTitle: 2025    
       title: Systematic conservation planning with Zonation
-      background: "{{ site.data.es.images.guarianthe.src }}"
-      imageLicense: "{{ site.data.es.images.guarianthe.caption }}"
+      background: "{{ site.data.en.images.guarianthe.src }}"
+      imageLicense: "{{ site.data.en.images.guarianthe.caption }}"
       cta:
       #- text: Projects
       #  href: #
@@ -123,13 +123,26 @@ courses:
 
     - preTitle: 2025    
       title: Approaches, methods and tools for ecological connectivity.
-      background: "{{ site.data.es.images.ficus.src }}"
-      imageLicense: "{{ site.data.es.images.ficus.caption }}"
+      background: "{{ site.data.en.images.ficus.src }}"
+      imageLicense: "{{ site.data.en.images.ficus.caption }}"
       cta:
       #- text: Projects
       #  href: #
       #  isPrimary: true
       - text: Program
         href: /en/courses/connectivity-program
+      #- text: Material
+      #  href: #
+
+    - preTitle: 2025    
+      title: Computer vision applied to biodiversity
+      background: "{{ site.data.en.images.agalychnis.src }}"
+      imageLicense: "{{ site.data.en.images.agalychnis.caption }}"
+      cta:
+      #- text: Proyectos
+      #  href: #
+      #  isPrimary: true
+      - text: Program
+        href: /en/courses/vision-program
       #- text: Material
       #  href: #

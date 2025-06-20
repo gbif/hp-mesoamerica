@@ -113,3 +113,8 @@ day7:
 
 form:
   src: assets/images/thumbnails/forms.png
+
+agalychnis: 
+  src: assets/images/cards/img_ficha_Agalychnis_callidryas_CareyJamesBalboa.jpg
+  caption: |
+    *Agalychnis callidryas* Foto: [Carey James Balboa](https://commons.wikimedia.org/wiki/File:Red_eyed_tree_frog_edit2.jpg).
