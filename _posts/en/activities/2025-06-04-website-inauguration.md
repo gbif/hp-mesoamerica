@@ -69,17 +69,18 @@ Once registered, you will receive a confirmation email with the information to j
   </tr>
   <tr>
     <td>10:35 - 11:15</td>
-    <td>Redbioma: Data science, regional collaboration, and open access for Mesoamerican biodiversity conservation</td>
+    <td>Redbioma: Data science, regional collaboration, and open access for Mesoamerican biodiversity conservation
+    <br>
+    <br>
+    Invited panelists (alphabetical order):
+    <ul>
+        <li>Anabela Plos - GBIF Argentina</li>
+        <li>Leslie Melisa Ojeda Cabrera - Independent consultant, Guatemala</li>
+        <li>Lilliana Sancho Chavarría - Coordinator of the Master's Program in Computer Science, ITCR</li>
+        <li>Raúl Jiménez Rosenberg - Executive Secretary, CONABIO, GBIF Mexico</li>
+    </ul>
+    </td>
     <td>Moderators: Patricia Koleff, Tania Urquiza.
-        <br>
-        <br>
-        Panelists:
-        <ul>
-            <li>Anabela Plos - GBIF Argentina</li>
-            <li>Raùl Jiménez- CONABIO, GBIF Mexico</li>
-            <li>Lilliana Sancho Chavarría - TEC, Costa Rica</li>
-            <li>Leslie Melisa Ojeda Cabrera - Independent consultant, Guatemala</li>
-        </ul>
     </td>
   </tr>
   <tr>

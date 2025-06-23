@@ -69,17 +69,18 @@ Cuando te hayas registrado recibirás un correo electrónico de confirmación co
   </tr>
   <tr>
     <td>10:35 - 11:15</td>
-    <td>Redbioma: Ciencia de datos, colaboración regional y acceso abierto para la conservación de la biodiversidad mesoamericana</td>
-    <td>Modera: Patricia Koleff, Tania Urquiza.
+    <td>Redbioma: Ciencia de datos, colaboración regional y acceso abierto para la conservación de la biodiversidad mesoamericana
         <br>
         <br>
-        Participan:
+        Panelistas inivitados (orden alfabético):
         <ul>
             <li>Anabela Plos - GBIF Argentina</li>
-            <li>Raùl Jiménez- CONABIO, GBIF México</li>
-            <li>Lilliana Sancho Chavarría - TEC, Costa Rica</li>
             <li>Leslie Melisa Ojeda Cabrera - Consultora independiente, Guatemala</li>
+            <li>Lilliana Sancho Chavarría - Coordinadora de la Maestría en Ciencias de la Computación del ITCR</li>
+            <li>Raúl Jiménez Rosenberg - Secretario Ejecutivo, CONABIO, GBIF México</li>
         </ul>
+        </td>
+    <td>Modera: Patricia Koleff, Tania Urquiza.
     </td>
   </tr>
   <tr>
