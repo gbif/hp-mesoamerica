@@ -3,39 +3,69 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-#  - name: PARTNERS 
-#    links:
-#    - text: International Development Research Centre (IDRC-CDRI)
-#      href: https://idrc-crdi.ca/es
-#    - text: Consejo Superior Universitario Centroamericano (CSUCA)
-#      href: https://sicevaes.csuca.org/
-#    - text: Comisión para el Desarrollo Científico y Tecnológico de Centroamérica y Panamá (CTCAP)
-#      href: https://www.sica.int/ctcap/inicio
-#    - text: Sistema de la Integración Centroamericana (SICA)
-#      href: https://www.sica.int/
-#  - name: CONTACTO
-#    links: 
-#    - text: maria.mora@itcr.ac.cr
-#      href: mailto:maria.mora@itcr.ac.cr
-  - name: 
-    description: |
-      <a href="/"><img src="/assets/images/logos/ico_Redbioma.png" width="100"><br/><br/></a>    
-  - name: 
-    description: |
-      <a href="https://www.tec.ac.cr/"><img src="/assets/images/logos/ico_TEC.png" width="100"><br/><br/></a>    
-  - name: 
-    description: |
-      <a href="https://idrc-crdi.ca/es"><img src="/assets/images/logos/ico_IDR-CRDI.png" width="100"><br/><br/></a>
-  - name: 
-    description: |
-      <a href="https://sicevaes.csuca.org/"><img src="/assets/images/logos/ico_CSUCA.png" width="80"><br/><br/></a>
-  - name: 
-    description: |
-      <a href="https://www.sica.int/ctcap/inicio"><img src="/assets/images/logos/ico_CTCAP.png" width="80"><br/><br/></a>
-  - name: 
-    description: |
-      <a href="https://www.sica.int/"><img src="/assets/images/logos/ico_SICA.png" width="100"><br/><br/></a>
+  #  - name: PARTNERS
+  #    links:
+  #    - text: International Development Research Centre (IDRC-CDRI)
+  #      href: https://idrc-crdi.ca/es
+  #    - text: Consejo Superior Universitario Centroamericano (CSUCA)
+  #      href: https://sicevaes.csuca.org/
+  #    - text: Comisión para el Desarrollo Científico y Tecnológico de Centroamérica y Panamá (CTCAP)
+  #      href: https://www.sica.int/ctcap/inicio
+  #    - text: Sistema de la Integración Centroamericana (SICA)
+  #      href: https://www.sica.int/
+  #  - name: CONTACTO
+  #    links:
+  #    - text: maria.mora@itcr.ac.cr
+  #      href: mailto:maria.mora@itcr.ac.cr
 
+  # RedBioma
+  - name:
+    description: |
+      <a href="/"><img src="/assets/images/logos/ico_Redbioma.png" width="100"></a>
+  # GBIF
+  - name:
+    description: |
+      <a href="https://www.gbif.org/"><img src="/assets/images/logos/ico-GBif.png" width="100"></a>
+  # TEC
+  - name:
+    description: |
+      <a href="https://www.tec.ac.cr/"><img src="/assets/images/logos/ico_TEC.png" width="100"></a>
+  # Medio ambiente México
+  - name:
+    description: |
+      <a href="https://www.gob.mx/semarnat"><img src="/assets/images/logos/ico_MedioAmbiente_Mexico.png" width="100"></a>
+  # CONABIO
+  - name:
+    description: |
+      <a href="https://www.gob.mx/conabio"><img src="/assets/images/logos/ico_Conabio.png" width="100"></a>
+  # CONAGEBIO
+  - name:
+    description: |
+      <a href="https://www.conagebio.go.cr/"><img src="/assets/images/logos/ico_conagebio.png" width="100"></a>
+  # CONAP
+  - name:
+    description: |
+      <a href="https://conap.gob.gt/"><img src="/assets/images/logos/ico_CONAP.png" width="80"></a>
+  # Museo Entomológico de León Nicaragua (MEL)
+  - name:
+    description: |
+      <a href="http://www.bio-nica.info/topic/index.html"><img src="/assets/images/logos/ico_MUseoEntLeon-Nicaragua.png" width="100"></a>
+  # CSUCA
+  - name:
+    description: |
+      <a href="https://sicevaes.csuca.org/"><img src="/assets/images/logos/ico_CSUCA.png" width="100"></a>
+  # IDRC
+  - name:
+    description: |
+      <a href="https://idrc-crdi.ca/es"><img src="/assets/images/logos/ico_IDR-CRDI.png" width="100"></a>
+  # CTAP
+  - name:
+    description: |
+      <a href="https://www.sica.int/ctcap/inicio"><img src="/assets/images/logos/ico_CTCAP.png" width="100"></a>
+  # SICA
+  - name:
+    description: |
+      <a href="https://www.sica.int/"><img src="/assets/images/logos/ico_SICA.png" width="100"></a>
 
   # EXAMPLE
   #- name: Group name
@@ -47,7 +77,6 @@ columns:
   #  - text: link title 2
   #    href: http://example2.com
   #  connectIcons: true # optional - show social icons (defined in _config.yml)
-
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
