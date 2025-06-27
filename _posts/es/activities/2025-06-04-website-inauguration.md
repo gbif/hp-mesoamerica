@@ -75,8 +75,9 @@ Cuando te hayas registrado recibirás un correo electrónico de confirmación co
         Panelistas inivitados (orden alfabético):
         <ul>
             <li>Anabela Plos - GBIF Argentina</li>
+            <li>Federico Méndez - Director de Ingeniería, GBIF</li>
             <li>Leslie Melisa Ojeda Cabrera - Consultora independiente, Guatemala</li>
-            <li>Lilliana Sancho Chavarría - Coordinadora de la Maestría en Ciencias de la Computación del ITCR</li>
+            <li>Lilliana Sancho Chavarría - Coordinadora de la Unidad de Posgrados de la Escuela de Ingeniería en Computación, ITCR</li>
             <li>Raúl Jiménez Rosenberg - Secretario Ejecutivo, CONABIO, GBIF México</li>
         </ul>
         </td>

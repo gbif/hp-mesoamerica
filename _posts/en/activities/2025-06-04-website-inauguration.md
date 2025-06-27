@@ -75,8 +75,9 @@ Once registered, you will receive a confirmation email with the information to j
     Invited panelists (alphabetical order):
     <ul>
         <li>Anabela Plos - GBIF Argentina</li>
+        <li>Federico Méndez - Head of Engineering, GBIF</li>
         <li>Leslie Melisa Ojeda Cabrera - Independent consultant, Guatemala</li>
-        <li>Lilliana Sancho Chavarría - Coordinator of the Master's Program in Computer Science, ITCR</li>
+        <li>Lilliana Sancho Chavarría - Coordinator of the Graduate Program Unit of the School of Computer Engineering, ITCR</li>
         <li>Raúl Jiménez Rosenberg - Executive Secretary, CONABIO, GBIF Mexico</li>
     </ul>
     </td>
