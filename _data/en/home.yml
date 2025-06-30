@@ -3,7 +3,7 @@ stats:
     - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=query%7B%20occurrenceSearch(predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20in%2C%20key%3A%20%22country%22%2C%20values%3A%20%5B%22CR%22%2C%22MX%22%2C%22GT%22%2C%22PA%22%2C%22SV%22%2C%22HN%22%2C%22NI%22%2C%22BZ%22%5D%7D%2C%20%7Btype%3A%20not%2C%20predicate%3A%20%7Btype%3Aequals%2C%20key%3A%20%22issue%22%2C%20value%3A%20%22COUNTRY_COORDINATE_MISMATCH%22%7D%7D%5D%7D)%20%7B%20documents(size%3A%200)%20%7B%20total%20%7D%20%7D%20%7D"></span>
       description: Biological records
       background: assets/images/icons/ico_registrosBiologicos.png
-      href: /en/occurrence/search 
+      href: /en/occurrence/search
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingCountry=CR&publishingCountry=MX&publishingCountry=NI&publishingCountry=PA&publishingCountry=SV&publishingCountry=HN&publishingCountry=GT&publishingCountry=BZ"></span>
       description: Datasets
@@ -14,135 +14,143 @@ stats:
       description: Institutions
       background: assets/images/icons/ico_instituciones.png
       href: /en/institution/search
-      
+
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?countriesOfResearcher=MX&countriesOfResearcher=CR&countriesOfResearcher=PA&countriesOfResearcher=GT&countriesOfResearcher=HN&countriesOfResearcher=SV&countriesOfResearcher=NI&countriesOfResearcher=BZ"></span>
       description: Publications
       background: assets/images/icons/ico_publicaciones.png
       href: /en/literature/search
-      
-info: 
+
+info:
   reverse: false
   title: "Information"
-  description: |      # required
-   <p style="font-size: 16px; text-align: justify;">The objective of the Data Science Network for the Conservation of Mesoamerican Biodiversity is to propose solutions to conservation problems through data science, with a strong component of capacity building and empowerment of women in the region. 
-   This project will strengthen alliances between institutions in the Mesoamerican region, learn about some of the needs of the participants associated with the sustainable use and conservation of biodiversity, implement an open data portal that integrates data and information on biodiversity and strengthen capacities in data science issues to support the development of science.  education and biodiversity conservation, giving priority to the most vulnerable groups of the Mesoamerican population.</p>
+  description: | # required
+    <p style="font-size: 16px; text-align: justify;">The objective of the Data Science Network for the Conservation of Mesoamerican Biodiversity is to propose solutions to conservation problems through data science, with a strong component of capacity building and empowerment of women in the region. 
+    This project will strengthen alliances between institutions in the Mesoamerican region, learn about some of the needs of the participants associated with the sustainable use and conservation of biodiversity, implement an open data portal that integrates data and information on biodiversity and strengthen capacities in data science issues to support the development of science.  education and biodiversity conservation, giving priority to the most vulnerable groups of the Mesoamerican population.</p>
   # img required
   background: assets/images/banners/fo_Info_Chlorophyllum_molybdites_LC.jpg
   imageLicense: |
     *Chlorophyllum molybdites.* Photo: Leila Calderón Gómez.
   cta:
-  - text: How to join
-    href: https://forms.gle/gq98uQN32xz9uBx87
-    isPrimary: true
-  - text: About
-    href: /about
-    # isPrimary: true
+    - text: How to join
+      href: https://forms.gle/gq98uQN32xz9uBx87
+      isPrimary: true
+    - text: About
+      href: /about
+      # isPrimary: true
 
-courses: 
+courses:
   title: "Courses"
   description: |
     Directory of projects from the courses offered
   features:
     - preTitle: 2024
       title: Introduction to Python for data science
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXymdP4ZFm0c5Qwfrs6osXiOX&si=xiAxWu-fAtZTzhmu"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.bradypus.src }}"
       imageLicense: "{{ site.data.en.images.bradypus.caption }}"
       cta:
-      - text: Projects
-        href: /projects/python_data_science
-        isPrimary: true
-      - text: Program
-        href: /en/courses/python-program-07
-      - text: Material
-        href: https://drive.google.com/drive/folders/1jY8WWazFvawhRQLPYivm09Gvr02RMdOp?usp=sharing
-  
-    - preTitle: 2024    
+        - text: Projects
+          href: /projects/python_data_science
+          isPrimary: true
+        - text: Program
+          href: /en/courses/python-program-07
+        - text: Material
+          href: https://drive.google.com/drive/folders/1jY8WWazFvawhRQLPYivm09Gvr02RMdOp?usp=sharing
+
+    - preTitle: 2024
       title: Machine learning applied to biodiversity data
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXylmACyaapLghORpfy5DciA8&si=Rq6Yc7oykc4KqL8n"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.lampornis.src }}"
       imageLicense: "{{ site.data.en.images.lampornis.caption }}"
       cta:
-      - text: Projects
-        href: /projects/ml
-        isPrimary: true
-      - text: Program
-        href: /en/courses/ml-program
-      - text: Material
-        href: https://drive.google.com/drive/folders/1uyxPKi8ZJ8Y_COrqXPGgvRFCeTHa3Yvm?usp=sharing
+        - text: Projects
+          href: /projects/ml
+          isPrimary: true
+        - text: Program
+          href: /en/courses/ml-program
+        - text: Material
+          href: https://drive.google.com/drive/folders/1uyxPKi8ZJ8Y_COrqXPGgvRFCeTHa3Yvm?usp=sharing
 
     - preTitle: 2024
       title: R Programming Language
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXykgBY0u67mC4mBKgcjr9Q_D&si=MTbq841oZbU94IKd"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.lantana.src }}"
       imageLicense: "{{ site.data.en.images.lantana.caption }}"
       cta:
-      - text: Projects
-        href: /projects/r
-        isPrimary: true
-      - text: Program
-        href: /en/courses/r-program
-      - text: Material
-        href: https://jonathanvsv.github.io/CursoR/
+        - text: Projects
+          href: /projects/r
+          isPrimary: true
+        - text: Program
+          href: /en/courses/r-program
+        - text: Material
+          href: https://jonathanvsv.github.io/CursoR/
 
     - preTitle: 2025
       title: Geospatial biodiversity data processing using the Python programming language
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXymrVQaW71Wf_xCCAFwK5r-R&si=o9bo5gf2Jccwj2Ua"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.bothriechis.src }}"
       imageLicense: "{{ site.data.en.images.bothriechis.caption }}"
       cta:
-      - text: Projects
-        href: /en/projects/gis
-        isPrimary: true
-      - text: Program
-        href: /en/courses/gis-program
-      - text: Material
-        href: https://datos-geoespaciales-biodiversidad.github.io/python/
+        - text: Projects
+          href: /en/projects/gis
+          isPrimary: true
+        - text: Program
+          href: /en/courses/gis-program
+        - text: Material
+          href: https://datos-geoespaciales-biodiversidad.github.io/python/
 
     - preTitle: 2025
       title: Introduction to ecological niche modeling and species distributions
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXykyafE1NhWr0lriTDpsPSGc&si=F7vZbUN6Bmen1j9O"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.dasypus.src }}"
       imageLicense: "{{ site.data.en.images.dasypus.caption }}"
       cta:
-      - text: Projects
-        href: en/projects/modeling
-        isPrimary: true
-      - text: Program
-        href: /en/courses/modeling-program
-      #- text: Material
-      #  href: #
+        - text: Projects
+          href: en/projects/modeling
+          isPrimary: true
+        - text: Program
+          href: /en/courses/modeling-program
+        #- text: Material
+        #  href: #
 
-    - preTitle: 2025    
+    - preTitle: 2025
       title: Systematic conservation planning with Zonation
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXykshS1NShy3cqjN69rX3wax&si=1k0JUkXFQdbRTyX4"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.guarianthe.src }}"
       imageLicense: "{{ site.data.en.images.guarianthe.caption }}"
       cta:
-      #- text: Projects
-      #  href: #
-      #  isPrimary: true
-      - text: Program
-        href: /en/courses/zonation-program
-      #- text: Material
-      #  href: #
+        #- text: Projects
+        #  href: #
+        #  isPrimary: true
+        - text: Program
+          href: /en/courses/zonation-program
+        - text: Material
+          href: https://drive.google.com/drive/folders/1V837Kffc9rYqS15m_ds7La_04ULsbxdE?usp=sharing
 
-    - preTitle: 2025    
+    - preTitle: 2025
       title: Approaches, methods and tools for ecological connectivity.
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXyltc532EQ6VP-MaH7C_l10H&si=JoTGsiHWsPY_9m0-"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.ficus.src }}"
       imageLicense: "{{ site.data.en.images.ficus.caption }}"
       cta:
-      #- text: Projects
-      #  href: #
-      #  isPrimary: true
-      - text: Program
-        href: /en/courses/connectivity-program
-      #- text: Material
-      #  href: #
+        #- text: Projects
+        #  href: #
+        #  isPrimary: true
+        - text: Program
+          href: /en/courses/connectivity-program
+        - text: Material
+          href: https://drive.google.com/drive/folders/1z5PGM-KccGrOs05aejCKkJDaP47hJaKc?usp=sharing
 
-    - preTitle: 2025    
+    - preTitle: 2025
       title: Computer vision applied to biodiversity
+      description: <a href="https://youtube.com/playlist?list=PLiP4keNeUXyl5LiX6dSzNPh8XMddgvGFu&si=IsvPzFHkn5J_s7ON"><img src="/assets/images/icons/youtube.png" width="6%"> Class recordings</a>
       background: "{{ site.data.en.images.agalychnis.src }}"
       imageLicense: "{{ site.data.en.images.agalychnis.caption }}"
       cta:
-      #- text: Proyectos
-      #  href: #
-      #  isPrimary: true
-      - text: Program
-        href: /en/courses/vision-program
-      #- text: Material
-      #  href: #
+        #- text: Proyectos
+        #  href: #
+        #  isPrimary: true
+        - text: Program
+          href: /en/courses/vision-program
+        - text: Material
+          href: https://drive.google.com/drive/folders/1adgOZr_VQVOXcxDQ-sLFGStIhqymuZEN?usp=sharing
