@@ -10,43 +10,31 @@ height: 66vh
 ---
 
 <div style="width:55%; margin:0 auto; text-align: justify;">
-Te invitamos a conocer la nueva plataforma web de datos abiertos sobre la biodiversidad mesoamericana con más de 90 millones de registros.
-<br>
-<br>
-Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de capacidades.
-<br>
-<br>
+  Te invitamos a conocer la nueva plataforma web de datos abiertos sobre la biodiversidad mesoamericana con más de 90 millones de registros.
+  <br><br>
+  
+  Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de capacidades.
+  <br><br>
 
 <b>Fecha:</b> Miércoles 2 de julio, 2025.
 <br>
+
 <b>Hora:</b> 10:00 a.m. (Guatemala) / 10:00 a.m. (GMT-6).
 <br>
-<b>Modalidad:</b> Virtual.
 
-<br>
-<br>
+<b>Modalidad:</b> Virtual.
+<br><br>
 
 <b><a href="https://vc-cudi.zoom.us/meeting/register/7R7KYc7yR5ua3k1pVMEJGQ">Regístrate en Zoom</a></b> con antelación a este evento. <br>
 Cuando te hayas registrado recibirás un correo electrónico de confirmación con los datos de cómo participar.
-<br>
-<br>
+<br><br>
 
-<img src="/assets/images/icons/img_FBLive-Conabio.png" alt="Facebook Live" width="30%">
-
-<br>
-<br>
+<img src="/assets/images/icons/img_FBLive-Conabio.png" alt="Facebook Live" width="25%">
+<br><br><br>
 
 <h4 style="text-align: center"><b>¡Súmate al cambio por la conservación de la biodiversidad!</b></h4>
-
-<br>
+<br><br>
 </div>
-
-<div style="width:75%; margin:0 auto">
-<img src="/assets/images/logos/logos_invitacion.png" alt="Logos">
-</div>
-
-<br>
-<br>
 
 <div style="width:70%; margin:0 auto;">
 <h2>Agenda del evento</h2>
@@ -60,12 +48,12 @@ Cuando te hayas registrado recibirás un correo electrónico de confirmación co
   <tr>
     <td>10:00 - 10:20</td>
     <td>Bienvenida al evento y breve síntesis del proyecto</td>
-    <td>María Mora</td>
+    <td>María Auxiliadora Mora</td>
   </tr>
   <tr>
     <td>10:20 - 10:35</td>
     <td>Mensaje de representante de GBIF</td>
-    <td> </td>
+    <td>Federico Méndez - Director de Ingeniería, GBIF</td>
   </tr>
   <tr>
     <td>10:35 - 11:15</td>
@@ -75,7 +63,6 @@ Cuando te hayas registrado recibirás un correo electrónico de confirmación co
         Panelistas inivitados (orden alfabético):
         <ul>
             <li>Anabela Plos - GBIF Argentina</li>
-            <li>Federico Méndez - Director de Ingeniería, GBIF</li>
             <li>Leslie Melisa Ojeda Cabrera - Consultora independiente, Guatemala</li>
             <li>Lilliana Sancho Chavarría - Coordinadora de la Unidad de Posgrados de la Escuela de Ingeniería en Computación, ITCR</li>
             <li>Raúl Jiménez Rosenberg - Secretario Ejecutivo, CONABIO, GBIF México</li>
