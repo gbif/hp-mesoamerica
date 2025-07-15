@@ -119,9 +119,9 @@ courses:
       background: "{{ site.data.es.images.guarianthe.src }}"
       imageLicense: "{{ site.data.es.images.guarianthe.caption }}"
       cta:
-        #- text: Proyectos
-        #  href: #
-        #  isPrimary: true
+        - text: Proyectos
+          href: /projects/zonation
+          isPrimary: true
         - text: Programa
           href: /courses/zonation-program
         - text: Material

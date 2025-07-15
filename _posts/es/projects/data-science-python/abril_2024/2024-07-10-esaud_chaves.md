@@ -22,7 +22,9 @@ Realizado por: Esaud E. Chaves Picado y Jennifer Hernández Sánchez
 <iframe width="100%" height="700" src="https://www.youtube.com/embed/yaEsE5_vx6I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
+
 # Cuaderno de Jupyter
+
 <br>
 <iframe 
     src="/assets/html/esaud_chaves.html" 
