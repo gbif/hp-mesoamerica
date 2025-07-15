@@ -19,3 +19,12 @@ features:
     imageLicense: "{{ site.data.en.images.pecari.caption }}"
     href: /en/webinars/nicaragua-day7
     categories: [Environmental Day]
+
+  - preTitle: Workshop
+    title: Multivariate Statistics for Biodiversity Conservation with Python
+    description: |
+      This workshop represents a strategic collaboration between the National Council of Protected Areas (CONAP), the University of San Carlos of Guatemala (USAC) through the University Center of Zacapa (CUNZAC), and redbioma, aimed at promoting scientific research applied to conservation.
+    background: "{{ site.data.es.images.Ocypode.src }}"
+    imageLicense: "{{ site.data.es.images.Ocypode.caption }}"
+    href: /en/Workshop/Multivariate-Statistics
+    categories: [Workshops Guatemala]

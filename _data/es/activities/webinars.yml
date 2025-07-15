@@ -19,3 +19,12 @@ features:
     imageLicense: "{{ site.data.es.images.pecari.caption }}"
     href: /webinars/nicaragua-day7
     categories: [Día del medio ambiente]
+
+  - preTitle: Taller 
+    title: Estadística multivariada para la conservación de la biodiversidad con Python
+    description: |   
+      Este taller representa una colaboración estratégica entre el Consejo Nacional de Áreas Protegidas (CONAP), la Universidad de San Carlos de Guatemala (USAC) a través del Centro Universitario de Zacapa (CUNZAC), y redbioma, para impulsar la investigación científica aplicada a la conservación.
+    background: "{{ site.data.es.images.Ocypode.src }}"
+    imageLicense: "{{ site.data.es.images.Ocypode.caption }}"
+    href: /taller/estadistica-multivariada
+    categories: [Talleres Guatemala]
