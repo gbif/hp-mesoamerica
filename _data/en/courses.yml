@@ -6,6 +6,8 @@
   program: "/en/courses/connectivity-program"
   instructors: "Oscar Godínez Gómez"
   form: "https://forms.gle/C8qPi7pon3AYYyXLA"
+  material: "https://drive.google.com/drive/folders/1z5PGM-KccGrOs05aejCKkJDaP47hJaKc?usp=sharing"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXyltc532EQ6VP-MaH7C_l10H&si=JoTGsiHWsPY_9m0-"
 
 # Vision for computer - Jun 2025
 - name: "Computer vision applied to biodiversity"
@@ -15,6 +17,8 @@
   program: "/en/courses/vision-program"
   instructors: "Emilia Zeledón"
   form: "https://forms.gle/C8qPi7pon3AYYyXLA"
+  material: "https://drive.google.com/drive/folders/1adgOZr_VQVOXcxDQ-sLFGStIhqymuZEN?usp=sharing"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXyl5LiX6dSzNPh8XMddgvGFu&si=IsvPzFHkn5J_s7ON"
 
 # Zonation - Apr 2025
 - name: "Systematic conservation planning with Zonation"
@@ -24,15 +28,19 @@
   program: "/en/courses/zonation-program"
   instructors: "Clarita Rodríguez Soto"
   form: "https://forms.gle/5zMPiKakLeKfMU1Y6"
+  material: "https://drive.google.com/drive/folders/1V837Kffc9rYqS15m_ds7La_04ULsbxdE?usp=sharing"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXykshS1NShy3cqjN69rX3wax&si=1k0JUkXFQdbRTyX4"
 
 # Modeling - Feb 2025
 - name: "Introduction to ecological niche modeling and species distributions"
   start: "19/02/2025"
   finish: "09/04/2025"
-  projects:  "/en/projects/modeling"
+  projects: "/en/projects/modeling"
   program: "/en/courses/modeling-program"
   instructors: "Enrique Martínez Meyer, Luis A. Osorio Olvera"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSd0LPjBVhThuwtCxap-K-PEZFhxpIRjsDrtEFGf7a68Gch0fQ/viewform"
+  material: "No disponible"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXykyafE1NhWr0lriTDpsPSGc&si=F7vZbUN6Bmen1j9O"
 
 # GIS - Jan 2025
 - name: "Geospatial biodiversity data processing using the Python programming language"
@@ -42,6 +50,8 @@
   program: "/en/courses/gis-program"
   instructors: "Manuel Vargas Del Valle"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
+  material: "https://datos-geoespaciales-biodiversidad.github.io/python/"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXymrVQaW71Wf_xCCAFwK5r-R&si=o9bo5gf2Jccwj2Ua"
 
 # Data science - Jul 2024
 - name: "Data science program"
@@ -51,6 +61,8 @@
   program: "/en/courses/ds-program"
   instructors: "FundaTEC"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSeb35GlNsgWKTpKUINvkFK-hNwGk1J4aXpGy2oXYcNmMkUeLg/viewform"
+  material: "No disponible"
+  recordings: "No disponible"
 
 # R programming language - Oct 2024
 - name: "R programming language"
@@ -60,6 +72,8 @@
   program: "/en/courses/r-program"
   instructors: "Jonathan Solórzano Villegas"
   form: "https://docs.google.com/forms/d/e/1FAIpQLSdND7N3UCjgXMbDp6ULa6TGbbnYhrCSA0rpcvrNhqKR1D42rQ/viewform?usp=sharing"
+  material: "https://jonathanvsv.github.io/CursoR/"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXykgBY0u67mC4mBKgcjr9Q_D&si=MTbq841oZbU94IKd"
 
 # Python for data science - Jul 2024
 - name: "Introduction to Python for data science (July)"
@@ -69,6 +83,8 @@
   program: "/en/courses/python-program-07"
   instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Alejandro Quesada"
   form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
+  material: "https://drive.google.com/drive/folders/1jY8WWazFvawhRQLPYivm09Gvr02RMdOp?usp=sharing"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXymdP4ZFm0c5Qwfrs6osXiOX&si=2udQps-fcH_r4izL"
 
 # Machine learning - Jul 2024
 - name: "Machine Learning applied to biodiversity data"
@@ -78,12 +94,16 @@
   program: "/en/courses/ml-program"
   instructors: "Emilia Zeledón Lostalo"
   form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
+  material: "https://drive.google.com/drive/folders/1uyxPKi8ZJ8Y_COrqXPGgvRFCeTHa3Yvm?usp=sharing"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXylmACyaapLghORpfy5DciA8&si=Rq6Yc7oykc4KqL8n"
 
 # Python for data science - Apr 2024
 - name: "Introduction to Python for data science (April)"
   start: "04/03/2024"
-  finish: "05/28/2024"  
+  finish: "05/28/2024"
   projects: "/projects/python_data_science"
   program: "/en/courses/python-program-04"
   instructors: "María Auxiliadora Mora, Josué Castro Ramírez, Benjamin Johnson Davis, Fabricio Ríos Montero, Ervin Rodríguez Villanueva"
   form: "https://forms.gle/Z5qZ9rgy1WoVavc69"
+  material: "https://drive.google.com/drive/folders/1jY8WWazFvawhRQLPYivm09Gvr02RMdOp?usp=sharing"
+  recordings: "https://youtube.com/playlist?list=PLiP4keNeUXymdP4ZFm0c5Qwfrs6osXiOX&si=xiAxWu-fAtZTzhmu"

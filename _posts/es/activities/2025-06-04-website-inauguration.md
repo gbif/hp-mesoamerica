@@ -9,12 +9,19 @@ imageLicense: "{{ site.data.es.images.inauguration.caption }}"
 height: 66vh
 ---
 
-<div style="width:55%; margin:0 auto; text-align: justify;">
-  Te invitamos a conocer la nueva plataforma web de datos abiertos sobre la biodiversidad mesoamericana con más de 90 millones de registros.
-  <br><br>
+<div style="width:70%; margin:0 auto; text-align: justify;">
+
+  <h2>Grabación del evento</h2>
+  <iframe class="mt-2" width="100%" height="500" src="https://www.youtube.com/embed/eI5JdZL_e30?si=82s1dHU6VovhWQm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
-  Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de capacidades.
-  <br><br>
+  <div class="mt-6" style = "border-top: 1px solid #bbb;"></div>
+
+<br>
+Te invitamos a conocer la nueva plataforma web de datos abiertos sobre la biodiversidad mesoamericana con más de 90 millones de registros.
+<br><br>
+
+Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de capacidades.
+<br><br>
 
 <b>Fecha:</b> Miércoles 2 de julio, 2025.
 <br>
