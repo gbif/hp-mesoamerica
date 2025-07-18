@@ -28,3 +28,12 @@ features:
     imageLicense: "{{ site.data.es.images.Ocypode.caption }}"
     href: /taller/estadistica-multivariada
     categories: [Talleres Guatemala]
+
+  - preTitle: Taller 
+    title: Fortalecimiento de capacidades locales con iNaturalistGT 
+    description: |   
+      Este taller representa una colaboración estratégica entre el Consejo Nacional de Áreas Protegidas (CONAP), la Universidad de San Carlos de Guatemala (USAC) a través del Centro Universitario de Zacapa (CUNZAC), y redbioma, para impulsar la investigación científica aplicada a la conservación.
+    background: "{{ site.data.es.images.iguana.src }}"
+    imageLicense: "{{ site.data.es.images.iguana.caption }}"
+    href: /taller/iNaturalistGT-Izabal
+    categories: [Talleres Guatemala]

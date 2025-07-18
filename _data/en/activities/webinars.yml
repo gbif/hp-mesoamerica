@@ -28,3 +28,13 @@ features:
     imageLicense: "{{ site.data.es.images.Ocypode.caption }}"
     href: /en/Workshop/Multivariate-Statistics
     categories: [Workshops Guatemala]
+
+  - preTitle: Workshop
+    title: Strengthening Local Capacities with iNaturalistGT
+    description: |
+      This workshop represents a strategic collaboration between the National Council of Protected Areas (CONAP), the University of San Carlos of Guatemala (USAC) through the University Center of Zacapa (CUNZAC), and redbioma, aimed at promoting scientific research applied to conservation.
+    background: "{{ site.data.es.images.iguana.src }}"
+    imageLicense: "{{ site.data.es.images.iguana.caption }}"
+    href: /en/workshop/iNaturalistGT-Izabal
+    categories: [Workshops Guatemala]
+
