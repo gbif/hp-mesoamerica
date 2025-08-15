@@ -5,13 +5,19 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 
 const countryCodes = ['CR','MX','GT','PA','SV','HN','NI','BZ'];
 
+const map = {
+      lat: 17.816627,
+      lng: -98.35669392677512,
+      zoom: 4.809933245,
+    }
+
 var siteConfig = {
   version: 2,
   routes: {
     alwaysUseHrefs: true, // Update - there now is translations. since the site isn't translated we can use push for now. if true, then we will always use hrefs, if false we will use onClick events and push state to the history. I've added this because I just realize that the language picker doesn't work with pushState as the url of the translated site is not updated with the new url
     enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey',"datasetKey","datasetSearch", "literatureSearch"],
   },
-  availableCatalogues: ['OCCURRENCE', 'COLLECTION', 'INSTITUTION','DATASET'],
+  availableCatalogues: ['OCCURRENCE', 'COLLECTION', 'INSTITUTION', 'DATASET'],
   occurrence: {
     //highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey'],
     //defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'country', 'year'],
@@ -43,9 +49,11 @@ var siteConfig = {
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
+
+
   institution: {
-    highlightedFilters: ['taxonKey'],
-    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'country', 'year'],
+//    highlightedFilters: ['taxonKey'],
+//    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'country', 'year'],
     rootFilter: {
       displayOnNHCPortal: true,
       country: countryCodes
@@ -57,17 +65,24 @@ var siteConfig = {
       zoom: 4.809933245,
     }
   },
+
+
   collection: {
     rootFilter: {
       displayOnNHCPortal: true,
       country: countryCodes
     }
   },
+
+
+
   dataset: {
     rootFilter: {
       publishingCountry: countryCodes
     }
   },
+
+
   literature: {
     rootFilter: {
       predicate: {
@@ -77,8 +92,10 @@ var siteConfig = {
       }
     }
   },
+
+
   maps: {
-    locale: 'es', // we want to show the maps in japanese
+    locale: 'es',
     defaultProjection: 'MERCATOR',
     defaultMapStyle: 'BRIGHT',
     mapStyles: {
