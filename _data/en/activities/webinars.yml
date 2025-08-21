@@ -2,6 +2,15 @@ title: "Webinars and lectures"
 description: |
   Virtual conferences hosted for Redbioma activities
 features:
+  - preTitle: Opening  # optional
+    title: We’re launching the Redbioma data portal! # required
+    description: |      # required
+      We invite you to explore the new open data web platform on Mesoamerican biodiversity, featuring over 90 million records.
+    background: "{{ site.data.es.images.inauguration.src  }}"
+    imageLicense: "{{ site.data.es.images.inauguration.src  }}"
+    href: /en/opening
+    categories: [Opening Website]
+
   - preTitle: Webinar  # optional
     title: Nicaragua biodiversity publications 2000 - 2024 # required
     description: |      # required

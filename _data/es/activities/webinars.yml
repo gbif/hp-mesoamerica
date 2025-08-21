@@ -2,6 +2,15 @@ title: "Webinars y conferencias"
 description: |
   Conferencias virtuales organizadas para actividades de la Redbioma
 features:
+  - preTitle: Inauguración  # optional
+    title: ¡Inauguramos el portal de datos de la Redbioma!  # required
+    description: |      # required
+      Te invitamos a conocer la nueva plataforma web de datos abiertos sobre la biodiversidad mesoamericana con más de 90 millones de registros.
+    background: "{{ site.data.es.images.inauguration.src }}"
+    imageLicense: "{{ site.data.es.images.inauguration.caption }}"
+    href: /opening
+    categories: [Inauguración]
+
   - preTitle: Webinar  # optional
     title: Publicaciones sobre biodiversidad de Nicaragua 2000 - 2024 # required
     description: |      # required

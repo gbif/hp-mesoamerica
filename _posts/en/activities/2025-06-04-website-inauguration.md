@@ -8,8 +8,11 @@ background: "{{ site.data.es.images.inauguration.src }}"
 imageLicense: "{{ site.data.es.images.inauguration.caption }}"
 height: 66vh
 ---
-
-<div style="width:55%; margin:0 auto; text-align: justify;">
+<div style="width:70%; margin:0 auto; text-align: justify;">
+  <h2>Video</h2>
+  <iframe class="mt-2" width="100%" height="500" src="https://www.youtube.com/embed/eI5JdZL_e30?si=82s1dHU6VovhWQm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+  <div class="mt-6" style = "border-top: 1px solid #bbb;"></div>
   We invite you to explore the new open data web platform on Mesoamerican biodiversity, featuring over 90 million records.
   <br><br>
 
