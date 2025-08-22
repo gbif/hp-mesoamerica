@@ -128,3 +128,8 @@ iguana:
   src: assets/images/cards/img_ficha_green_iguana.jpg
   caption: |
     *Green iguana* Foto: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Green_iguana_in_Costa_Rica_02.jpg).
+
+coati:
+  src: assets/images/banners/coati.jpg
+  caption: |
+    *White-nosed coati* Foto: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:White-nosed_coati_in_Costa_RIca.jpg).
