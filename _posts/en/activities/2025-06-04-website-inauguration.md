@@ -28,10 +28,6 @@ An initiative that brings together data science, biodiversity conservation, and 
 <b>Format:</b> Online.
 <br><br>
 
-<b><a href="https://vc-cudi.zoom.us/meeting/register/7R7KYc7yR5ua3k1pVMEJGQ">Register on Zoom</a></b> in advance for this event.<br>
-Once registered, you will receive a confirmation email with the information to join.
-<br><br>
-
 <img src="/assets/images/icons/img_FBLive-Conabio.png" alt="Facebook Live" width="25%">
 <br><br><br>
 

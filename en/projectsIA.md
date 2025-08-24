@@ -1,7 +1,7 @@
 ---
 layout: heroImage
-title: Proyectos de Inteligencia Artificial 
-permalink: /projectsIA
+title: Artificial Intelligence Projects
+permalink: /en/projectsIA
 lang-ref: projectsIA
 background: "{{ site.data.es.images.coati.src }}"
 imageLicense: "{{ site.data.es.images.coati.caption }}"
@@ -42,7 +42,7 @@ height: 65vh
 </style>
 
 <div class="projects-grid">
-  {% for project in site.data.es.projectsIA.projects %}
+  {% for project in site.data.en.projectsIA.projects %}
   <div class="project-card">
    <h2>{{ project.title }}</h2>
    <img src="{{ project.background }}" alt="{{ project.title }}">

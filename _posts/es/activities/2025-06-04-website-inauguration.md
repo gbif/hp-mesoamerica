@@ -32,10 +32,6 @@ Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de 
 <b>Modalidad:</b> Virtual.
 <br><br>
 
-<b><a href="https://vc-cudi.zoom.us/meeting/register/7R7KYc7yR5ua3k1pVMEJGQ">Regístrate en Zoom</a></b> con antelación a este evento. <br>
-Cuando te hayas registrado recibirás un correo electrónico de confirmación con los datos de cómo participar.
-<br><br>
-
 <img src="/assets/images/icons/img_FBLive-Conabio.png" alt="Facebook Live" width="25%">
 <br><br><br>
 
