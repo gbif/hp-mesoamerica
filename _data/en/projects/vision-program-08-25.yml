@@ -1,0 +1,43 @@
+- name: Application of AI in the Identification of Images Obtained from Wildlife
+  students: Homero Bennet
+  link: "/en/projects/2025-08-vision/ia_imagen.html"
+
+- name: Deep Learning Applied to Biodiversity Data
+  students: Alberto Méndez Rodriguez
+  link: "/en/projects/2025-08-vision/deep_learning.html"
+
+- name: Deep Learning Applied to Biodiversity Data
+  students: César Hernández
+  link: "/en/projects/2025-08-vision/deep_learning_herdandezC.html"
+
+- name: Deep Learning Applied to Biodiversity Data
+  students: César Luque F
+  link: "/en/projects/2025-08-vision/deep_learning_luqueC.html"
+
+- name: Deep Learning Applied to Biodiversity Data
+  students: Sergio Lemus
+  link: "/en/projects/2025-08-vision/deep_learning_lemusS.html"
+
+- name: Detection of African Wildlife Using RetinaNet and PyTorch
+  students: Alexander Barrantes Herrera
+  link:  /en/projects/2025-08-vision/retinaNet_pytorch.html
+
+- name: Fine-Tuning of RetinaNet and Analysis of the African Wildlife Dataset
+  students: Edison Curi Aviles
+  link: "/en/projects/2025-08-vision/fine_tuning.html"
+
+- name: Implementation of Exploratory Data Analysis (EDA) for Image Datasets and Fine-Tuning RetinaNet for Wildlife Detection
+  students: Sergio Díaz Martínez
+  link: "/en/projects/2025-08-vision/EDA.html"
+
+- name: Recognizing African Mammals from Images of Different Sources
+  students: Mayra L. Maldonado
+  link: "/en/projects/2025-08-vision/detect_mammals.html"
+
+- name: RetinaNet Over 30 Training Epochs
+  students: Victor Sojo
+  link: "/en/projects/2025-08-vision/Retinanet_30_years.html"
+
+- name: "Searching for the Elephant: Using the RetinaNet Model to Detect Threatened Mammals in Africa"
+  students: Pablo Jusim
+  link: "/en/projects/2025-08-vision/elefantt_search.html"
