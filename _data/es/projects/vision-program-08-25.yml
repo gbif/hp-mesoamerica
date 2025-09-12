@@ -1,0 +1,43 @@
+- name: Aplicación de la IA en la identificación de imagenes obtenidas de la vida silvestre
+  students: Homero Bennet
+  link: "/projects/2025-08-vision/ia_imagen.html"
+
+- name: Aprendizaje profundo aplicado a datos de Biodiversidad 
+  students: Alberto Méndez Rodriguez
+  link: "/projects/2025-08-vision/deep_learning.html"
+
+- name: Aprendizaje profundo aplicado a datos de Biodiversidad 
+  students: César Hernández
+  link: "/projects/2025-08-vision/deep_learning_herdandezC.html"
+
+- name: Aprendizaje profundo aplicado a datos de Biodiversidad
+  students: César Luque F
+  link: "/projects/2025-08-vision/deep_learning_luqueC.html"
+
+- name: Aprendizaje profundo aplicado a datos de Biodiversidad
+  students: Sergio Lemus
+  link: "/projects/2025-08-vision/deep_learning_lemusS.html"
+
+- name: Detección de Vida Silvestre en Africa usando RetinaNet y PyTorch
+  students: Alexander Barrantes Herrera
+  link: /projects/2025-08-vision/retinaNet_pytorch.html
+
+- name: FINE-TUNING DE RETINANET Y ANÁLISIS DEL DATASET AFRICAN WILDLIFE
+  students: Edison Curi Aviles
+  link: "/projects/2025-08-vision/fine_tuning.html"
+
+- name: Implementación de Exploratory Data Analysis (EDA) for Image Datasets y FineTuning RetinaNet for Wildlife Detection
+  students: Sergio Díaz Martínez
+  link: "/projects/2025-08-vision/EDA.html"
+
+- name: "Buscando al elefante: uso del modelo RetinaNet para detectar mamíferos amezados en Africa"
+  students: Pablo Jusim
+  link: "/projects/2025-08-vision/elefantt_search.html"
+
+- name: Reconociendo mamíferos africanos a partir de imágenes de distintas fuentes.
+  students: Mayra L. Maldonado
+  link: "/projects/2025-08-vision/detect_mammals.html"
+
+- name: Retinanet a lo largo de 30 épocas de entrenamiento
+  students: Victor Sojo
+  link: "/projects/2025-08-vision/Retinanet_30_years.html"

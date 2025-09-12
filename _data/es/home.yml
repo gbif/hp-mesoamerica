@@ -147,9 +147,9 @@ courses:
       background: "{{ site.data.es.images.agalychnis.src }}"
       imageLicense: "{{ site.data.es.images.agalychnis.caption }}"
       cta:
-        #- text: Proyectos
-        #  href: #
-        #  isPrimary: true
+        - text: Proyectos
+          href: /projects/vision
+          isPrimary: true
         - text: Programa
           href: /courses/vision-program
         - text: Material
