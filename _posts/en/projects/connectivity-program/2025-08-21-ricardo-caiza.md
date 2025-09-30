@@ -1,22 +1,22 @@
 ---
 layout: default
 author: PKiwi_03
-title: Dinámica temporal del ECA (2008–2022) y priorización de conservación y restauración de bosques en Quito, 2022
+title: Temporal dynamics of the ECA (2008–2022) and prioritization of forest conservation and restoration
 # categories: [Connectivity Program]
 hidden: [related_posts, navigator]
-permalink: "/projects/2025-08-connectivity/temporal-dinamic-quito.html"
+permalink: "/en/projects/2025-08-connectivity/temporal-dinamic-quito.html"
 sidebar: []
 ---
 
-# Dinámica temporal del ECA (2008–2022) y priorización de conservación y restauración de bosques en Quito, 2022
+# Temporal dynamics of the ECA (2008–2022) and prioritization of forest conservation and restoration
 
 <h2 style="color: gray; font-weight: normal;">
-Realizado por: Ricardo Caiza
+Made by: Ricardo Caiza
 </h2>
 
 ---
 
-# Proyecto
+# Project
 <br>
 
 <iframe 

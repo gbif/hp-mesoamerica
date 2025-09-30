@@ -1,22 +1,22 @@
 ---
 layout: default
 author: PKiwi_03
-title: Conectividad y representatividad de las áreas protegidas en la ecorregión Araucaria Moist Forest
+title: Connectivity and representativeness of protected areas in the Araucaria Moist Forest ecoregion
 # categories: [Connectivity Program]
 hidden: [related_posts, navigator]
-permalink: "/projects/2025-08-connectivity/araucaria_moist_forest.html"
+permalink: "/en/projects/2025-08-connectivity/araucaria_moist_forest.html"
 sidebar: []
 ---
 
-# Conectividad y representatividad de las áreas protegidas en la ecorregión Araucaria Moist Forest
+# Connectivity and representativeness of protected areas in the Araucaria Moist Forest ecoregion
 
 <h2 style="color: gray; font-weight: normal;">
-Realizado por: Angie Penagos
+Made by: Angie Penagos
 </h2>
 
 ---
 
-# Proyecto
+# Project
 <br>
 
 <iframe 
