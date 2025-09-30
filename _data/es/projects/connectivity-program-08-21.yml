@@ -1,0 +1,203 @@
+- name: Agalychnis terranova 
+  students: Julián David Ruiz Gómez
+  link: "/projects/2025-08-connectivity/agalychbis-terranova.html"
+
+- name: ANALISIS DE LA CONECTIVIDAD DE UN CONJUNTO DE ÁREAS NATURALES PROTEGIDAS DE EL SALVADOR.
+  students: Elvert Antonio Parada Palacios
+  link: "/projects/2025-08-connectivity/el-salvador.html"
+
+- name: ANÁLISIS DE LA CONECTIVIDAD Y EL ESTADO DE PROTECCIÓN DE LA ECORREGIÓN DE BOSQUES HÚMEDOS ESTACIONALES DE COSTA RICA
+  students: Hersson Ramírez Molina
+  link: "/projects/2025-08-connectivity/bosques_humedos_CR.html"
+
+- name: Análisis de conectividad ecológica aplicado a Melipona beecheii
+  students: César Hernández Hernández
+  link: "/projects/2025-08-connectivity/melipona-beecheii.html"
+
+- name: Análisis de la Conectividad Ecológica en la Caatinga 
+  students: Cristian Retete 
+  link: "/projects/2025-08-connectivity/caatinga.html"
+
+- name: Análisis de la Conectividad Funcional del Hábitat de Leopardus pardalis en la Sierra Norte de Puebla, México, utilizando el paquete Makurhini en R
+  students: Lemus Rincón Sergio 
+  link: "/projects/2025-08-connectivity/leopardus-pardalis.html"
+
+- name: Áreas naturales protegidas (ANPs) del Desierto de Chihuahua
+  students: Jorge Ramirez
+  link: "/projects/2025-08-connectivity/desert-chihuahua.html"
+
+- name: Áreas Naturales Protegidas en México
+  students: Isabel Hernández
+  link: "/projects/2025-08-connectivity/apn-mexico.html"
+
+- name: Atenas, Alajuela
+  students: Milena Cambronero Quesada
+  link: "/projects/2025-08-connectivity/atenas.html"
+
+- name: Bosque Mesófilo de Montaña
+  students: María Jesús Pérez Hernández 
+  link: "/projects/2025-08-connectivity/mesofilo-forest.html"
+
+- name: Bosques Montanos de Talamanca
+  students: Sylvia Rodríguez Abarca
+  link: "/projects/2025-08-connectivity/talamanca-forest.html"
+
+- name: Carmen de Areco
+  students: Glenda Ahamendaburo
+  link: "/projects/2025-08-connectivity/Carmen_areco.html"
+
+- name: Caso de estudio aplicando el paquete Makurhini de R – enfocadado en el análisis de paisaje del Parque Nacional Serra da Capivara
+  students: Maria Andrea Lizcano 
+  link: "/projects/2025-08-connectivity/makurhikini-pack.html"
+
+- name: "Caso de estudio: ecorregiones del Perú, Puna Central de los Andes"
+  students: César Luque
+  link: "/projects/2025-08-connectivity/puna-central.html"
+
+- name: Conectividad  del  paisaje  para  Tayassu  pecari  en  el  Área  de  Influencia  de  la Hidroeléctrica Urrá I, Córdoba, Colombia
+  students: Julio Chachón
+  link: "/projects/2025-08-connectivity/urra-i-colombia.html"
+
+- name: Conectividad ecológica en parches de bosque caatinga, Parque Nacional da Serra da Capivara, Brasil, usando Makurhini
+  students: Isabella Castellón
+  link: "/projects/2025-08-connectivity/caatinga-capivara-makurhini.html"
+
+- name: Conectividad Ecológica en la Caatinga (Brasil)
+  students: Hector Reyes
+  link: "/projects/2025-08-connectivity/caatinga_Brasil.html"
+
+- name: Conectividad en el Parque Nacional da Serra da Capivara (Piauí, Brasil)
+  students: Hugo Alexander Benjumea Ochoa
+  link: "/projects/2025-08-connectivity/connectividad-capivara-Brasil.html"
+
+- name: Conectividad y representatividad de las áreas protegidas en la ecorregión Araucaria Moist Forest
+  students: Angie Penagos
+  link: "/projects/2025-08-connectivity/araucaria_moist_forest.html"
+
+- name: CONECTIVIDAD Y FRAGMENTACIÓN DEL ESTADO DE MÉXICO
+  students: Clarita Rodríguez Soto
+  link: "/projects/2025-08-connectivity/estado-mexico.html"
+
+- name: "Cobertura Forestal de Guatemala: Conectividad y perspectivas"
+  students: Mayra Maldonado
+  link: "/projects/2025-08-connectivity/cobertura-forestal-guatemala.html"
+
+- name: Corredor Bioclimático
+  students: Homero Bennet
+  link: "/projects/2025-08-connectivity/corredor_bioclimatico.html"
+
+- name: Dinámica temporal del ECA (2008–2022) y priorización de conservación y restauración de bosques en Quito, 2022
+  students: Caiza Ricardo
+  link: "/projects/2025-08-connectivity/temporal-dinamic-quito.html"
+
+- name: Ecorregiones de biomas boscosos
+  students: Sylvia Ruiz
+  link: "/projects/2025-08-connectivity/ecorregiones-biomas-boscosos.html"
+
+- name: Ecorregiones del Perú
+  students: NIKKI CHOQUECOTA
+  link: "/projects/2025-08-connectivity/ecco_peru.html"
+
+- name: Ecorregión el Espinal, Argentina
+  students: María Pilar Giovanetti
+  link: "/projects/2025-08-connectivity/ecorregion-espiral.html"
+
+- name: Ecosistemas altoandinos de Colombia
+  students: Fiorella Valentina Lora Niño
+  link: "/projects/2025-08-connectivity/altoandinos-colombia.html"
+
+- name: Efectos de la fragmentación y la conectividad en la diversidad de reptiles en paisajes de la Sierra Madre del Sur, Oaxaca, Mexico
+  students: Daniel G. Ramírez Arce
+  link: "/projects/2025-08-connectivity/oaxaca-mexico.html"
+
+- name: El bosque Caatinga
+  students: Fernando Camargo García
+  link: "/projects/2025-08-connectivity/white-forest.html"
+
+- name: El Bosque Montano de la Cordillera Oriental 
+  students: Julián Avila-Jiménez
+  link: "/projects/2025-08-connectivity/montano-forest-oriental.html"
+
+- name: El  papel  de  las  áreas  destinadas  voluntariamente  a  la  conservación  en  la conectividad del paisaje en la Península de Yucatán, México
+  students: Cristian Iván Hernández Herrera
+  link: "/projects/2025-08-connectivity/yucatan-mexico.html"
+
+- name: Evaluación de la conectividad del Sistema Nacional de Áreas Protegidas de Nicaragua
+  students: Armando Dans
+  link: "/projects/2025-08-connectivity/nicaragua.html"
+
+- name: Evaluar el aporte de la restauración ecológica, tras 18 años de gestión en los páramos del Distrito Metropolitano de Quito
+  students: Viviana Toapanta E
+  link: "/projects/2025-08-connectivity/distrito-metropolitano-quito.html"
+
+- name: Fragmentación de la cobertura de boscosa e incidencia en la dispersión del Oso andino (Tremarctos ornatus) en los municipios de Vélez y Chipatá, Santander, Colombia.
+  students: José Santiago Piñeros Molano, Fredy Alexander Chacón Pardo
+  link: "/projects/2025-08-connectivity/tremarctos-ornatus.html"
+
+- name: Fragmentación del Parque Nacional da Serra da Capivara 
+  students: Ketty Milagros Chávez Arzapalo
+  link: "/projects/2025-08-connectivity/fragmentation-capivara.html"
+
+- name: Indice de fragmentación
+  students: Diego Hernández
+  link: "/projects/2025-08-connectivity/fragmentation.html"
+
+- name: Índices de Conectividad y Fragmentación
+  students: Edgar Antonio Ortega Lozada
+  link: "/projects/2025-08-connectivity/connectivity-fragmentation.html"
+
+- name: Importancia relativa de los bosques urbanos en la conectividad ecológica de la Ciudad de Bogotá, Colombia y sus alrededores
+  students: Didier Alonso Quimbay-Galindo
+  link: "/projects/2025-08-connectivity/ciudad-bogota-colombia.html"
+
+- name: Informe de Conectividad del Hábitat de las Ecorregiones del Banco Mundial de Biodiversidad 
+  students: Alexander Barrantes Herrera 
+  link: "/projects/2025-08-connectivity/habitat_ecorregiones.html"
+
+- name: Parches de bosque en latinoamérica
+  students: Vanessa Cortez
+  link: "/projects/2025-08-connectivity/bosques-latinomamerica.html"
+
+- name: "Parque Nacional da Serra da Capivara: fragmentación y conectividad"
+  students: Alexandra Cravino
+  link: "/projects/2025-08-connectivity/Serra-da-capivara.html"
+
+- name: Parque Nacional da Serra da Capivara y su zona de influencia
+  students: Vanessa Morales Cerdas
+  link: "/projects/2025-08-connectivity/capivara-influencia.html"
+
+- name: Parque Nacional Serra da Capivara 
+  students: Mauricio Matoma
+  link: "/projects/2025-08-connectivity/nationa-park-serra-mm.html"
+
+- name: Parque Nacional Serra da Capivara (PNSC) (Piauí, Brasil)
+  students: Felipe Ramirez
+  link: "/projects/2025-08-connectivity/piaui-brasil.html"
+
+- name: Parque Nacional “Serra da Capivara”
+  students: Katherine Bombi Haedo
+  link: "/projects/2025-08-connectivity/national-park-serra.html"
+
+- name: PARQUE TECNOLÓGICO AMBIENTAL LA ESMERALDA PROYECTO DE AMPLIACIÓN DEL RELLENO SANITARIO LA ESMERALDA
+  students: Juliana Cerón Cardona
+  link: "/projects/2025-08-connectivity/rellano-sanitario-esneralda.html"
+
+- name: Prioridades de Conservación y Restauración para las Áreas Protegidas del Cantón Quito, Provincia de Pichincha, Ecuador
+  students: Gino Guachamín
+  link: "/projects/2025-08-connectivity/pichincha-ecuador.html"
+
+- name: Que  áreas  prioritárias  para  a  conservação do Pampa ocorrente no Brasil  devem  ter  a  conectividade  entre  elas  priorizada?  Uma abordagem multitáxon
+  students: José Ricardo Inacio Ribeiro
+  link: "/projects/2025-08-connectivity/pampa-brasil-conectividade.html"
+
+- name: Sierra de Las Cruces
+  students: Karen Muro
+  link: "/projects/2025-08-connectivity/sierra-cruces.html"
+
+- name: Transformación La Caatinga
+  students: Pablo Alejandro Sierra Herrera.
+  link: "/projects/2025-08-connectivity/transformation-caatinga.html"
+
+- name: Transformación de la conectividad en la cuenca del Catatumbo desde el auge del conflicto armado interno (1985) hasta la actualidad (2023)
+  students: Violeta Mirabai Cabrera Álvarez
+  link: "/projects/2025-08-connectivity/cuenca-catatumbo.html"

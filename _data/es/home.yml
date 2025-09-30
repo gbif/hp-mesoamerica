@@ -133,9 +133,9 @@ courses:
       background: "{{ site.data.es.images.ficus.src }}"
       imageLicense: "{{ site.data.es.images.ficus.caption }}"
       cta:
-        #- text: Proyectos
-        #  href: #
-        #  isPrimary: true
+        - text: Proyectos
+          href: /projects/connectivity_program
+          isPrimary: true
         - text: Programa
           href: /courses/connectivity-program
         - text: Material
