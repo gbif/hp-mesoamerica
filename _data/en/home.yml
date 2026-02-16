@@ -25,7 +25,7 @@ info:
   title: "Information"
   description: | # required
     <p style="font-size: 16px; text-align: justify;">The objective of the Data Science Network for the Conservation of Mesoamerican Biodiversity is to propose solutions to conservation problems through data science, with a strong component of capacity building and empowerment of women in the region. 
-    This project will strengthen alliances between institutions in the Mesoamerican region, learn about some of the needs of the participants associated with the sustainable use and conservation of biodiversity, implement an open data portal that integrates data and information on biodiversity and strengthen capacities in data science issues to support the development of science.  education and biodiversity conservation, giving priority to the most vulnerable groups of the Mesoamerican population.</p>
+    Redbioma will strengthen alliances between institutions in the Mesoamerican region, learn about some of the needs of the participants associated with the sustainable use and conservation of biodiversity, promote the use of the open data portal about biodiversity and strengthen capacities in data science issues to support the development of science, education and biodiversity conservation, giving priority to the most vulnerable groups of the Mesoamerican population.</p>
   # img required
   background: assets/images/banners/fo_Info_Chlorophyllum_molybdites_LC.jpg
   imageLicense: |

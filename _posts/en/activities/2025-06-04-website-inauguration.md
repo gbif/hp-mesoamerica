@@ -46,7 +46,7 @@ An initiative that brings together data science, biodiversity conservation, and 
   </tr>
   <tr>
     <td>10:00 - 10:20</td>
-    <td>Welcome and project overview</td>
+    <td>Welcome and Redbioma overview</td>
     <td>María Mora</td>
   </tr>
   <tr>

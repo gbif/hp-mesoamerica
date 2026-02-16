@@ -19,7 +19,7 @@ cta:
 <div style="text-align: justify">
 The network's goal is to propose solutions to conservation problems through data science, with a strong focus on capacity building and empowering women in the region.
 <br><br>
-This project will strengthen partnerships among institutions in the Mesoamerican region, identify some of the participants' needs related to the sustainable use and conservation of biodiversity, implement an open data portal that integrates data and information on biodiversity, and enhance capacities in data science to support the development of science, education, and biodiversity conservation, prioritizing the most vulnerable groups in the Mesoamerican population.
+Redbioma  will strengthen partnerships among institutions in the Mesoamerican region, identify some of the participants' needs related to the sustainable use and conservation of biodiversity,  promote the use of the open data portal about biodiversity, and enhance capacities in data science to support the development of science, education, and biodiversity conservation, prioritizing the most vulnerable groups in the Mesoamerican population.
 </div>
 
 ## General

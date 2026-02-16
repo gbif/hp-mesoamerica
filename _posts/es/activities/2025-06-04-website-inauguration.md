@@ -50,7 +50,7 @@ Una iniciativa que une la ciencia de datos, la conservación y el desarrollo de 
   </tr>
   <tr>
     <td>10:00 - 10:20</td>
-    <td>Bienvenida al evento y breve síntesis del proyecto</td>
+    <td>Bienvenida al evento y breve síntesis de la historia de Redbioma</td>
     <td>María Auxiliadora Mora</td>
   </tr>
   <tr>
