@@ -1,0 +1,20 @@
+# CSUCA
+- name: "Consejo Superior Universitario Centroamericano"
+  acronym: "(CSUCA)" # Nuevo campo opcional
+  logo: "/assets/images/logos/ico_CSUCA.png"
+  link: "https://csuca.org/"
+# IDRC
+- name: "International Development Research Centre"
+  acronym: "(IDRC)" # Nuevo campo opcional
+  logo: "/assets/images/logos/ico_IDR-CRDI.png"
+  link: "https://idrc-crdi.ca/es"
+# CTCAP
+- name: "Centro para la Promoción de la Micro y Pequeña Empresa en Centroamérica"
+  acronym: "(CTCAP)" # Nuevo campo opcional
+  logo: "/assets/images/logos/ico_CTCAP.png"
+  link: "https://www.sica.int/ctcap/inicio"
+# SICA
+- name: "Sistema de la Integración Centroamericana"
+  acronym: "(SICA)" # Nuevo campo opcional
+  logo: "/assets/images/logos/ico_SICA.png"
+  link: "https://www.sica.int/"

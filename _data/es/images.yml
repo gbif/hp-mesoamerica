@@ -133,3 +133,8 @@ coati:
   src: assets/images/banners/coati.jpg
   caption: |
     *White-nosed coati* Foto: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:White-nosed_coati_in_Costa_RIca.jpg).
+
+whale:
+  src: assets/images/banners/whale.png
+  caption: |
+    *Humpback whale tail* Foto: [Giles Laurent](https://upload.wikimedia.org/wikipedia/commons/3/3d/073_Humpback_whale_tail_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg).

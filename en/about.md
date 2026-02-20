@@ -37,7 +37,7 @@ To establish a Mesoamerican network of biodiversity observers and researchers to
 <ul>
     <li>Establish a Mesoamerican network of biodiversity observers and researchers to strengthen partnerships among institutions in the region and support the development of science, education, and biodiversity conservation.</li>
     <li>Evaluate and prioritize participants' needs related to the sustainable use and conservation of biodiversity in the Central American region.</li>
-    <li>Implement a Mesoamerican biodiversity portal using open-source software that integrates data from multiple sources to support research and conservation.</li>
+    <li> Promote the use of the open data portal about biodiversity and strengthen capacities in data science issues to support the development of science</li>
     <li>Enhance research capabilities among women in the Central American region through biodiversity data analysis workshops, programming language leveling courses, and the Data Science Program for professional development offered by the ITCR School of Computing.</li>
     <li>Strengthen capacities in community groups across Mesoamerica in using IT for the standardization, integration, publication, and analysis of biodiversity data.</li>
 </ul>
