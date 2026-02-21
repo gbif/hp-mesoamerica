@@ -46,6 +46,10 @@ columns:
   - name:
     description: |
       <a href="https://conap.gob.gt/"><img src="/assets/images/logos/ico_CONAP.png" width="80"></a>
+  # Escuela Geografia UCR
+  - name: 
+    description: |
+     <a href="https://geografia.fcs.ucr.ac.cr/index.php/es/"><img src="assets/images/logos/ico_geografia.JPG" width="125"></a>
   # Museo Entomológico de León Nicaragua (MEL)
   - name:
     description: |

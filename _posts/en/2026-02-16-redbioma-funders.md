@@ -1,21 +1,21 @@
 ---
 layout: heroImage
 title: Patrocinadores
-permalink: /funders
+permalink: /en/funders
 lang-ref: funders
 background: "{{ site.data.es.images.whale.src }}"
 imageLicense: "{{ site.data.es.images.whale.caption }}"
 height: 65vh
 ---
 
-# Patrocinadores
+# Funders
 
 <div style="text-align:center; width:100%; padding:1rem 0;">
   <table style="border-collapse:collapse; width:auto; min-width:420px; max-width:650px; margin:0 auto; background:#fff;">
     <thead>
       <tr style="background-color:#D2D9A3;">
         <th style="border-bottom:1px solid #aab89a; solid #aab89a; padding:8px 28px; color:black; text-align:center; font-size:1rem; width:180px;"></th>
-        <th style="border-bottom:1px solid #aab89a; padding:8px 28px; color:black; text-align:center; font-size:1rem;">Institución</th>
+        <th style="border-bottom:1px solid #aab89a; padding:8px 28px; color:black; text-align:center; font-size:1rem;">Institutions</th>
       </tr>
     </thead>
     <tbody>
