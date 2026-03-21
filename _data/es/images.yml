@@ -138,3 +138,18 @@ whale:
   src: assets/images/banners/whale.png
   caption: |
     *Humpback whale tail* Foto: [Giles Laurent](https://upload.wikimedia.org/wikipedia/commons/3/3d/073_Humpback_whale_tail_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg).
+
+pitahaya:
+  src: assets/images/banners/selenicereus_undatus.jpg
+  caption: |
+    *Selenicereus undatus.* Foto: Leila Calderón Gómez.
+
+sula:
+  src: assets/images/cards/lasaia_sula.jpg
+  caption: |
+    *Lasaia Sula* Foto: [Irene Weber](https://ecuador.inaturalist.org/photos/112880974).
+
+caiman: 
+  src: assets/images/banners/caiman.png
+  caption: |
+    *Spectacled caiman* Foto: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Spectacled_caiman_in_Costa_Rica_02.jpg)

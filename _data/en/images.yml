@@ -123,3 +123,29 @@ iguana:
   src: assets/images/cards/img_ficha_green_iguana.jpg
   caption: |
     *Green iguana* Photo: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Green_iguana_in_Costa_Rica_02.jpg).
+
+coati:
+  src: assets/images/banners/coati.jpg
+  caption: |
+    *White-nosed coati* Photo: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:White-nosed_coati_in_Costa_RIca.jpg).
+
+whale:
+  src: assets/images/banners/whale.png
+  caption: |
+    *Humpback whale tail* Photo: [Giles Laurent](https://upload.wikimedia.org/wikipedia/commons/3/3d/073_Humpback_whale_tail_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg).
+
+
+pitahaya:
+  src: assets/images/banners/selenicereus_undatus.jpg
+  caption: |
+    *Selenicereus undatus.* Photo: Leila Calderón Gómez.
+
+sula:
+  src: /assets/images/cards/lasaia_sula.jpg
+  caption: |
+    *Lasaia Sula* Photo: [Irene Weber](https://ecuador.inaturalist.org/photos/112880974).
+
+caiman: 
+  src: assets/images/banners/caiman.png
+  caption: |
+    *Spectacled caiman* Photo: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Spectacled_caiman_in_Costa_Rica_02.jpg)

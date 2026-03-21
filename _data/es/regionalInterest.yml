@@ -1,0 +1,19 @@
+- name: Optimización de modelos de lenguaje para la recuperación y generación segura de información sobre especies
+  description: |
+    Sistema de preguntas y respuestas sobre biodiversidad en español basado en RAG, que integra datos del INBio y BHL con modelos de lenguaje para generar respuestas precisas, contextualizadas y con nivel de certeza.
+  link: /optimization
+
+- name: Extracción de relaciones a partir de descripciones no estructuradas de especies utilizando TaxonNERD y Llama2 - 7B 
+  description: |
+    Proyecto de NLP que transforma descripciones ecológicas en datos estructurados, identificando relaciones presa-depredador mediante TaxoNERD y LLaMA2-7b sobre datos del INBio.
+  link: /research#taxonerd
+
+- name: Monitoreo de especies de Costa Rica a través de cámaras trampa y transformers
+  description: |
+   Identificación automática de especies animales en Costa Rica mediante cámaras trampa, usando modelos basados en transformers y MegaDetector entrenados sobre un dataset curado de imágenes del CEMEDE.
+  link: /research#trap-camera
+
+- name: Simulador de Ecosistemas utilizando Modelos Grandes de Lenguaje (LLM).
+  description: |
+    Simulador de ecosistemas basado en aprendizaje por refuerzo profundo y LLMs, donde agentes aprenden estrategias de supervivencia e interactúan en entornos 2D y potencialmente 3D.
+  link:  /research#ecosystem-llm

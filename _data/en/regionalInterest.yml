@@ -1,0 +1,19 @@
+- name: Optimization of language models for the retrieval and safe generation of information about species
+  description: |
+    A Spanish-language biodiversity question-answering system based on RAG, integrating data from INBio and BHL with language models to generate accurate, contextualized responses with confidence levels.
+  link: /en/optimization
+
+- name: Relationship extraction from unstructured species descriptions using TaxonNERD and LLaMA2 - 7B
+  description: |
+    An NLP project that transforms ecological descriptions into structured data, identifying predator-prey relationships using TaxoNERD and LLaMA2-7B on INBio data.
+  link: /en/research#taxonerd
+
+- name: Monitoring species in Costa Rica through camera traps and transformers
+  description: |
+    Automatic identification of animal species in Costa Rica using camera traps, leveraging transformer-based models and MegaDetector trained on a curated dataset of CEMEDE images.
+  link: /en/research#trap-camera
+
+- name: Ecosystem Simulator Using Large Language Models (LLM)
+  description: |
+    An ecosystem simulator based on deep reinforcement learning and LLMs, where agents learn survival strategies and interact in 2D and potentially 3D environments.
+  link: /en/research#ecosystem-llm
