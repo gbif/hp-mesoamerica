@@ -4,9 +4,11 @@
   href: /en/about
 - text: Collaboration
   href: /en/collaboration
+- text: Training
+  href: /en/training
 - text: Publications
   href: /en/publications
-- text: Regional Proyects
+- text: Regional proyects
   href: /en/regionalInterest
 - text: Credits
   href: /en/credits
@@ -22,11 +24,3 @@
       href: /en/dataset/search
     - text: Literature
       href: /en/literature/search
-- text: '<span class="js-hamburger-trigger"><i class="fa fa-bars"></i></span><script>window.addEventListener("DOMContentLoaded", function() { var t = document.querySelector(".js-hamburger-trigger"); var e = document.querySelector(".navbar-end"); if(t && e) { var i = t.closest(".navbar-item.has-dropdown") || t.closest(".navbar-item"); if(i) { e.appendChild(i); var d = i.querySelector(".navbar-dropdown"); if(d) d.classList.add("is-right"); } } });</script><style>.js-hamburger-trigger { padding: 0 5px; cursor: pointer; display: flex; align-items: center; height: 100%; top: 50%; } @media screen and (max-width: 1023px) { .js-hamburger-trigger { padding: 10px; } }</style>'
-  menu:
-    - text: Activities
-      href: /en/activities
-    - text: Courses
-      href: /en/courses
-    - text: Research
-      href: /en/research
