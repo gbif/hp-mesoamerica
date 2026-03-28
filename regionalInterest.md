@@ -10,6 +10,10 @@ height: 65vh
 
 # Proyectos de Interés Regional
 
+<div class="search-container">
+  <input type="text" id="projectSearch" placeholder="Buscar proyectos..." onkeyup="filterProjects()">
+</div>
+
 <style>
 table {
   width: 100%;
@@ -32,6 +36,27 @@ td {
 
 th {
   text-align: left;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+#projectSearch {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+#projectSearch:focus {
+  border-color: #ff5100;
+  outline: none;
 }
 </style>
 
@@ -57,3 +82,26 @@ th {
     {% endfor %}
   </tbody>
 </table>
+
+<script>
+function filterProjects() {
+  const input = document.getElementById('projectSearch');
+  const filter = input.value.toLowerCase();
+  const table = document.querySelector('table');
+  const tr = table.getElementsByTagName('tr');
+
+  for (let i = 1; i < tr.length; i++) {
+    const tdName = tr[i].getElementsByTagName('td')[0];
+    const tdDesc = tr[i].getElementsByTagName('td')[1];
+    if (tdName || tdDesc) {
+      const txtValueName = tdName.textContent || tdName.innerText;
+      const txtValueDesc = tdDesc.textContent || tdDesc.innerText;
+      if (txtValueName.toLowerCase().indexOf(filter) > -1 || txtValueDesc.toLowerCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
