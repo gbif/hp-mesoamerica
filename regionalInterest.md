@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-title: Proyectos de Interés Regional
+title: Proyectos de interés regional
 permalink: /regionalInterest
 lang-ref: regional-interest
 background: "{{ site.data.es.images.caiman.src }}"
@@ -8,7 +8,7 @@ imageLicense: "{{ site.data.es.images.caiman.caption }}"
 height: 65vh
 ---
 
-# Proyectos de Interés Regional
+# Proyectos de interés regional
 
 <div class="search-container">
   <input type="text" id="projectSearch" placeholder="Buscar proyectos..." onkeyup="filterProjects()">

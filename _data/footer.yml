@@ -49,7 +49,7 @@ columns:
   # UCR
   - name: 
     description: |
-     <a href="https://www.ucr.ac.cr/https://www.ucr.ac.cr/"><img src="/assets/images/logos/ico_ucr.png" width="90"></a>
+     <a href="https://www.ucr.ac.cr"><img src="/assets/images/logos/ico_ucr.png" width="90"></a>
   # Escuela Geografia UCR
   - name: 
     description: |
