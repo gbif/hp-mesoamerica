@@ -11,7 +11,7 @@
 - name: Monitoreo de especies de Costa Rica a través de cámaras trampa y transformers
   description: |
    Identificación automática de especies animales en Costa Rica mediante cámaras trampa, usando modelos basados en transformers y MegaDetector entrenados sobre un dataset curado de imágenes del CEMEDE.
-  link: /research#trap-camera
+  link: /camera-traps
 
 - name: Simulador de Ecosistemas utilizando Modelos Grandes de Lenguaje (LLM).
   description: |

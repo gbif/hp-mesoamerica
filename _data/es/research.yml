@@ -7,13 +7,6 @@ projects:
         La evaluación mostró resultados prometedores, con una precisión del 68%, un recall del 73% y un F1-score del 71%, destacando especialmente la capacidad del modelo para detectar relaciones clave en las descripciones de las especies. Como siguiente paso, se planea refinar aún más el modelo para mejorar su precisión y ampliar el alcance a otras relaciones ecológicas, fortaleciendo así su utilidad para futuras investigaciones en biodiversidad y esfuerzos de conservación ambiental.
     background: /assets/projectsIA/taxoNERD.png
 
-  - id: trap-camera
-    title: "Monitoreo de especies de Costa Rica a través de cámaras trampa y transformers"
-    description: |
-      El objetivo principal de este proyecto es facilitar la identificación de especies animales en Costa Rica, específicamente aquellas que se acercan al abrevadero del CEMEDE en la Universidad Nacional de Costa Rica, utilizando videos capturados por cámaras trampa. Para ello, se experimentó con modelos de clasificación de imágenes basados en arquitecturas transformers (DeiT, Swin-S y Efficient-ViT), seleccionados por su alto potencial de precisión y su escasa aplicación en este tipo de contextos. Además, se adaptó el modelo MegaDetector, un modelo reconocido por su capacidad de detección de animales en imágenes, con el fin de optimizar su rendimiento en las clases específicas de este estudio.
-      El dataset se construyó a partir de aproximadamente 26,000 imágenes extraídas de los videos, correspondientes a 44 clases de animales. Debido al desbalance de clases, se debió aplicar un proceso de undersampling para obtener entre 100 y 500 imágenes de 12 clases, excluyendo especies en peligro para preservar su seguridad. El conjunto final, compuesto por cerca de 6,000 imágenes, fue procesado con MegaDetector básico para extraer y recortar las regiones donde se encontraban los animales en cada imagen. Con estas imágenes recortadas se entrenaron los tres modelos transformer seleccionados y el MegaDetector ajustado, luego se comparó el desempeño de cada uno en la tarea de clasificación.
-    background: /assets/projectsIA/trapCamera.png
-
   - id: ecosystem-llm
     title: "Simulador de Ecosistemas utilizando Modelos Grandes de Lenguaje (LLM)."
     description: |

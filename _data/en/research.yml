@@ -7,13 +7,6 @@ projects:
         The evaluation showed promising results, with a precision of 68%, recall of 73%, and F1-score of 71%, particularly highlighting the model's ability to detect key relationships in species descriptions. As a next step, the model will be further refined to improve its accuracy and broaden its scope to other ecological relationships, thereby strengthening its usefulness for future biodiversity research and environmental conservation efforts.
     background: /assets/projectsIA/taxoNERD.png
 
-  - id: trap-camera
-    title: "Monitoring species in Costa Rica through camera traps and transformers"
-    description: |
-      The main goal of this project is to facilitate the identification of animal species in Costa Rica, specifically those approaching the waterhole at CEMEDE in the National University of Costa Rica, using videos captured by camera traps. To this end, experiments were conducted with image classification models based on transformer architectures (DeiT, Swin-S, and Efficient-ViT), chosen for their high potential accuracy and limited application in this type of context. Additionally, the MegaDetector model, recognized for its animal detection capabilities in images, was adapted to optimize its performance on the specific classes of this study.
-      The dataset was built from approximately 26,000 images extracted from the videos, corresponding to 44 animal classes. Due to class imbalance, an undersampling process had to be applied to obtain between 100 and 500 images of 12 classes, excluding endangered species to ensure their protection. The final dataset, composed of about 6,000 images, was processed with the basic MegaDetector to extract and crop the regions where animals appeared in each image. These cropped images were then used to train the three selected transformer models and the adjusted MegaDetector, after which their performance in the classification task was compared.
-    background: /assets/projectsIA/trapCamera.png
-
   - id: ecosystem-llm
     title: "Ecosystem Simulator Using Large Language Models (LLM)."
     description: |

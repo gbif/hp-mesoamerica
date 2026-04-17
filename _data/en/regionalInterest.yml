@@ -11,7 +11,7 @@
 - name: Monitoring species in Costa Rica through camera traps and transformers
   description: |
     Automatic identification of animal species in Costa Rica using camera traps, leveraging transformer-based models and MegaDetector trained on a curated dataset of CEMEDE images.
-  link: /en/research#trap-camera
+  link: /en/camera-traps
 
 - name: Ecosystem Simulator Using Large Language Models (LLM)
   description: |
