@@ -25,3 +25,10 @@
   year: "2024"
   conference: "Biodiversity Information Science and Standards 8: e142382"
   authors: "Fabricio Ríos Montero, Ervin Rodríguez Villanueva, María Mora Cross"
+
+#María Biarreta, Pamela Morataya, Emilia Víquez, María Mora, Adolfo Salinas, María López, William Gómez, Pável Bautista
+- title: "Monitoreo de biodiversidad con cámaras trampa en Costa Rica mediante MegaDetector y Vision Transformers"
+  doi: "https://doi.org/10.1109/BIP68491.2025.11489138"
+  year: "2025"
+  conference: "2025 IEEE 7th International Conference on BioInspired Processing (BIP)"
+  authors: "María Biarreta-Portillo, Pamela Morataya-Sandoval, Emilia Víquez-Mora, María Mora-Cross, Adolfo Salinas-Acosta, María López-Venegas, William Gómez-Solís, Pável Bautista-Solís"
