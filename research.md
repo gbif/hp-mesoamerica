@@ -58,11 +58,18 @@ html {
 
 <div class="projects-grid">
   {% for project in site.data.es.research.projects %}
+  {% if project.link %}
+    {% assign project_href = project.link %}
+  {% else %}
+    {% assign project_href = '#' | append: project.id %}
+  {% endif %}
   <div class="project-card" id="{{ project.id }}">
     <h2>
-      <a href="#{{ project.id }}">{{ project.title }}</a>
+      <a href="{{ project_href }}">{{ project.title }}</a>
     </h2>
-    <img src="{{ project.background }}" alt="{{ project.title }}">
+    <a href="{{ project_href }}">
+      <img src="{{ project.background }}" alt="{{ project.title }}">
+    </a>
     <p class="description">{{ project.description | newline_to_br }}</p>
   </div>
   {% endfor %}

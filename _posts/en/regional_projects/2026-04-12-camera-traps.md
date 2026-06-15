@@ -62,6 +62,7 @@ height: 65vh
 ### References
 
 - Biarreta-Portillo, M., Mora-Cross, M., Morataya-Sandoval, P., Salinas-Acosta, A., Víquez-Mora, E., López-Venegas, M., Gomez-Solís, W. & Bautista-Solís, P. (2025). *Deep Learning Pipelines for Biodiversity Monitoring: MegaDetector and Vision Transformer Approaches with Camera Traps in Costa Rica*.
+<a href="https://ieeexplore.ieee.org/document/11489138" target="_blank" rel="noopener noreferrer">https://ieeexplore.ieee.org/document/11489138</a>.
 
 - Salinas-Acosta, A., Lopez-Venegas, M., Biarreta-Portillo, M., Morataya-Sandoval, P., Víquez-Mora, E., Mora-Cross, M., Gomez-Solís, W. & Bautista-Solís, P. (2025). *redbioma/cemede-redbioma-ct*. Hugging Face.
 <a href="https://huggingface.co/datasets/redbioma/cemede-redbioma-ct/" target="_blank" rel="noopener noreferrer">https://huggingface.co/datasets/redbioma/cemede-redbioma-ct/</a>.

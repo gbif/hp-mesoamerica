@@ -9,8 +9,9 @@ projects:
 
   - id: ecosystem-llm
     title: "Ecosystem Simulator Using Large Language Models (LLM)."
+    link: /en/ecosystem-llm
     description: |
       This project seeks to develop an ecosystem simulator that models the interaction between multiple agents, resources, and the environment, using Deep Reinforcement Learning combined with advanced natural language models (LLM). Initially, a simplified 2D environment will be implemented using Python's Gym library, where various agents will learn optimal survival strategies through algorithms such as DQN, PPO, and A2C. In addition, advanced reasoning and interaction capabilities will be incorporated through an LLM (such as LLaMA 3), enabling intelligent decision-making, natural communication between agents, and generating understandable explanations of their actions.
       Subsequently, the possibility of scaling the simulator to a three-dimensional environment using Minecraft together with the MineRL library will be evaluated, exploring technical feasibility and documenting possible limitations or challenges. During development, several deliverables will be produced, including a complete code repository, technical reports on the architecture and algorithms used, as well as visual demonstrations of agent performance in both environments (2D and 3D).
       Finally, this project aims to offer not only a versatile simulation environment rich in biological interactions but also a robust platform to investigate emergent behaviors in multi-agent systems and explore innovative applications of artificial intelligence and natural language processing. The simulator will allow deeper studies of ecological dynamics while facilitating future research on the practical and effective integration between deep reinforcement learning and advanced generative language models.
-    background: /assets/projectsIA/llm.png
+    background: /assets/regionalInterest/ecosystemLLM/00-hero-llm.png

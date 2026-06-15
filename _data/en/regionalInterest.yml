@@ -16,4 +16,4 @@
 - name: Ecosystem Simulator Using Large Language Models (LLM)
   description: |
     An ecosystem simulator based on deep reinforcement learning and LLMs, where agents learn survival strategies and interact in 2D and potentially 3D environments.
-  link: /en/research#ecosystem-llm
+  link: /en/ecosystem-llm

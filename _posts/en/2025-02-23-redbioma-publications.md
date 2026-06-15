@@ -20,7 +20,8 @@ height: 65vh
     </tr>
   </thead>
   <tbody>
-    {% for p in site.data.en.redbioma-publications %}
+    {% assign sorted_publications = site.data.en.redbioma-publications | sort: "year" | reverse %}
+    {% for p in sorted_publications %}
     <tr>
         {% if p.doi == "" %}
             <td>{{ p.title }}</td>

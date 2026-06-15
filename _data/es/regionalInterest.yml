@@ -16,4 +16,4 @@
 - name: Simulador de Ecosistemas utilizando Modelos Grandes de Lenguaje (LLM).
   description: |
     Simulador de ecosistemas basado en aprendizaje por refuerzo profundo y LLMs, donde agentes aprenden estrategias de supervivencia e interactúan en entornos 2D y potencialmente 3D.
-  link:  /research#ecosystem-llm
+  link: /ecosystem-llm

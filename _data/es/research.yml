@@ -9,8 +9,9 @@ projects:
 
   - id: ecosystem-llm
     title: "Simulador de Ecosistemas utilizando Modelos Grandes de Lenguaje (LLM)."
+    link: /ecosystem-llm
     description: |
       Este proyecto busca desarrollar un simulador de ecosistemas que permita modelar la interacción entre múltiples agentes, recursos y el entorno, utilizando aprendizaje por refuerzo profundo (Deep Reinforcement Learning) combinado con modelos avanzados de lenguaje natural (LLM). Inicialmente, se implementará un entorno simplificado en 2D utilizando la biblioteca Gym de Python, en el cual diversos agentes aprenderán estrategias óptimas de supervivencia mediante algoritmos como DQN, PPO y A2C. Además, se incorporarán capacidades avanzadas de razonamiento e interacción mediante el uso de un modelo LLM (como LLaMA 3), facilitando la toma de decisiones inteligentes, comunicación natural entre agentes y generando explicaciones comprensibles de sus acciones.
       Posteriormente, se evaluará la posibilidad de escalar el simulador a un entorno tridimensional utilizando Minecraft junto con la biblioteca MineRL, explorando la viabilidad técnica y documentando posibles limitaciones o desafíos. Durante el desarrollo se elaborarán varios productos entregables, incluyendo un repositorio de código completo, informes técnicos sobre la arquitectura y algoritmos empleados, así como demostraciones visuales del funcionamiento de los agentes en ambos entornos (2D y 3D).
       Finalmente, este proyecto pretende ofrecer no solo un ambiente de simulación versátil y rico en interacciones biológicas, sino también una plataforma robusta para investigar comportamientos emergentes en sistemas multiagente y explorar aplicaciones innovadoras de inteligencia artificial y procesamiento de lenguaje natural. El simulador permitirá estudios más profundos sobre dinámicas ecológicas, facilitando además futuras investigaciones en la integración práctica y efectiva entre aprendizaje por refuerzo profundo y modelos generativos de lenguaje avanzado.
-    background: /assets/projectsIA/llm.png
+    background: /assets/regionalInterest/ecosystemLLM/00-hero-llm.png
