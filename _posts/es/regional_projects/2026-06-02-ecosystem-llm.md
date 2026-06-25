@@ -177,6 +177,21 @@ height: 65vh
   border: 1px solid #d8e2ea;
 }
 
+.ecosystem-reading-note {
+  margin-top: 14px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: #edf5fb;
+  border: 1px solid #d5e3ef;
+  color: #244355;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.ecosystem-reading-note strong {
+  color: #124f6a;
+}
+
 .ecosystem-placeholder small {
   display: block;
   margin-top: 8px;
@@ -302,6 +317,7 @@ height: 65vh
             <small>Sugerencia de archivo: <code>04-progreso-2000-episodios.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>Cómo leerla:</strong> los paneles de la izquierda muestran el valor por iteración y su media móvil, mientras que los de la derecha resumen el promedio acumulado. Si las curvas de recompensa y longitud suben con el entrenamiento, los agentes están mejorando su desempeño.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Retorno</span>
@@ -314,6 +330,7 @@ height: 65vh
             <small>Sugerencia de archivo: <code>05-retorno-por-agente.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>Cómo leerla:</strong> cada línea representa un agente distinto. Las líneas punteadas corresponden a los herbívoros y las continuas a los depredadores; cuanto más alto es el retorno, mayor fue la recompensa obtenida por ese agente.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Supervivencia</span>
@@ -326,6 +343,7 @@ height: 65vh
             <small>Sugerencia de archivo: <code>06-supervivencia-por-rol.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>Cómo leerla:</strong> aquí se comparan retorno, longitud, supervivencia y <em>critical ratio</em> entre herbívoros y depredadores. La supervivencia aparece plana porque ningún agente logra completar los 350 pasos del episodio en esta etapa del entrenamiento.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Duración</span>
@@ -338,6 +356,7 @@ height: 65vh
             <small>Sugerencia de archivo: <code>07-longitud-por-agente.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>Cómo leerla:</strong> igual que en el gráfico de retorno, cada línea representa un agente y el estilo de línea separa herbívoros de depredadores. Valores más altos significan que el agente resistió más pasos antes de morir.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Causas de muerte</span>
@@ -350,6 +369,7 @@ height: 65vh
             <small>Sugerencia de archivo: <code>08-causas-de-muerte.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>Cómo leerla:</strong> cada panel corresponde a un rol y cada color indica una causa de terminación distinta. La curva que queda más arriba marca la causa de muerte dominante en ese tramo del entrenamiento.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Recursos</span>
@@ -362,11 +382,12 @@ height: 65vh
             <small>Sugerencia de archivo: <code>09-recursos-por-rol.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>Cómo leerla:</strong> las cuatro curvas comparan el promedio normalizado de comida y agua para ambos roles. Una línea más alta indica que ese grupo consiguió más de ese recurso durante los episodios.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Ataques</span>
         <h3>Umbral de activación táctica</h3>
-        <p>A partir de aproximadamente el episodio 1100 aumenta la cantidad de ataques realizados por los depredadores. Este cambio es consistente con la aparición de conductas más activas de caza en las demás métricas.</p>
+        <p>A partir de aproximadamente la iteración 1100 aumenta la cantidad de ataques realizados por los depredadores. Este cambio es consistente con la aparición de conductas más activas de caza en las demás métricas.</p>
         <img class="ecosystem-image" src="/assets/regionalInterest/ecosystemLLM/10-ataques-por-episodio.jpg" alt="Cantidad de ataques acertados y fallidos" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
         <div class="ecosystem-placeholder is-hidden">
           <div>
@@ -374,6 +395,7 @@ height: 65vh
             <small>Sugerencia de archivo: <code>10-ataques-por-episodio.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>Cómo leerla:</strong> la línea azul cuenta los ataques intentados, la naranja los acertados y la verde los que terminaron en muerte. El salto a partir de alrededor de la iteración 1100 sugiere un cambio claro en la conducta de caza.</p>
       </div>
     </div>
   </div>

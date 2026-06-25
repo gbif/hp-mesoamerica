@@ -177,6 +177,21 @@ height: 65vh
   border: 1px solid #d8e2ea;
 }
 
+.ecosystem-reading-note {
+  margin-top: 14px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: #edf5fb;
+  border: 1px solid #d5e3ef;
+  color: #244355;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.ecosystem-reading-note strong {
+  color: #124f6a;
+}
+
 .ecosystem-placeholder small {
   display: block;
   margin-top: 8px;
@@ -302,6 +317,7 @@ height: 65vh
             <small>Expected filename: <code>04-progreso-2000-episodios.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>How to read it:</strong> the left panels show the per-iteration signal and its moving average, while the right panels summarize the cumulative average. When reward and episode length trend upward, the agents are improving over training.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Return</span>
@@ -314,6 +330,7 @@ height: 65vh
             <small>Expected filename: <code>05-retorno-por-agente.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>How to read it:</strong> each line represents a different agent. Dotted lines correspond to herbivores and solid lines to predators; higher return means that agent earned more reward.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Survival</span>
@@ -326,6 +343,7 @@ height: 65vh
             <small>Expected filename: <code>06-supervivencia-por-rol.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>How to read it:</strong> this figure compares return, episode length, survival, and critical ratio for herbivores and predators. The survival curve stays flat because no agent reaches the full 350-step episode limit at this stage of training.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Episode length</span>
@@ -338,6 +356,7 @@ height: 65vh
             <small>Expected filename: <code>07-longitud-por-agente.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>How to read it:</strong> as in the return chart, each line represents one agent and the line style separates herbivores from predators. Higher values mean that the agent survived more steps before dying.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Causes of death</span>
@@ -350,6 +369,7 @@ height: 65vh
             <small>Expected filename: <code>08-causas-de-muerte.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>How to read it:</strong> each panel corresponds to one role and each color marks a different termination cause. The highest curve at a given point shows the dominant cause of death in that part of training.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Resources</span>
@@ -362,11 +382,12 @@ height: 65vh
             <small>Expected filename: <code>09-recursos-por-rol.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>How to read it:</strong> the four curves compare normalized averages for food and water across both roles. A higher line means that group obtained more of that resource during the episodes.</p>
       </div>
       <div class="ecosystem-metric">
         <span class="tag">Attacks</span>
         <h3>Tactical activation threshold</h3>
-        <p>From roughly episode 1100 onward, the number of predator attacks increases noticeably. That shift is consistent with the emergence of more active hunting behaviors in the other metrics.</p>
+        <p>From roughly iteration 1100 onward, the number of predator attacks increases noticeably. That shift is consistent with the emergence of more active hunting behaviors in the other metrics.</p>
         <img class="ecosystem-image" src="/assets/regionalInterest/ecosystemLLM/10-ataques-por-episodio.jpg" alt="Successful and unsuccessful attacks over time" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
         <div class="ecosystem-placeholder is-hidden">
           <div>
@@ -374,6 +395,7 @@ height: 65vh
             <small>Expected filename: <code>10-ataques-por-episodio.jpg</code></small>
           </div>
         </div>
+        <p class="ecosystem-reading-note"><strong>How to read it:</strong> the blue line counts attempted attacks, the orange line counts successful hits, and the green line counts attacks that ended in a kill. The jump around iteration 1100 suggests a clear shift in hunting behavior.</p>
       </div>
     </div>
   </div>
